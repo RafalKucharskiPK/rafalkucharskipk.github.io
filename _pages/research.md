@@ -4,6 +4,7 @@ title: research
 permalink: /research/
 description: Basic info and references to our grants, significant current and past research and finally ride-pooling our main current stream of research.
 nav: true
+order: 6
 display_categories: [grants, varia, pooling]
 horizontal: false
 ---
