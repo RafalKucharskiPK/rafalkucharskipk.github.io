@@ -2,7 +2,7 @@
 layout: about, archive-category, archive-tag, archive-year, bib, default, distill, none, page, post
 title: projects
 nav: true
-nav_order: 8
+order: 4
 dropdown: true
 children:
   - title: COeXISTENCE
