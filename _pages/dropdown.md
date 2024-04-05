@@ -1,6 +1,7 @@
 ---
 layout: about, archive-category, archive-tag, archive-year, bib, default, distill, none, page, post
 title: projects
+published: true
 nav: true
 order: 4
 dropdown: true

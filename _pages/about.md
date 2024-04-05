@@ -4,11 +4,11 @@ title: <strong>Rafał Kucharski </strong>
 permalink: /
 nav: false
 description: Assistant Professor, Jagiellonian University, Krakow, Poland
-order: 1
+order: 0
 profile:
   align: right
   image: me.png
-
+published: true
 
 news: false  # includes a list of news items
 x: true # includes posts from X platform

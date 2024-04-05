@@ -7,7 +7,9 @@ nav: true
 order: 6
 display_categories: [grants, varia, pooling]
 horizontal: false
+published: true
 ---
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
