@@ -6,7 +6,7 @@ description: Our research group
 nav: true
 order: 3
 published: true
-display_categories: [team, alumni]
+display_categories: [team, alumni, former]
 horizontal: false
 ---
 
