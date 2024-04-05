@@ -4,7 +4,7 @@ title: Usman Akthar
 description: Post Doc in computational complexity of ride-pooling problems.
 img: assets/img/usman.jpg
 importance: 4
-category: team
+category: former
 ---
 
 
