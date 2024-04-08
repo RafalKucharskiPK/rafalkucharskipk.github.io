@@ -30,6 +30,9 @@ layout: default
     </div>
     {{ content }}
     
+    {% if page.selected_papers %}
+      {% include selected_papers.html %}
+    {% endif %}
   </article>
 
 </div>
