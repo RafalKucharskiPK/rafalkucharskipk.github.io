@@ -1,6 +1,7 @@
 ---
 layout: member
 title: Olha Shulika
+surname: Shulika
 description: Post Doc in ride-pooling for the Post-Pandemic Reality
 img: assets/img/olha_shulika.jpg
 importance: 3
