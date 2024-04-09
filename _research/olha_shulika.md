@@ -18,7 +18,6 @@ I am an Assistant Professor at the Faculty of Mathematics and Computer Science o
 
 My primary area of interest is the implementation of more sustainable and efficient transportation systems to improve living conditions in cities. With my background in the transportation area and experience in data analysis and programming, I work with a simulation model, Dataset, Python Library used to plot data. I have many years of experience in complex logistic system research and urban mobility, as well as scientific project management.  
 
-**List of main publications and preprints**
 
 
 [Linkedin](www.linkedin.com/in/olha-shulika)
