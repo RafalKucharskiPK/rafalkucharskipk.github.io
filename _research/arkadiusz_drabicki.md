@@ -5,6 +5,7 @@ description: PhD in real-time crodwing information for public transport
 img: assets/img/arek.jpeg
 importance: 1
 category: alumni
+author: Drabicki
 ---
 
 * [Akradiusz Drabicki](https://www.researchgate.net/profile/Arkadiusz-Drabicki) - co-supervised by prof. Oded Cats (TU Delft) and prof. Andrzej Szarata (CUT Krakow). 
