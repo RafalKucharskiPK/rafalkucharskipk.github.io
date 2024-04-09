@@ -5,6 +5,7 @@ description: PhD student in network structures of shareability graphs.
 img: assets/img/michal.png
 importance: 2
 category: team
+author: Bujak
 ---
 
 Graduate of applied mathematics at bachelor's and master's levels. 
