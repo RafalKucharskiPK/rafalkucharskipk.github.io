@@ -6,8 +6,7 @@ img: assets/img/farnoud.jpeg
 importance: 1
 category: team
 author: Psarou
-bio: My name is Anastasia Psarou. I am a PhD student currently working as part of the COeXISTENCE team towards training machines to drive better than humans using Reinforcement
-Learning. I earned my master’s degree in Electrical and Computer Engineering at the University of Thessaly in Greece, specializing in software development and artificial intelligence.
+bio: My name is Anastasia Psarou. I am a PhD student currently working as part of the COeXISTENCE team towards training machines to drive better than humans using Reinforcement Learning. I earned my master’s degree in Electrical and Computer Engineering at the University of Thessaly in Greece, specializing in software development and artificial intelligence.
 ---
 
 1. My name is Anastasia Psarou. I am a PhD student currently working as part of the COeXISTENCE team towards training machines to drive better than humans using Reinforcement Learning. I earned my master’s degree in Electrical and Computer Engineering at the University of Thessaly in Greece, specializing in software development and artificial intelligence. Beyond my academic pursuits, I enjoy travelling and immersing myself in nature through activities like hiking. 
