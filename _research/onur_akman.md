@@ -2,7 +2,6 @@
 layout: member
 title: Onur Akman
 description: PhD student in dynamics of two-sided mobility markets
-img: assets/img/akman.jpeg
 importance: 1
 category: team
 author: Akman
