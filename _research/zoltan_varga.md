@@ -2,7 +2,6 @@
 layout: member
 title: Zoltan Varga
 description: PhD in real-time crodwing information for public transport
-img: assets/img/michal.png
 importance: 1
 category: team
 author: Varga
