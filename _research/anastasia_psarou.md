@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Anastasia Psarou
-description: PhD student in dynamics of two-sided mobility markets.
+description: PhD student in dynamics of two-sided mobility markets
 img: assets/img/farnoud.jpeg
 importance: 1
 category: team
