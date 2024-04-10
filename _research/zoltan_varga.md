@@ -15,4 +15,4 @@ bio: I am a PhD student currently working as part of the COeXISTENCE team. I ach
 
 [Github](https://github.com/kistref)
 
-[Linkedin](https://www.linkedin.com/in/zoltán-györgy-varga-832aa01b0) 
+[Linkedin](https://www.linkedin.com/in/zoltan-gyorgy-varga-832aa01b0) 

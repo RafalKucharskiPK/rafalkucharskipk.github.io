@@ -21,6 +21,5 @@ My primary area of interest is the implementation of more sustainable and effici
 
 
 [Linkedin](www.linkedin.com/in/olha-shulika)
-
 [ORCID](https://orcid.org/0000-0002-1912-1115) 
 
