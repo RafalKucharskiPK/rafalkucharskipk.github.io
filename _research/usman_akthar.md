@@ -17,9 +17,11 @@ persistence.
 2. Adjunct (assistant professor) at Jagiellonian University (May 2022 - January 2024), where I researched complex social systems such as urban mobility. Always curious about technological innovations and therefore earned a Ph.D. in Computer Science & Engineering. Strives for a complete understanding of Cloud Computing/Big Data and is always anxious to learn something new. Enjoys writing small programs in free time, either to automate everyday problems or simply for the sake of fun and is excited by the seemingly endless possibilities. My research interests and competencies encompass application aspects of distributed systems, cloud computing and Cloud-centric Data Acquisition. I focused on enabling cloud for data acquisition, synchronization and persistence. 
 
 	My Research Focus: 
+	
 	Cloud-centric IoT | Data Acquisition & Curation | Cloud Computing | Wellness-based Ubiquitous Platforms | Performance-based Applications | Software Engineering & Architecture | Parallel & Distributed Systems | Urban Mobility. 
 
 3. International Journal Papers
+
 	+ Usman Akhtar, Anita Sant’Anna, Chang-Ho Jihn, Muhammad Asif Razzaq, Jaehun Bang and Sungyoung Lee, "A cache-based method to improve query performance of linked Open Data cloud", Computing (SCI, IF:2.063), 2020 
 
 	+ Usman Akhtar, Anita Sant’Anna and Sungyoung Lee, "A Dynamic, Cost-Aware, Optimized Maintenance Policy for Interactive Exploration of Linked Data", Applied Sciences (SCIE, IF: 2.217), Volume 9, No 22, 2019. 
@@ -37,6 +39,7 @@ persistence.
 	+ Muhammad Bilal Amin, Oresti Banos, Wajahat Ali Khan, Hafiz Syed Muhammad Bilal, Jinhyuk Gong, Dinh-Mao Bui, Soung Ho Cho, Shujaat Hussain, Taqdir Ali, Usman Akhtar, Tae Choong Chung and Sungyoung Lee, "On Curating Multimodal Sensory Data for Health and Wellness Platforms", Sensors (SCIE, IF: 2.033), vol. 16,no.7, doi:10.3390/s16070980 , 2016. 
 
 4. International Conference Papers
+
 	+ Usman Akhtar, and Rafal Kucharski. "Exploring Computational Complexity Of RidePooling Problems." TRB, USA (2022). 
 
 	+ Usman Akhtar, Jong Won Lee, Hafiz Syed Muhammad Bilal, Taqdir Ali, Wajahat Ali Khan and Sungyoung Lee, "The Impact of Big Data In Healthcare Analytics", The 34th International Conference on Information Networking (ICOIN 2020), Barcelona, Spain , 7-10 Jan, 2020 
@@ -56,6 +59,7 @@ persistence.
 	+ Usman Akhtar, Asad Masood Khattak and Sungyoung Lee, "Challenges in Managing Real-Time Data in Health Information System (HIS)", 14th International Conference on Smart Homes and Health Telematics (ICOST), Inclusive Smart Cities and Digital Health, pp 305-313, Wuhan, China, May 25-27, 2016. 
 
 5. Domestic Conferences (Korean)
+
 	+ Usman Akhtar, Sungyoung Lee ”Early Prediction of Heart Disease based on Scalable Linear Regression model”, Heart Failure, Seoul, 2020 
 
 	+ Usman Akhtar, Sungyoung Lee”ACR: Adaptive Cache Replacement for Effectively Querying Semantic Knowledge Bases” KISE, November, Seoul, 2019. 
