@@ -13,6 +13,6 @@ bio: I am a PhD student currently working as part of the COeXISTENCE team. I ach
 
 2. My scientific interests are transport modeling and simulation. I am also interested in demand planning and modeling and behavior modeling. My bachelor's thesis was about creating a demand forecast modeling for the Hungarian passenger railway company and my master's thesis was about creating a data-based lubrication method for railroad switches. I have experience working on machine learning projects. I have more years of experience working with Python machine learning and data analysis packages (numpy, pandas, scikit learn) and R language. 
 
-[Github]( https://github.com/kistref)
+[Github](https://github.com/kistref)
 
 [Linkedin](https://www.linkedin.com/in/zoltán-györgy-varga-832aa01b0) 
