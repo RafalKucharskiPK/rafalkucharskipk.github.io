@@ -1,6 +1,7 @@
 ---
 layout: member
 title: Zoltan Varga
+img: assets/img/olha_shulika.jpg
 description: PhD in real-time crodwing information for public transport
 importance: 1
 category: team
