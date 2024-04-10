@@ -13,8 +13,6 @@ bio: I am a graduate of the applied mathematics at the Jagiellonian University. 
 
 2. My main field of expertise is the application of network science in the ride-pooling problem. My first contribution is the formalisation of network structures present in the algorithmic approach and the introduction of weighted structures. Later, I applied probabilistic tools to analyse the impact of behavioural heterogeneity of travellers on the system performance. Currently, I am working on the application of graph neural networks in the ride-pooling. 
 
-3. Bujak, Michal, and Rafal Kucharski. "Network structures of urban ride-pooling problems and their properties." Social Network Analysis and Mining 13.1 (2023): 89.
-
 [Linkedin](www.linkedin.com/in/michal-bujak-836602182)
 
 [Google Scholar](https://scholar.google.com/citations?user=WPze25gAAAAJ ) 
