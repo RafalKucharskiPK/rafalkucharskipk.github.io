@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Grzegorz Jamroz
+title: Grzegorz Jamróz
 img: assets/img/jamroz.jpg
 description: PhD in real-time crodwing information for public transport
 importance: 1
