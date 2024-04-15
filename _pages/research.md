@@ -3,11 +3,11 @@ layout: page
 title: research
 permalink: /research/
 description: Basic info and references to our grants, significant current and past research and finally ride-pooling our main current stream of research.
-nav: true
+nav: false
 order: 4
 display_categories: [grants, varia, pooling]
 horizontal: false
-published: false
+published: true
 ---
 
 <div class="projects">
