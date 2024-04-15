@@ -4,7 +4,7 @@ title: Usman Akthar
 description: Post Doc in computational complexity of ride-pooling problems.
 img: assets/img/usman.jpg
 importance: 4
-category: former
+category: alumni
 author: Akhtar
 bio: Adjunct (assistant professor) at Jagiellonian University (May 2022 - January 2024), where I researched complex social systems such as urban mobility. My research interests and competencies encompass application aspects of distributed systems, cloud computing and Cloudcentric Data Acquisition. I focused on enabling cloud for data acquisition, synchronization and persistence.
 ---
