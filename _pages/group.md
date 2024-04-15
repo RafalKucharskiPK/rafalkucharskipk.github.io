@@ -4,7 +4,7 @@ title: people
 permalink: /group/
 description: Our research group
 nav: true
-order: 3
+order: 2
 published: true
 display_categories: [team, alumni, former]
 horizontal: false

@@ -3,7 +3,7 @@ layout: about, archive-category, archive-tag, archive-year, bib, default, distil
 title: projects
 published: true
 nav: true
-order: 4
+order: 1
 dropdown: true
 children:
   - title: COeXISTENCE
@@ -14,4 +14,7 @@ children:
   - title: divider
   - title: SUM
     permalink: /research/SUM/
+  - title: divider
+  - title: others
+    permalink: /research
 ---
