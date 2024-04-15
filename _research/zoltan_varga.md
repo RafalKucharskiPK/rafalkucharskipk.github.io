@@ -4,7 +4,7 @@ title: Zoltan Varga
 img: assets/img/olha_shulika.jpg
 description: PhD in real-time crodwing information for public transport
 importance: 1
-category: PhD students
+category: PhD-students
 author: Varga
 bio: I am a PhD student currently working as part of the COeXISTENCE team. I achieved my bachelor's degree in Hungary at the Budapest University of Technology and Economics. My specialization was railway systems and management. I got my master's degree at the Technical University of Denmark where my study line was data science and smart mobility.
 ---
