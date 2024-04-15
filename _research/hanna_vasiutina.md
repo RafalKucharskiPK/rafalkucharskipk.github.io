@@ -1,13 +1,13 @@
 ---
 layout: member
-title: Olha Shulika
+title: Hanna Vasiutina
 description: Post Doc in ride-pooling for the Post-Pandemic Reality
 img: assets/img/olha_shulika.jpg
 importance: 3
 category: PostDocs
 bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow. Currently working as part of a group led by Prof. Rafal Kucharski at the PI position in a EU co-funded Seamless Shared Urban Mobility (SUM) project that aims to help cities integrate New & Shared Modes with public transport
 published: true
-author: Shulika
+author: Vasiutina
 ---
 
 **Info about myself** 

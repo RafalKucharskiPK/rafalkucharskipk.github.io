@@ -4,7 +4,7 @@ title: Grzegorz Jamróz
 img: assets/img/jamroz.jpg
 description: PhD in real-time crodwing information for public transport
 importance: 1
-category: team
+category: PostDocs
 author: Jamroz
 bio: I defended my PhD in mathematics at University of Warsaw (Poland) in 2015. My research experience includes internships at University of Heidelberg (Germany) and postdoc positions at University of Warwick (UK), University of Basel (Switzerland) and Institute of Mathematics, Polish Academy of Sciences in Warsaw.
 ---
