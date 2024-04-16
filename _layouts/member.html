@@ -21,11 +21,25 @@ layout: default
 				<p>
 					<span class="name">{{ page.title }}</span>
 						    {% if page.mail %}
-							<br><a href="#"><i class="fas fa-envelope"></i> mail</a>
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.mail }}</a>
+							{% endif %}
+							
+							{% if page.googlescholar %}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.googlescholar }}</a>
+							{% endif %}
+							
+							{% if page.instagram %}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.instagram }}</a>
+							{% endif %}
+							
+							{% if page.gitlab%}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.gitlab }}</a>
+							{% endif %}
+							
+							{% if page.linkedin %}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.linkedin }}</a>
 							{% endif %}
 						
-						<br><a href="#" target="_blank"><i class="fab fa-orcid"></i> 123456789</a>
-						<br><a href="#" target="_blank"><i class="fab fa-twitter"></i> name</a>
 				</p>
 				
         </div>
