@@ -4,7 +4,7 @@ title: alumni
 description: others
 img: assets/img/UJ.jpeg
 importance: 2
-category: alumni
+category:
 ---
 
 
