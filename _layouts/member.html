@@ -20,11 +20,14 @@ layout: default
 			<div class="address">
 				<p>
 					<span class="name">{{ page.title }}</span>
-						<br><a href="#"><i class="fas fa-envelope"></i> mail</a>
+						    {% if page.mail %}
+							<br><a href="#"><i class="fas fa-envelope"></i> mail</a>
+							{% endif %}
+						
 						<br><a href="#" target="_blank"><i class="fab fa-orcid"></i> 123456789</a>
 						<br><a href="#" target="_blank"><i class="fab fa-twitter"></i> name</a>
 				</p>
-				<p class="post">str<br> address</p>
+				
         </div>
       
     </div>
