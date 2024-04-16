@@ -4,7 +4,7 @@ title: Marco Maricic
 description: PI
 img: assets/img/me.png
 importance: 2
-category: alumni
+category:
 author: Maricic
 bio: opis
 ---

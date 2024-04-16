@@ -4,7 +4,7 @@ title: Daan Knobe
 description: PI
 img: assets/img/me.png
 importance: 2
-category: alumni
+category:
 author: Knobe
 bio: opis
 ---
