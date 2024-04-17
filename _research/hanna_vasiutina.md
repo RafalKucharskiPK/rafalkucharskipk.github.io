@@ -1,12 +1,11 @@
 ---
 layout: member
 title: Hanna Vasiutina
-description: test
 img: assets/img/hanna_vasiutina.png
+description: test
 importance: 2
 category: PostDocs
 bio: test
-published: true
 author: Vasiutina
 arXiv:
 github: 
