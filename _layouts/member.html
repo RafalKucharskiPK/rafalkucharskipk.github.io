@@ -20,28 +20,41 @@ layout: default
 			<div class="address">
 				<p>
 					<span class="name">{{ page.title }}</span>
-						    {% if page.mail %}
-							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.mail }}</a>
+						  					  			  
+					  
+						    {% if page.arXiv %}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.arXiv }}</a>
 							{% endif %}
 							
-							{% if page.googlescholar %}
-							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.googlescholar }}</a>
+							{% if page.github %}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.github }}</a>
+							{% endif %}
+							
+							{% if page.gitlab %}
+							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.gitlab }}</a>
+							{% endif %}
+							
+							{% if page.google_scholar%}
+							<br><a href="#"><i class="ai ai-google-scholar"></i> {{ google_scholar }}</a>
 							{% endif %}
 							
 							{% if page.instagram %}
 							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.instagram }}</a>
 							{% endif %}
 							
-							{% if page.gitlab%}
-							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.gitlab }}</a>
+							{% if page.linkedin %}
+							<br><a href="#"><i class="fab fa-linkedin"></i> {{ page.linkedin }}</a>
+							{% endif %}
+						
+							{% if page.orcid %}
+							<br><a href="{{ page.x }}"><i class="ai ai-orcid"></i> {{ page.orcid }}</a>
 							{% endif %}
 							
-							{% if page.linkedin %}
-							<br><a href="#"><i class="fas fa-envelope"></i> {{ page.linkedin }}</a>
+							{% if page.researchgate %}
+							<br><a href="{{ page.x }}"><i class="ai ai-researchgate"></i> {{ page.researchgate }}</a>
 							{% endif %}
-						
-						
-						{% if page.x %}
+							
+							{% if page.x %}
 							<br><a href="{{ page.x }}"><i class="fab fa-twitter"></i> {{ page.x}}</a>
 							{% endif %}
 				</p>
