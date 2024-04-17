@@ -1,11 +1,11 @@
 ---
 layout: member
 title: Hanna Vasiutina
-description: Post Doc in ride-pooling for the Post-Pandemic Reality
+description: test
 img: assets/img/hanna_vasiutina.png
 importance: 2
 category: PostDocs
-bio: 
+bio: test
 published: true
 author: Vasiutina
 arXiv:
