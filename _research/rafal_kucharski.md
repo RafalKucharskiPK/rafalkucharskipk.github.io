@@ -7,6 +7,15 @@ importance: 2
 category: PI
 author: Kucharski
 bio: opis
+arXiv:
+github: 
+gitlab:
+google_scholar:
+instagram:
+linkedin: 
+orcid:
+researchgate:
+x: 
 ---
 
 PI

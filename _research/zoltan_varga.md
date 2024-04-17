@@ -7,8 +7,15 @@ importance: 1
 category: PhD students
 author: Varga
 bio: I am a PhD student currently working as part of the COeXISTENCE team. I achieved my bachelor's degree in Hungary at the Budapest University of Technology and Economics. My specialization was railway systems and management. I got my master's degree at the Technical University of Denmark where my study line was data science and smart mobility.
+arXiv:
 github: https://github.com/kistref
+gitlab:
+google_scholar:
+instagram:
 linkedin: https://www.linkedin.com/in/zoltan-gyorgy-varga-832aa01b0
+orcid:
+researchgate:
+x: 
 ---
 
 1. I am a PhD student currently working as part of the COeXISTENCE team. I achieved my bachelor's degree in Hungary at the Budapest University of Technology and Economics. My specialization was railway systems and management. I got my master's degree at the Technical University of Denmark where my study line was data science and smart mobility. Apart from transport and being a train enthusiast, my other hobbies are language learning. I can speak English and German, and learn Korean and Polish. I have also studied Latin and Ancient Greek. I am fascinated by Asian culture and cuisine. 

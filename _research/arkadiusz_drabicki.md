@@ -7,6 +7,15 @@ importance: 1
 category: alumni
 author: Drabicki
 bio: 
+arXiv:
+github: 
+gitlab:
+google_scholar:
+instagram:
+linkedin: 
+orcid:
+researchgate: https://www.researchgate.net/profile/Arkadiusz-Drabicki
+x: 
 ---
 
 * [Akradiusz Drabicki](https://www.researchgate.net/profile/Arkadiusz-Drabicki) - co-supervised by prof. Oded Cats (TU Delft) and prof. Andrzej Szarata (CUT Krakow). 

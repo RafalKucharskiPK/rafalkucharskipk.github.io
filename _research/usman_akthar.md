@@ -7,8 +7,16 @@ importance: 4
 category: alumni
 author: Akhtar
 bio: Adjunct (assistant professor) at Jagiellonian University (May 2022 - January 2024), where I researched complex social systems such as urban mobility. My research interests and competencies encompass application aspects of distributed systems, cloud computing and Cloudcentric Data Acquisition. I focused on enabling cloud for data acquisition, synchronization and persistence.
+arXiv:
+github: 
+gitlab:
+google_scholar:
+instagram:
 linkedin: https://www.linkedin.com/in/usmanakhtar
-researchgate: https://www.researchgate.net/profile/Usman-Akhtar 
+orcid:
+researchgate: https://www.researchgate.net/profile/Usman-Akhtar
+x: 
+  
 ---
 
 1. Adjunct (assistant professor) at Jagiellonian University (May 2022 - January 2024),
