@@ -12,7 +12,7 @@ github: [https://github.com/AnastasiaPsarou, AnastasiaPsarou]
 gitlab: [https://github.com/AnastasiaPsarou, AnastasiaPsarou]
 google_scholar:
 instagram:
-linkedin: [hhttps://www.linkedin.com/in/anastasia-psarou, anastasia-psarou]
+linkedin: [https://www.linkedin.com/in/anastasia-psarou, anastasia-psarou]
 orcid:
 researchgate:
 x: 
