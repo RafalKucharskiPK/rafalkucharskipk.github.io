@@ -21,6 +21,6 @@ x:
 
 **Info about myself** 
 
-I completed her PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
+I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
 
 My research interests encompass the modeling of transport systems, analyzing the environmental impact of transportation, and employing mathematical and computer methods in transport and logistics.
