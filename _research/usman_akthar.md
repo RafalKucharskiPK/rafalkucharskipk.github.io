@@ -7,6 +7,8 @@ importance: 4
 category: alumni
 author: Akhtar
 bio: Adjunct (assistant professor) at Jagiellonian University (May 2022 - January 2024), where I researched complex social systems such as urban mobility. My research interests and competencies encompass application aspects of distributed systems, cloud computing and Cloudcentric Data Acquisition. I focused on enabling cloud for data acquisition, synchronization and persistence.
+linkedin: https://www.linkedin.com/in/usmanakhtar
+researchgate: https://www.researchgate.net/profile/Usman-Akhtar 
 ---
 
 1. Adjunct (assistant professor) at Jagiellonian University (May 2022 - January 2024),
@@ -84,6 +86,4 @@ persistence.
 
 	+ o Usman Akhtar, Sungyoung Lee, “Active Data Reader”, Data Curation layer (DCL), Development of mining minds core technology exploiting personal big data project Funded by Ministry of Trade, Industry and Energy (MOTIE, korea) (URL) 
 
-[Linkedin](https://www.linkedin.com/in/usmanakhtar)
 
-[ResearchGate](https://www.researchgate.net/profile/Usman-Akhtar) 

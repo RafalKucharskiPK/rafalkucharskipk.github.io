@@ -7,6 +7,11 @@ importance: 1
 category: PhD students
 author: Akman
 bio: I'm a Computer Engineer with a specialization in Artificial Intelligence. I am from a lovely city called Eskişehir in Türkiye. My journey in this field began at Yıldız Technical University in Istanbul, where I earned my Bachelor's degree in Computer Engineering. After completing my Bachelor's degree, I spent two years in Italy, pursuing a master's degree in Computer Engineering from the University of Padova. Currently, I am thrilled to be a member of the COeXISTENCE team.
+linkedin: https://www.linkedin.com/in/aonurakman
+github: https://github.com/aonurakman
+google_scholar: https://scholar.google.com/citations?user=MUVshfEAAAAJ&hl=tr
+x: https://twitter.com/aonurakman
+instagram: https://www.instagram.com/aonurakman
 ---
 1. About me
 

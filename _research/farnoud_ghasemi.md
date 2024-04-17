@@ -7,6 +7,8 @@ importance: 1
 category: PhD students
 author: Ghaseni
 bio: I am currently a PhD student within the Faculty of Mathematics and Computer Science at the Jagiellonian University. My PhD research under the supervision of Prof. Rafal Kucharski, focuses on studying behavioural dynamics of two-sided mobility using agent-based microsimulation
+linkedin:  https://www.linkedin.com/in/farnoud-ghasemi-ab9903178
+arXiv: https://arxiv.org/search/cs?searchtype=author&query=Ghasemi,+F
 ---
 
 **1. info about yourself (one paragraph)**
@@ -34,8 +36,3 @@ Conferences:
 + Ghasemi, F. Kucharski, R., Modelling the Rise and Fall of Two-Sided Mobility Markets with Microsimulation. Accepted and presented at Transportation Research Board (TRB 2023) 102nd Annual Meeting, January 8–12, 2023, Washington, D.C – USA  
 
 + Ghasemi, F. Ashkrof,P Kucharski, R., Ride Acceptance Behaviour Investigation of Ride-sourcing Drivers Through Agent-based Simulation. Accepted and presented at 10th symposium of the European Association for Research in Transportation (hEART 2022), June 1-3, 2022  , Leuven – Belgium 
-
-
-[LinkedIn](https://www.linkedin.com/in/farnoud-ghasemi-ab9903178)
-
-[arXiv](https://arxiv.org/search/cs?searchtype=author&query=Ghasemi,+F)

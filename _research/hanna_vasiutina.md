@@ -8,6 +8,9 @@ category: PostDocs
 bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow. Currently working as part of a group led by Prof. Rafal Kucharski at the PI position in a EU co-funded Seamless Shared Urban Mobility (SUM) project that aims to help cities integrate New & Shared Modes with public transport
 published: true
 author: Vasiutina
+linkedin: www.linkedin.com/in/olha-shulika
+orcid: https://orcid.org/0000-0002-1912-1115
+
 ---
 
 **Info about myself** 
@@ -20,6 +23,5 @@ My primary area of interest is the implementation of more sustainable and effici
 
 
 
-[Linkedin](www.linkedin.com/in/olha-shulika)
-[ORCID](https://orcid.org/0000-0002-1912-1115) 
+
 
