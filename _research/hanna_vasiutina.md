@@ -2,7 +2,7 @@
 layout: member
 title: Hanna Vasiutina
 description: Post Doc in ride-pooling for the Post-Pandemic Reality
-img: assets/img/olha_shulika.jpg
+img: assets/img/hanna_vasiutina.png
 importance: 3
 category: PostDocs
 bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow. Currently working as part of a group led by Prof. Rafal Kucharski at the PI position in a EU co-funded Seamless Shared Urban Mobility (SUM) project that aims to help cities integrate New & Shared Modes with public transport
@@ -11,23 +11,17 @@ author: Vasiutina
 arXiv:
 github: 
 gitlab:
-google_scholar:
+google_scholar: https://scholar.google.com/citations?user=MTUUemYAAAAJ&hl=en
 instagram:
-linkedin: 
-orcid:
-researchgate:
+linkedin: [https://www.linkedin.com/in/hanna-vasiutina-b2857469, hanna-vasiutina-b2857469 ]
+orcid: [https://orcid.org/0000-0003-0609-6616, 0000-0003-0609-6616]
+researchgate: [https://www.researchgate.net/profile/Hanna-Vasiutina, Hanna-Vasiutina]
+scopus: [https://www.scopus.com/authid/detail.uri?authorId=57215699230, 57215699230]
 x: 
 ---
 
 **Info about myself** 
 
-I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow. Currently working as part of a group led by Prof. Rafal Kucharski at the PI position in a EU co-funded Seamless Shared Urban Mobility (SUM) project that aims to help cities integrate New & Shared Modes with public transport. Before that I was part of the team under the NCN Opus Grant on Shared Mobility in pandemic times.  
+I completed her PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
 
-**Info about my scientific interest and field of expertise**
-
-My primary area of interest is the implementation of more sustainable and efficient transportation systems to improve living conditions in cities. With my background in the transportation area and experience in data analysis and programming, I work with a simulation model, Dataset, Python Library used to plot data. I have many years of experience in complex logistic system research and urban mobility, as well as scientific project management.  
-
-
-
-
-
+My research interests encompass the modeling of transport systems, analyzing the environmental impact of transportation, and employing mathematical and computer methods in transport and logistics.
