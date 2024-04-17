@@ -1,8 +1,8 @@
 ---
 layout: member
 title: Hanna Vasiutina
-img: assets/img/hanna_vasiutina.png
 description: test
+img: assets/img/hanna_vasiutina.png
 importance: 2
 category: PostDocs
 bio: test
@@ -17,11 +17,5 @@ orcid: [https://orcid.org/0000-0003-0609-6616, 0000-0003-0609-6616]
 researchgate: [https://www.researchgate.net/profile/Hanna-Vasiutina, Hanna-Vasiutina]
 scopus: [https://www.scopus.com/authid/detail.uri?authorId=57215699230, 57215699230]
 x: 
-
 ---
-
-**Info about myself** 
-
-I completed her PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
-
-My research interests encompass the modeling of transport systems, analyzing the environmental impact of transportation, and employing mathematical and computer methods in transport and logistics.
+ffff
