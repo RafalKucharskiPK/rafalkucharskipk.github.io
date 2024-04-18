@@ -12,7 +12,7 @@ published: true
     {% assign news = site.news | reverse %}
     {% for item in news %}
       <tr>
-        <th class="date">{{ item.date | date: "%b %-d, %Y" }}</th>
+        <th scope="row" style="width: 100px" class="date">{{ item.date | date: "%b %-d, %Y" }}</th>
         <td class="announcement">
           {% if item.inline %}
             {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
