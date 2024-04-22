@@ -8,8 +8,8 @@ order: 5
 published: true
 ---
 <script>
-
- $('.image-link').magnificPopup({
+$.noConflict();
+ jQuery('.image-link').magnificPopup({
                   type: 'image',
                   gallery: {
                      enabled: true
