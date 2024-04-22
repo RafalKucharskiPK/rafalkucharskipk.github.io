@@ -46,7 +46,7 @@
 
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/assets/css/magnific-popup.css">
-
+{% include scripts/jquery.html %}
  <!-- Magnific Popup core JS file -->
 <script src="/assets/js/jquery.magnific-popup.min.js"></script>
 
@@ -57,9 +57,11 @@
 {% endif %}
 
 <script>
-$(document).ready(function() {
-  $('.image-link').magnificPopup({type:'image'});
-});
-	
+ $('.image-link').magnificPopup({
+                  type: 'image',
+                  gallery: {
+                     enabled: true
+                  }
+       }); 
 	
 </script>
