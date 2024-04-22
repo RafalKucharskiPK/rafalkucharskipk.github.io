@@ -9,13 +9,14 @@ published: true
 ---
 <script>
 $.noConflict();
- jQuery('.image-link').magnificPopup({
+jQuery(document).ready(function($){
+ $('.image-link').magnificPopup({
                   type: 'image',
                   gallery: {
                      enabled: true
                   }
        }); 
-	
+	}); 
 </script>
 <div>
     <table>
