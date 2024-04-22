@@ -8,4 +8,8 @@ Such a wonderful evening at #Krakow's Kazimierz. Not only a Christmas Party, but
 
 👐 Ten brilliant minds, working now at Jagiellonian University to contribute towards future urban mobility. Great pride of you, wish all the best in the coming year!
 
-<img src='https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/assets/20555451/e588f01c-b613-4504-b78d-f669d1d9d359' width='400'>
+<!-- <img src='' width='400'> -->
+
+<a class="image-popup-vertical-fit" href="https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/assets/20555451/e588f01c-b613-4504-b78d-f669d1d9d359" title="Caption. Can be aligned to any side and contain any HTML.">
+        <img src="https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/assets/20555451/e588f01c-b613-4504-b78d-f669d1d9d359" width="75" height="75">
+      </a>
