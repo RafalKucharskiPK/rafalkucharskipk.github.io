@@ -47,6 +47,8 @@
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/assets/css/magnific-popup.css">
 
+ <!-- Magnific Popup core JS file -->
+<script src="/assets/js/jquery.magnific-popup.min.js"></script>
 
 {% if site.enable_darkmode %}
 <!-- Dark Mode -->
@@ -55,7 +57,7 @@
 {% endif %}
 
 <script>
-	$=jQuery;
+	
 $('a').magnificPopup({
 		type: 'image',
 		closeBtnInside: false,
@@ -71,4 +73,6 @@ $('a').magnificPopup({
   
   
 	});
+	
+	
 </script>
