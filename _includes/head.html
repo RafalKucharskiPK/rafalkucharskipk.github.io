@@ -57,23 +57,17 @@
 {% endif %}
 
 <script>
-	$(document).ready(function() {
- $('a').magnificPopup({
-		type: 'image',
-		closeBtnInside: false,
-    closeOnContentClick: true,
-  tLoading: '', // remove text from preloader
-  
-  /* don't add this part, it's just to disable cache on image and test loading indicator */
-  callbacks: {
-    beforeChange: function() {
-     this.items[0].src = this.items[0].src + '?=' + Math.random(); 
-    }
-  }
-  
-  
-	});
-});
+$(document).ready(function ($) {
+    $('.image-link').magnificPopup({
+    type: 'image',
+    gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+          }
+    // other options
+  });
+  });
 
 	
 	
