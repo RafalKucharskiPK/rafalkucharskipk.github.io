@@ -7,6 +7,16 @@ nav: true
 order: 5
 published: true
 ---
+<script>
+
+ $('.image-link').magnificPopup({
+                  type: 'image',
+                  gallery: {
+                     enabled: true
+                  }
+       }); 
+	
+</script>
 <div>
     <table>
     {% assign news = site.news | reverse %}
