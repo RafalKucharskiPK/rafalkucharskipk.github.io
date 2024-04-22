@@ -47,28 +47,19 @@
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/assets/css/magnific-popup.css">
 
- <!-- Magnific Popup core JS file -->
-<script src="/assets/js/jquery.magnific-popup.min.js"></script>
-
 {% if site.enable_darkmode %}
 <!-- Dark Mode -->
 <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
 {% endif %}
 
-
-<script type="text/javascript">
-/***
- * Created by dadenew
- * Submit email subscription using ajax
- * Send email address
- * Send controller
- * Recive response
- */
-$(document).ready(function() { //you can replace $ with Jquery
-
-  alert( 'jquery working~!' );
-});
-
+<script>
+	jQuery.noConflict();
+ $('.image-link').magnificPopup({
+                  type: 'image',
+                  gallery: {
+                     enabled: true
+                  }
+       }); 
 	
 </script>
