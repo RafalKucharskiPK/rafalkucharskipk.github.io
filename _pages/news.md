@@ -6,8 +6,7 @@ description: News and updates
 nav: false
 order: 5
 published: true
-paginate:
-	collection: news
+paginate: true 
 ---
 
 <div>
