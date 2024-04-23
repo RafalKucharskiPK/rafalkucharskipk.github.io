@@ -2,10 +2,9 @@
 layout: post
 date: 2023-12-12 09:10:00-0400
 inline: true
+img: /assets/img/team.jpg
 ---
-<a href="https://ciort.github.io/assets/img/team.jpg" class="with-caption image-link">
-  <img src="https://ciort.github.io/assets/img/team.jpg" width="172" height="105" />  
-</a>
+
 
 Such a wonderful evening at #Krakow's Kazimierz. Not only a Christmas Party, but also the first time when the complete team of #ERC #COeXISTENCE had a chance to meet and integrate with themselves as well as with 'older' friends.
 
