@@ -6,6 +6,7 @@ description: News and updates
 nav: true
 order: 5
 published: false
+paginate: true
 ---
 
 <div>
@@ -17,7 +18,9 @@ published: false
 
 <ul class="post-list"> 
 	
-	
+	{% for item in paginator.posts %}
+<h3> eee</h3>
+{% endfor %}
 	
 	{% assign news = site.news | reverse %}
     {% for item in news %}
