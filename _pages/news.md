@@ -40,8 +40,10 @@ published: true
 					<div class="col-sm-3"> 
 					
 					{% if item.img %}
-					<img class="card-img" src="{{ item.img }}" style="object-fit: cover; height: 90%" alt="image"> </div> 
+					<img class="card-img" src="{{ item.img }}" style="object-fit: cover; height: 90%" alt="image">
 					{% endif %}
+					 </div> 
+					
 					</div> 
 		 </li> 
 		 
