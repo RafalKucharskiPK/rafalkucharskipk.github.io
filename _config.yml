@@ -71,9 +71,9 @@ contact_note: >
 # permalink: /blog/:year/:title/
 
 # # Pagination
-pagination:
-   enabled: true
 
+paginate: 5
+paginate_path: "/page/:num/"
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
 # # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
