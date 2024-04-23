@@ -27,7 +27,7 @@ published: true
 		 <li>
 			<div class="row">
 				<div class="col-sm-9">
-					<h3> <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a> </h3> 
+					<h3> <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ item.date | date: "%b %-d, %Y" }}</a> </h3> 
 					
 					<p>this is what advanced image components could look like</p> 
 					<p class="post-meta">{{ item.date | date: "%b %-d, %Y" }}</p> <p class="post-tags"> <a href="/al-folio/blog/2024"> <i class="fa-solid fa-calendar fa-sm"></i> 2024 </a> &nbsp; · &nbsp; <a href="/al-folio/blog/tag/formatting"> <i class="fa-solid fa-hashtag fa-sm"></i> formatting</a> &nbsp; <a href="/al-folio/blog/tag/images"> <i class="fa-solid fa-hashtag fa-sm"></i> images</a> &nbsp; &nbsp; · &nbsp; <a href="/al-folio/blog/category/sample-posts"> <i class="fa-solid fa-tag fa-sm"></i> sample-posts</a> &nbsp; </p>
