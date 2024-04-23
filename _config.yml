@@ -72,9 +72,10 @@ contact_note: >
 
 # # Pagination
 
-#paginate: 5
-#paginate_path: "/news/:num/"
-
+pagination:
+  per_page: 2
+  limit: false
+  
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
 # # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
