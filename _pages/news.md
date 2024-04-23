@@ -12,8 +12,10 @@ paginate: true
 <div>
 
 
-{% for item in paginator.news %}
+{% for news in paginator.news %}
+
 <div>a</div>
+
 {% endfor %}
 
 
