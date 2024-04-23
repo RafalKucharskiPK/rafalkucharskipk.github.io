@@ -17,10 +17,12 @@ paginate: true
 
 
 <ul class="post-list"> 
+	{% assign news = site.news | reverse %}
+	{% for item in paginator.news %}
 	
-	{% for item in news %}
-<li>2</li>
-{% endfor %}
+	<li> eee</h3>
+	
+	{% endfor %}
 	
 
 	
