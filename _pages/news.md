@@ -17,10 +17,11 @@ published: true
 
 <ul class="post-list"> 
 	
-	
+
+
 	
 	{% assign news = site.news | reverse %}
-    {% for item in news %}
+    {% for item in paginator.news %}
 	
 		
 		 
