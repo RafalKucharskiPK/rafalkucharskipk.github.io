@@ -18,11 +18,9 @@ paginate: true
 
 <ul class="post-list"> 
 	
-	{% for item in paginator.news %}
-	
-	<li> eee</li>
-	
-	{% endfor %}
+	{% for post in paginator.posts %}
+/ do stuff /
+{% endfor %}
 	
 
 	
