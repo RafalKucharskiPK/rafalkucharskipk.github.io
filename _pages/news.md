@@ -18,7 +18,7 @@ paginate: true
 
 <ul class="post-list"> 
 	
-	{% for item in paginator.news %}
+	{% for item in news %}
 <li>2</li>
 {% endfor %}
 	
