@@ -72,8 +72,8 @@ contact_note: >
 
 # # Pagination
 
-paginate: 5
-paginate_path: "/news/:num/"
+#paginate: 5
+#paginate_path: "/news/:num/"
 
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
