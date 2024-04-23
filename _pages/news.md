@@ -19,7 +19,7 @@ paginate: true
 <ul class="post-list"> 
 	
 	{% for post in paginator.posts %}
-/ do stuff /
+<li>2</li>
 {% endfor %}
 	
 
