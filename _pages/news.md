@@ -5,7 +5,7 @@ permalink: /news/
 description: News and updates
 nav: true
 order: 5
-published: false
+published: true
 paginate: true
 ---
 
