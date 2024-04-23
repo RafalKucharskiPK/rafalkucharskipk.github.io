@@ -141,6 +141,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
+  - octopress-paginate
   - jemoji
 
 # Sitemap settings
