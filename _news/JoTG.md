@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-11 09:10:00-0400
 inline: true
-img:/assets/20555451/0a8e6e2c-6b44-4fd4-a113-e95fbef76d1d
+img: /assets/20555451/0a8e6e2c-6b44-4fd4-a113-e95fbef76d1d
 ---
 
 🗞 When ride-pooling is attractive/efficient for all the parties involved (passengers, platforms/providers, city/environment/sustainability)?
