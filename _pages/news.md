@@ -37,8 +37,11 @@ published: true
 					
 					</div>
 					
-					<div class="col-sm-3"> <img class="card-img" src="/al-folio/assets/img/9.jpg" style="object-fit: cover; height: 90%" alt="image"> </div> 
+					<div class="col-sm-3"> 
 					
+					{% if item.img %}
+					<img class="card-img" src="{{ item.img }}" style="object-fit: cover; height: 90%" alt="image"> </div> 
+					{% endif %}
 					</div> 
 		 </li> 
 		 
