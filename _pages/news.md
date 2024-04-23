@@ -6,8 +6,6 @@ description: News and updates
 nav: true
 order: 5
 published: true
-pagination:
-  enabled: true
 ---
 
 <div>
