@@ -12,7 +12,7 @@ paginate: true
 <div>
 
 
-{% for news in paginator.news %}
+{% for post in paginator.posts %}
 
 <div>a</div>
 
