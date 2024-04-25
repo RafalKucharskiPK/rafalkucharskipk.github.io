@@ -20,7 +20,7 @@ pagination:
 				<div class="col-sm-9">
 					<h3> <a class="news-title" href="{{ post.url }}">{{ post.title }}</a> </h3> 
 					<p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date_to_long_string }}</span>
   </p>
 					{% if post.inline %}
             {{ post.content | remove: '<p>' | remove: '</p>' | emojify }}
