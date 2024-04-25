@@ -8,14 +8,8 @@ order: 5
 published: true
 pagination:
   enabled: true
-  permalink: '/:num/'
-  paginate_path: '/posts/:num/'
+  permalink: '/:num/
 ---
-
-<div>
-
-
-
 
 
 
