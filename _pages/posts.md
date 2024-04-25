@@ -11,56 +11,18 @@ pagination:
 ---
 
 
-<div>
 
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
 
-
-
-
-
-<ul class="post-list"> 
-
-	
-	
-    {% for post in paginator.posts %}
-	
-		
-		 
-		 <li>
-			<div class="row">
-				<div class="col-sm-9">
-					<h3> <a class="news-title" href="{{ post.url }}">{{ post.date }}</a> </h3> 
-					
-					{% if item.inline %}
-            {{ post.content | remove: '<p>' | remove: '</p>' | emojify }}
-          {% else %}
-            <a class="news-title" href="{{ item.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {% endif %}
-					
-					</div>
-					
-					<div class="col-sm-3"> 
-					
-					{% if post.img %}
-					<img class="card-img" src="{{ post.img }}" style="object-fit: cover; height: 90%" alt="image">
-					{% endif %}
-					 </div> 
-					
-					</div> 
-		 </li> 
-		 
-		
-		
-		
-    {% endfor %}
-	
-		
-	
-		 
-		 
-</ul>
- 
-</div>
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -79,3 +41,5 @@ pagination:
     <span class="next ">Next</span>
   {% endif %}
 </div>
+
+
