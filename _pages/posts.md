@@ -23,7 +23,7 @@ pagination:
     <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
   </p>
 					{% if post.inline %}
-            {{ post.content }}
+            {{ post.content | remove: '<p>' | remove: '</p>' }}
           {% else %}
             
 <a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
