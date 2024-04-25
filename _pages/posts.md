@@ -19,7 +19,9 @@ pagination:
 			<div class="row">
 				<div class="col-sm-9">
 					<h3> <a class="news-title" href="{{ post.url }}">{{ post.title }}</a> </h3> 
-					
+					<p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
 					{% if post.inline %}
             {{ post.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
