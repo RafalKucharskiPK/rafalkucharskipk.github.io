@@ -1,4 +1,5 @@
 ---
+title:
 layout: post
 date: 2023-12-12 09:10:00-0400
 inline: true

@@ -1,4 +1,5 @@
 ---
+title:
 layout: post
 date: 2022-06-06 09:10:00-0400
 inline: true
