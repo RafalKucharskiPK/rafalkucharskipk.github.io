@@ -4,7 +4,7 @@ title: news
 permalink: /news/
 description: News and updates
 nav: false
-order: 5
+order: 6
 published: true
 ---
 

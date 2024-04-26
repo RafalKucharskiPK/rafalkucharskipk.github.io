@@ -3,7 +3,7 @@ layout: page
 title: posts
 permalink: /posts/
 description: News and updates
-nav: false
+nav: true
 order: 5
 published: true
 pagination:
