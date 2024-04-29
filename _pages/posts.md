@@ -47,7 +47,8 @@ pagination:
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
+<nav aria-label="Blog page naviation"> 
+<ul class="pagination pagination-lg justify-content-center"> 
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
       Previous
@@ -63,6 +64,9 @@ pagination:
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-</div>
+</ul> 
+</nav>
+
+
 
 
