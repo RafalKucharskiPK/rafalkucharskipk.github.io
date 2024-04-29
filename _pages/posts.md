@@ -45,7 +45,6 @@ pagination:
 </li> 	 
 </ul>
 {% endfor %}
-
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
 <nav aria-label="Blog page naviation">
@@ -62,15 +61,15 @@ pagination:
     {% if page == paginator.page %}
        <li class="page-item active"> <a class="page-link" href="{{ page }}" title="blog">{{ page }}</a> </li>
     {% elsif page == 1 %}
-     <li class="page-item "> <a class="page-link" href="{{ '/' | relative_url }}" title="blog - page {{ page }}">{{ page }}</a> </li>
+     <li class="page-item "> <a class="page-link" href="{{ page }}" title="blog - page {{ page }}">{{ page }}</a> </li>
     {% else %}
-      <li class="page-item "> <a class="page-link" href="{{ site.paginate_path | relative_url | replace: ':num', page }}" title="blog - page {{ page }}">{{ page }}</a> </li>
+      <li class="page-item "> <a class="page-link" href="{{ page }}" title="blog - page {{ page }}">{{ page }}</a> </li>
      
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <li class="page-item "> <a class="page-link" href="{ paginator.next_page_path | relative_url }}">Older</a> </li>
+    <li class="page-item "> <a class="page-link" href="{{ page }}">Older</a> </li>
    
   {% else %}
     <span>Next</span>
@@ -78,7 +77,5 @@ pagination:
   </ul>
       </nav>
 {% endif %}
-
-
 
 
