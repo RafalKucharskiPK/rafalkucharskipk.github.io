@@ -55,7 +55,7 @@ pagination:
   
  <li class="page-item disabled"> <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" tabindex="-1" aria-disabled="">Newer</a> </li>
   {% else %}
-    <span>Prev</span>
+   <li class="page-item disabled"> <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" tabindex="-1" aria-disabled="">Newer</a> </li>
   {% endif %}
 
   {% for page in (1..paginator.total_pages) %}
