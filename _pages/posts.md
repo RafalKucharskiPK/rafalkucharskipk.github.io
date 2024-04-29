@@ -51,8 +51,9 @@ pagination:
 <nav aria-label="Blog page naviation">
 <ul class="pagination pagination-lg justify-content-center">
   {% if paginator.previous_page %}
-   <li class="page-item"> <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" title="blog">Prev</a> </li>
- 
+  
+  
+ <li class="page-item disabled"> <a class="page-link" href="{{ paginator.previous_page_path | relative_url }}" tabindex="-1" aria-disabled="">Newer</a> </li>
   {% else %}
     <span>Prev</span>
   {% endif %}
