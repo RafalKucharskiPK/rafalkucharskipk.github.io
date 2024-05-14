@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coexistence
-description: Coexistence
+title: COeXISTENCE
+description: COeXISTENCE
 img: 
 importance: 1
 category: grants
