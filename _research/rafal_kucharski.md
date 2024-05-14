@@ -2,7 +2,7 @@
 layout: member
 title: Rafał Kucharski
 description: 
-img: assets/img/me.png
+img: assets/img/person/rafal_kucharski.jpg
 importance: 2
 category: PI
 author: Kucharski
