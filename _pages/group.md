@@ -12,9 +12,7 @@ horizontal: false
 
 
 <center><img src="{{ site.baseurl }}/assets/img/team.jpg" height="460" width="630"></center>
-<div class="col three caption">
-    Our team in May 2022: Usman, Rafal, Olga, Michal and Farnoud.
-</div>
+
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
