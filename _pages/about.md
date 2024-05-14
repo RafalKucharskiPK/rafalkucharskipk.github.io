@@ -40,8 +40,3 @@ Before, I worked (2019-2021) with prof. Oded Cats at TU Delft in his ERC Startin
 
 ---
 
-**Teaching materials**
-
-I run the seminar on Complex Social Systems (transport is one of them) at Jagiellonian University - [materials and papers are on my github](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
-
----
