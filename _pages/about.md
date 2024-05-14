@@ -36,7 +36,7 @@ Before, I worked (2019-2021) with prof. Oded Cats at TU Delft in his ERC Startin
 
 
 
-<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="130"/>&nbsp;&nbsp;<img src="/./assets/img/logo_NCN.png" alt="drawing" height="130"/>&nbsp;&nbsp;<img src="/./assets/img/UJ.jpeg" alt="drawing" width="130"/>&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" height="60"/>&nbsp;&nbsp;<img src="/assets/img/iduj.png" alt="drawing" height="60"/><img src="/./assets/img/0964_SUM_LOGO_RGB_HR.jpg" alt="drawing" height="130"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="130"/>
+<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="130"/>&nbsp;&nbsp;<img src="/./assets/img/logo_NCN.png" alt="drawing" height="130"/>&nbsp;&nbsp;<img src="/./assets/img/UJ.jpeg" alt="drawing" width="130"/>&nbsp;&nbsp;<img src="/assets/img/logo.jpg" alt="drawing" height="60"/>&nbsp;&nbsp;<img src="/assets/img/iduj.png" alt="drawing" height="60"/>&nbsp;&nbsp;<img src="/./assets/img/0964_SUM_LOGO_RGB_HR.jpg" alt="drawing" height="60"/>&nbsp;&nbsp;<img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="130"/>
 
 ---
 
