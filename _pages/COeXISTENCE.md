@@ -25,8 +25,9 @@ It spans between fields as diverse as:
 * agent based modelling
 * discrete choice theory
 
-<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="130"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="130"/>
-
+<p align="center">
+<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="150"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="150"/>
+</p>
 ----
 
 ### Vacancies
@@ -41,7 +42,8 @@ There are funding opportunities at ERC under [International Arrangement Funding]
 
 ----
 
-**Disclaimer**: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Research Council Executive Agency (ERCEA). Neither the European Union nor the granting authority can be held responsible for them.
 
-**Funding acknowledgement**: This project has received funding from the European Research Council (ERC) under the European Union’s Horizon Europe research and innovation programme  (grant agreement No 101075838).
+<sub><sup>**Disclaimer**: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Research Council Executive Agency (ERCEA). Neither the European Union nor the granting authority can be held responsible for them.</sup></sub>
+
+<sub><sup>**Funding acknowledgement**: This project has received funding from the European Research Council (ERC) under the European Union’s Horizon Europe research and innovation programme  (grant agreement No 101075838).</sup></sub>
 
