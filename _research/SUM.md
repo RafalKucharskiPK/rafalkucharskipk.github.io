@@ -17,7 +17,7 @@ Copyright © SUM Consortium, 2022.
 ----
 
 <p align="center">
-<img src="/./assets/img/p_sum/sum_1.jpg" alt="drawing" height="230"/>&nbsp;&nbsp;<img src="/./assets/img/p_sum/sum_2.jpg" alt="drawing" height="230"/>
+<img src="/./assets/img/p_sum/sum_1.jpg" alt="drawing" height="100"/>&nbsp;&nbsp;<img src="/./assets/img/p_sum/sum_2.jpg" alt="drawing" height="100"/>
 </p>
 
 ----
