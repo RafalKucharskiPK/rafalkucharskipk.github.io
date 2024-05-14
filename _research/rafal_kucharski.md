@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Rafał Kucharski
-description: PI
+description: 
 img: assets/img/me.png
 importance: 2
 category: PI
