@@ -2,7 +2,7 @@
 layout: page
 title: SUM
 description: SUM
-img: assets/img/logo_NCN.png
+img: assets/img/p_sum/0964_SUM_LOGO_RGB_HR.jpg
 importance: 1
 category: grants
 ---
