@@ -2,7 +2,7 @@
 layout: member
 title: Michal Bujak
 description: PhD student in network structures of shareability graphs.
-img: assets/img/michal.png
+img: assets/img/person/michal_bujak.jpg
 importance: 2
 category: PhD students
 author: Bujak
