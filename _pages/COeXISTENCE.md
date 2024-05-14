@@ -39,5 +39,9 @@ Feel free to reach us out at `coexistence@uj.edu.pl`
 
 There are funding opportunities at ERC under [International Arrangement Funding](https://erc.europa.eu/apply-grant/additional-opportunities#International%20Arrangement%20funding)
 
+----
 
+**Disclaimer**: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Research Council Executive Agency (ERCEA). Neither the European Union nor the granting authority can be held responsible for them.
+
+**Funding acknowledgement**: This project has received funding from the European Research Council (ERC) under the European Union’s Horizon Europe research and innovation programme  (grant agreement No 101075838).
 
