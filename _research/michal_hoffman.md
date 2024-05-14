@@ -2,7 +2,7 @@
 layout: member
 title: Michal Hoffman
 description: students
-img: assets/img/michal.png
+img: assets/img/person/michal_hoffmann.jpg
 importance: 2
 category: students
 author: Bujak
