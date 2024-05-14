@@ -14,3 +14,10 @@ Copyright © SUM Consortium, 2022.
 
 **Funding acknowledgement**: The SUM project is co-funded by the European Union’s Horizon Europe Innovation Action under grant agreement No. 101103646.
 
+----
+
+<p align="center">
+<img src="/./assets/img/p_sum/sum_1.jpg" alt="drawing" height="230"/>&nbsp;&nbsp;<img src="/./assets/img/p_sum/sum_2.jpg" alt="drawing" height="230"/>
+</p>
+
+----
