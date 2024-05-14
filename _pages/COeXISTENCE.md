@@ -26,7 +26,7 @@ It spans between fields as diverse as:
 * discrete choice theory
 
 <p align="center">
-<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="150"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="150"/>
+<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="170"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="170"/>
 </p>
 ----
 
