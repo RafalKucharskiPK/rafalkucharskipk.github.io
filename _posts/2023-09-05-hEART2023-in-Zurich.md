@@ -2,6 +2,8 @@
 layout: post
 date: 2023-09-05 09:10:00-0400
 inline: true
+title:
+img:
 ---
 
 🛫 On our way to [hEART Conference at ETH](http://heart2023.org/). This year, our team will present in Zurich:

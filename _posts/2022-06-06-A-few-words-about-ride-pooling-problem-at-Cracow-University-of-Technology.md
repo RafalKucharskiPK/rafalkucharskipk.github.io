@@ -2,6 +2,8 @@
 layout: post
 date: 2022-06-06 09:10:00-0400
 inline: true
+title:
+img:
 ---
 
 I presented the Ride-Pooling problem at our flagship national conference [Modelling 2022](http://www.kst.pk.edu.pl/index.php/konferencje/modelling-2022) at Cracow University of Technology. 

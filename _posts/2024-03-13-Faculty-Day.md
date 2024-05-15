@@ -2,6 +2,8 @@
 layout: post
 date: 2024-03-13
 inline: true
+title:
+img: https://matinf.uj.edu.pl/documents/41633/155714947/DW07.jpg
 ---
 
 Young blood at the Faculty of Mathematics and Computer Science during [**the 16th edition of the Faculty Day**](https://matinf.uj.edu.pl/en_GB/aktualnosci/-/journal_content/56_INSTANCE_SaA7HRzna0dW/41633/155715167)! 
