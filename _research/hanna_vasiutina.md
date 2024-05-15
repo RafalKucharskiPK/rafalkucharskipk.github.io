@@ -5,7 +5,7 @@ description: test
 img: assets/img/person/hanna_vasiutina.jpg
 importance: 2
 category: PostDocs
-bio: I completed her PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands
+bio: I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands
 author: Vasiutina
 arXiv:
 github: 
