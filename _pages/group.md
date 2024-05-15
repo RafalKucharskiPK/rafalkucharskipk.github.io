@@ -11,7 +11,7 @@ horizontal: false
 ---
 
 
-<center><img src="{{ site.baseurl }}/assets/img/team.jpg" height="600" width="400"></center>
+<center><img src="{{ site.baseurl }}/assets/img/team.jpg" width="600" height="400"></center>
 
 
 <div class="projects">
