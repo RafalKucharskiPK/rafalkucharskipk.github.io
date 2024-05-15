@@ -2,7 +2,7 @@
 layout: page
 title: COeXISTENCE
 description: COeXISTENCE
-img: 
+img: assets/img/p_coexistence/logo_coexistence.jpg
 importance: 1
 category: grants
 ---
