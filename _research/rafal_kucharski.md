@@ -6,7 +6,7 @@ img: assets/img/person/rafal_kucharski.jpg
 importance: 2
 category: PI
 author: Kucharski
-bio: opis
+bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow (Poland) with the Group of Machine Learning Research GMUM. I run the ERC Starting Grant COeXISTENCE where I bridge between ML and transportation - we simulate how intelligent machines compete with humans for limited urban resources (space) and what can we expect as well as the NCN Opus Grant on Shared Mobility in the pandemic times. I am also involved in Horizon Europe project, SUM.
 arXiv:
 github: 
 gitlab:
