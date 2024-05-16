@@ -78,7 +78,7 @@ pagination:
     {% if page == paginator.page %}
       <em>{{ page }}</em>
     {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
+      <a href="{{ '/' | relative_url }}page{{ page }}">{{ page }}</a>
     {% else %}
       <a href="{{ '/' | relative_url }}page{{ page }}">{{ page }}</a>
     {% endif %}
