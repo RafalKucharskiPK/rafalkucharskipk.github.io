@@ -53,7 +53,7 @@ pagination:
       Previous
     </a>
   {% else %}
-    <span class="previous">Previousz</span>
+    <span class="previous page-item disabled">Previous </span>
   {% endif %}
   <span class="page_number ">
     Page: {{ paginator.page }} of {{ paginator.total_pages }}
@@ -61,7 +61,7 @@ pagination:
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next page-item disabled">Next</span>
   {% endif %}
 </div>
 
