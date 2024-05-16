@@ -66,3 +66,4 @@ pagination:
 </div>
 
 
+<nav aria-label="Blog page navigation"> <ul class="pagination pagination-lg justify-content-center"> <li class="page-item disabled"> <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a> </li> <li class="page-item active"> <a class="page-link" href="/al-folio/blog/index.html" title="blog">1</a> </li> <li class="page-item "> <a class="page-link" href="/al-folio/blog/page/2/index.html" title="blog - page 2">2</a> </li> <li class="page-item "> <a class="page-link" href="/al-folio/blog/page/3/index.html" title="blog - page 3">3</a> </li> <li class="page-item "> <a class="page-link" href="/al-folio/blog/page/4/index.html" title="blog - page 4">4</a> </li> <li class="page-item "> <a class="page-link" href="/al-folio/blog/page/5/index.html" title="blog - page 5">5</a> </li> <li class="page-item "> <a class="page-link" href="/al-folio/blog/page/2/">Older</a> </li> </ul> </nav>
