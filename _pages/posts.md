@@ -47,7 +47,7 @@ pagination:
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="pagination">
+<div class="Blog page navigation">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
       Previous
@@ -56,7 +56,7 @@ pagination:
     <span class="previous page-item disabled">Previous </span>
   {% endif %}
   <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+   {{ paginator.page }} of {{ paginator.total_pages }}
   </span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
