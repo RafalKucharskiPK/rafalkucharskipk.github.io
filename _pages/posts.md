@@ -50,7 +50,7 @@ pagination:
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
+      Previous 
     </a>
   {% else %}
     <span class="previous">Previous </span>
