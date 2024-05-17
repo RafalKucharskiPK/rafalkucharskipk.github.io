@@ -8,14 +8,14 @@ category: PI
 author: Kucharski
 bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow (Poland) with the Group of Machine Learning Research GMUM. I run the ERC Starting Grant COeXISTENCE where I bridge between ML and transportation - we simulate how intelligent machines compete with humans for limited urban resources (space) and what can we expect as well as the NCN Opus Grant on Shared Mobility in the pandemic times. I am also involved in Horizon Europe project, SUM.
 arXiv:
-github: 
+github: [https://github.com/rafalkucharskiPK,rafalkucharskiPK]
 gitlab:
-google_scholar:
+google_scholar: [https://scholar.google.com/citations?user=z3bOMUAAAAAJ, google-scholar]
 instagram:
-linkedin: 
-orcid:
-researchgate:
-x: 
+linkedin: [https://www.linkedin.com/in/rafalkucharski, rafalkucharski]
+orcid: [https://orcid.org/0000-0002-9767-8883, 0000-0002-9767-8883]
+researchgate: [https://www.researchgate.net/profile/Rafal-Kucharski-2, Rafal-Kucharski-2]
+x: [https://x.com/UrbMobRafal, UrbMobRafal]
 ---
 
 I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. Full [CV](/assets/pdf/cv_eng_2022.pdf)
