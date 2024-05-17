@@ -13,7 +13,7 @@ gitlab:
 google_scholar:
 instagram:
 linkedin: [https://www.linkedin.com/in/usmanakhtar, usmanakhtar]
-orcid: [https://orcid.org/0000-0003-4553-0550,0000-0003-4553-0550]
+orcid: [https://orcid.org/0000-0003-4553-0550, 0000-0003-4553-0550]
 researchgate: [https://www.researchgate.net/profile/Usman-Akhtar, Usman-Akhtar]
 x: 
   
