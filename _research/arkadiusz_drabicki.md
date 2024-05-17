@@ -10,11 +10,11 @@ bio:
 arXiv:
 github: 
 gitlab:
-google_scholar: [https://scholar.google.pl/citations?user=-XyYxkoAAAAJ, google_scholar]
+google_scholar: ['https://scholar.google.pl/citations?user=-XyYxkoAAAAJ', google_scholar]
 instagram:
 linkedin: 
-orcid: [https://orcid.org/0000-0001-8191-6886, 0000-0001-8191-6886]
-researchgate: [https://www.researchgate.net/profile/Arkadiusz-Drabicki, Arkadiusz-Drabicki]
+orcid: ['https://orcid.org/0000-0001-8191-6886', 0000-0001-8191-6886]
+researchgate: ['https://www.researchgate.net/profile/Arkadiusz-Drabicki', Arkadiusz-Drabicki]
 x: 
 ---
 
