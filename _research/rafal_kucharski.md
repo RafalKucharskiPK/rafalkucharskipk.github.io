@@ -10,12 +10,12 @@ bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Scie
 arXiv:
 github: [https://github.com/rafalkucharskiPK, rafalkucharskiPK]
 gitlab:
-google_scholar: [https://scholar.google.com/citations?user=z3bOMUAAAAAJ, google-scholar]
+google_scholar: ['https://scholar.google.com/citations?user=z3bOMUAAAAAJ', google-scholar]
 instagram:
-linkedin: [https://www.linkedin.com/in/rafalkucharski, rafalkucharski]
-orcid: [https://orcid.org/0000-0002-9767-8883, 0000-0002-9767-8883]
+linkedin: ['https://www.linkedin.com/in/rafalkucharski', rafalkucharski]
+orcid: ['https://orcid.org/0000-0002-9767-8883', '0000-0002-9767-8883']
 researchgate: ['https://www.researchgate.net/profile/Rafal-Kucharski-2', 'Rafal-Kucharski-2']
-x: [https://x.com/UrbMobRafal, UrbMobRafal]
+x: ['https://x.com/UrbMobRafal', 'UrbMobRafal']
 ---
 
 I research complex social systems: **urban mobility**. Congested, urban multimodal networks used by millions of agents to reach their destinations and leaving huge sets of mobility traces ready to be applied for modelling, optimization, understanding and control. Full [CV](/assets/pdf/cv_eng_2022.pdf)
