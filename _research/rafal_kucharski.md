@@ -14,7 +14,7 @@ google_scholar: [https://scholar.google.com/citations?user=z3bOMUAAAAAJ, google-
 instagram:
 linkedin: [https://www.linkedin.com/in/rafalkucharski, rafalkucharski]
 orcid: [https://orcid.org/0000-0002-9767-8883, 0000-0002-9767-8883]
-researchgate: [https://www.researchgate.net/profile/Rafal-Kucharski-2, Rafal-Kucharski-2]
+researchgate: ['https://www.researchgate.net/profile/Rafal-Kucharski-2', 'Rafal-Kucharski-2']
 x: [https://x.com/UrbMobRafal, UrbMobRafal]
 ---
 
