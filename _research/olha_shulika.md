@@ -12,7 +12,7 @@ github:
 gitlab:
 google_scholar:
 instagram:
-linkedin: www.linkedin.com/in/olha-shulika
+linkedin: [www.linkedin.com/in/olha-shulika, olha-shulika]
 orcid: [https://orcid.org/0000-0002-1912-1115, 0000-0002-1912-1115]
 researchgate:
 x: 

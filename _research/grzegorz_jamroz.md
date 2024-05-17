@@ -12,8 +12,8 @@ github:
 gitlab:
 google_scholar:
 instagram:
-linkedin: https://www.linkedin.com/in/grzegorzjamroz
-orcid: https://orcid.org/0009-0004-7451-1484
+linkedin: [https://www.linkedin.com/in/grzegorzjamroz, grzegorzjamroz] 
+orcid: [https://orcid.org/0009-0004-7451-1484, 0009-0004-7451-1484]
 researchgate:
 x: 
 ---
