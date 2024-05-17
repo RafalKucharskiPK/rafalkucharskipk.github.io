@@ -13,7 +13,7 @@ gitlab:
 google_scholar:
 instagram:
 linkedin: [https://www.linkedin.com/in/farnoud-ghasemi-ab9903178, farnoud-ghasemi-ab9903178]
-orcid: [https://orcid.org/0000-0001-8866-647X, orcid.org/0000-0001-8866-647X]
+orcid: [https://orcid.org/0000-0001-8866-647X, orcid.org/0000-0001-8866-647X, 0000-0001-8866-647X]
 researchgate:
 x: 
 ---
