@@ -5,7 +5,7 @@ description: PhD student in dynamics of two-sided mobility markets.
 img: assets/img/person/farnoud_ghasemi.jpg
 importance: 1
 category: PhD students
-author: Ghaseni
+author: Ghasemi
 bio: I am currently a PhD student within the Faculty of Mathematics and Computer Science at the Jagiellonian University. My PhD research under the supervision of Prof. Rafal Kucharski, focuses on studying behavioural dynamics of two-sided mobility using agent-based microsimulation
 arXiv: ['https://arxiv.org/search/cs?searchtype=author&query=Ghasemi,+F', arXiv]
 github: 
