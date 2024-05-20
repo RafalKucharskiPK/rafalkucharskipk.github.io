@@ -2,6 +2,6 @@
 display: inline-block !important;
 }
 .post a{
-color:#007bff;
-text-decoration:underline;
+color: #007bff !important;
+text-decoration: underline;
 }
