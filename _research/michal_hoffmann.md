@@ -6,7 +6,7 @@ img: assets/img/person/michal_hoffmann.jpg
 importance: 2
 category: students
 author: Hoffmann
-bio: I am currently pursuing a bachelor's degree in Theoretical Computer Science at Jagiellonian University. My research focuses on competition in the transportation, where I combine Game Theory with Machine Learning to explore the impact of conflicts on everyday commuter. I love to work on intersection of various fields where I can use sometimes unorthodox methods solving my problems.
+bio: I am currently pursuing a bachelor's degree in Theoretical Computer Science at Jagiellonian University. My research focuses on competition in the transportation, where I combine Game Theory with Machine Learning to explore the impact of conflicts on everyday commuter.
 arXiv:
 github: 
 gitlab:
