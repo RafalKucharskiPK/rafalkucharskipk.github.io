@@ -6,7 +6,7 @@ img: assets/img/person/grzegorz_jamroz.jpg
 importance: 1
 category: PostDocs
 bio: I defended my PhD in mathematics at University of Warsaw (Poland) in 2015. My research experience includes internships at University of Heidelberg (Germany) and postdoc positions at University of Warwick (UK), University of Basel (Switzerland) and Institute of Mathematics, Polish Academy of Sciences in Warsaw.
-author: Jamroz
+author: Jamróz
 arXiv:
 github: 
 gitlab:
