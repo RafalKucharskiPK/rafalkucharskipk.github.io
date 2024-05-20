@@ -1,6 +1,6 @@
 ---
 layout: page
-title: alumni
+title: others
 description: others
 img: assets/img/UJ.jpeg
 importance: 2
