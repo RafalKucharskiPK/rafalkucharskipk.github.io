@@ -55,7 +55,11 @@ layout: default
 							{% endif %}
 							
 							{% if page.x %}
-							<br><a href="{{ page.x[0] }}"><i class="fab fa-twitter"></i> {{ page.x[1]}}</a>
+							<br><a href="{{ page.x[0] }}"><i class="fab fa-twitter"></i> {{ page.x[1] }}</a>
+							{% endif %}
+							
+							{% if page.scopus %}
+							<br><a href="{{ page.scopus[0] }}"><i class="fab fa-twitter"></i> {{ page.scopus[1] }}</a>
 							{% endif %}
 				</p>
 				
