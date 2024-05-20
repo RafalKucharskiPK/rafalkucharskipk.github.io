@@ -10,9 +10,9 @@ bio: I am a graduate of the applied mathematics at the Jagiellonian University. 
 arXiv:
 github: 
 gitlab:
-google_scholar:
+google_scholar: ['https://scholar.google.com/citations?user=0fSpVToAAAAJ','Google Scholar']
 instagram:
-linkedin: 
+linkedin: ['https://www.linkedin.com/in/hoffmann-michal','hoffmann-michal']
 orcid:
 researchgate:
 x: 
