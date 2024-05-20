@@ -1,3 +1,7 @@
 .publications {
 display: inline-block !important;
 }
+.post a{
+color:#007bff;
+text-decoration:underline;
+}
