@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: DigiWorld
 description: tenure-track professor position
 img: assets/img/iduj.png

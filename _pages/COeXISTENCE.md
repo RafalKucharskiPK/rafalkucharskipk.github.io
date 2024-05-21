@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 permalink: /COeXISTENCE/
 title: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility

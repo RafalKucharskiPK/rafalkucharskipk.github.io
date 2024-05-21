@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: optimization
 description: Exact algorithm for ride-pooling ExMAS
 img: assets/img/map.png

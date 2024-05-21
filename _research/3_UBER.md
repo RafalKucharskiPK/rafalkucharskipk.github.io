@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: big data
 description: Uber versus PT in 6 cities - spatial analyses
 img: assets/img/uber.png

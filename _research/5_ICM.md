@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: modelling
 description: Simulation of rerouting phenomena in Dynamic Traffic Assignment with the Information Comply Model
 img: assets/img/ICM.png

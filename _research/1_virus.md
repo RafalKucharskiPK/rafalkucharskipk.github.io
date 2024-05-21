@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: network science
 description: Modelling virus spreading in ride-pooling networks
 img: assets/img/virus.png
