@@ -7,7 +7,9 @@ importance: 1
 category: grants
 ---
 
-
+<p align="center">
+<img src="/./assets/img/p_opus/opus.jpg" alt="drawing" height="100"/>
+</p>
 
 > Modelling and controlling virus spread processes in shared mobility networks 2021-2024, 1mln PLN funded by National Science Centre under scheme OPUS 19
 
