@@ -7,6 +7,10 @@ importance: 1
 category: grants
 ---
 
+<p align="center">
+<img src="/./assets/img/p_sum/team_sum.jpg" alt="drawing" height="400"/>
+</p>
+
 Transformation of existing transport networks by introducing New and Shared Mobility integrated with public transport
 <p align="center">
 <img src="/./assets/img/p_sum/0964_SUM_LOGO_RGB_HR.jpg" alt="drawing" height="100"/>
