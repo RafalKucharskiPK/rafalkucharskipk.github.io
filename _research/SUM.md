@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: SUM
 description: Seamless shared urban mobility (SUM)
 img: assets/img/p_sum/0964_SUM_LOGO_RGB_HR.jpg
