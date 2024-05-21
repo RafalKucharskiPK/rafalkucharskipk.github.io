@@ -7,7 +7,7 @@ description:
 order: 0
 profile:
   align: right
-  image: person/rafal_kucharski.jpg
+  image: team.jpg
 published: true
 
 news: false  # includes a list of news items
