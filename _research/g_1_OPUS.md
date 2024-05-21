@@ -1,6 +1,6 @@
 ---
 layout: project
-keywords: OPUS
+k: OPUS
 title: PostCorona Shared Mobility
 description: NCN Opus Personal Grant
 img: assets/img/logo_NCN.png
