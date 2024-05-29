@@ -12,7 +12,7 @@ github: ['https://github.com/kistref', 'kistref']
 gitlab:
 google_scholar:
 instagram:
-linkedin: ['https://www.linkedin.com/in/zoltan-gyorgy-varga-832aa01b0', 'google_scholar']
+linkedin: ['https://www.linkedin.com/in/zolt%C3%A1n-gy%C3%B6rgy-varga-832aa01b0', 'zoltán-györgy-varga-832aa01b0']
 orcid: ['https://orcid.org/0009-0005-9917-1284', '0009-0005-9917-1284']
 researchgate:
 x: 
