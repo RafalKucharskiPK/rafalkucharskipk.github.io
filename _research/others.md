@@ -1,7 +1,7 @@
 ---
 layout: page
 title: others
-description: others
+description:
 img: assets/img/UJ.jpeg
 importance: 2
 category: others
