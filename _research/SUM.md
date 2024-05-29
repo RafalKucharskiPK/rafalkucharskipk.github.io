@@ -20,7 +20,7 @@ Transformation of existing transport networks by introducing New and Shared Mobi
 Welcome to the SUM project, where we are redefining urban mobility by integrating new and shared transportation modes with existing public transit systems of 15 European cities by 2026 and in 30 European cities by 2030, focussing on innovation, interconnectivity, environmental sustainability, safety, resilience, and replicability. By 2050, the urban population is expected to account for 82% of the world’s population, posing major challenges for sustainable urban mobility. A shift from private cars to public and shared transport is essential to address problems such as air pollution, congestion, and energy consumption.
 
 <p align="center">
-<img src="/./assets/img/p_sum/illustration.jpg" alt="drawing" height="470"/>
+<img src="/./assets/img/p_sum/illustration.jpg" alt="drawing" height="480"/>
 </p>
 
 Under Rafal Kucharski supervision with the team of 4 researchers from the Urban Mobility group, we use the ExMAS algorithm to match trips into attractive shared rides. This approach allows estimating the potential of shared rides, where people share their trips simultaneously with other co-travellers in the same vehicle (e.g., taxi or Uber). As part of the project, the potential of this type of rides will be explored in selected areas of Munich, Geneva, Athens, Jerusalem, and Krakow. The city of Krakow (a partner in the project) plans to open its van-pooling services integrated with the tram. Due to the proposed method, the city could identify areas with high potential for success. Out of 11 candidate areas now, the two are under further investigation to help make a proper decision on where and how to introduce the new system.
