@@ -8,7 +8,7 @@ category: others
 ---
 
 
-* Also, I co-laborated, yet did not supervised 4 PhD students of [Critical MaaS](http://smartptlab.tudelft.nl/projects/criticalmaas) project in TU Delft: Arjan de Ruijter ([his project](http://smartptlab.tudelft.nl/our-group/arjan-de-ruijter) ), Nejc Gerzinic ([his project](http://smartptlab.tudelft.nl/our-group/nejc-gerzinic)), Subodh Dubey and Peyman Ashkrof - with some I co-authored papers, for some I developed software for the needs of the thesis, yet they were not formally supervised by me.
+* Also, I co-laborated, yet did not supervised 4 PhD students of Critical MaaS project in TU Delft: Arjan de Ruijter, Nejc Gerzinic , Subodh Dubey and Peyman Ashkrof - with some I co-authored papers, for some I developed software for the needs of the thesis, yet they were not formally supervised by me. 
 
 > Master/undergrad students
 
