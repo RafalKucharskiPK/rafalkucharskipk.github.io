@@ -2,7 +2,7 @@
 layout: project
 project: OPUS
 title: PostCorona Shared Mobility
-description: NCN Opus Personal Grant UMO-2020/37/B/HS4/01847 
+description:NCN Opus Personal Grant UMO-2020/37/B/HS4/01847 
 img: assets/img/logo_NCN.png
 importance: 1
 category: grants
@@ -22,7 +22,7 @@ We anticipate substantial changes to post-corona urban mobility, when safety con
 
 * WP3: propose efficient strategies to trace and control it Control, trace and halt spreading with a proactive strategic, tactical and operational system management to make sharing safe again. Demand management to keep system attractive, yet controlling the contact to prevent a future outbreaks.
 
-Two PhD students involved: Michal Bujak and Farnoud Ghasemi
+Two PhD students involved: [Michal Bujak](/research/michal_bujak) and [Farnoud Ghasemi](/research/farnoud_ghasemi)
 
-Two PostDocs involved: Olha Shulika and Usman Akthar 
+Two PostDocs involved: [Olha Shulika](/research/olha_shulika) and [Usman Akthar](/research/usman_akhtar) 
 
