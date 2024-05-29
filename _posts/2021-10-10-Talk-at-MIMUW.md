@@ -2,7 +2,7 @@
 layout: post
 date: 2021-10-10 09:10:00-0400
 inline: true
-title:
+title: Talk at MIMUW
 img:
 ---
 

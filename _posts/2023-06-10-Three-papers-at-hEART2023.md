@@ -1,8 +1,8 @@
-  ---
+---
 layout: post
 date: 2023-06-10 09:10:00-0400
 inline: true
-title:
+title: Three papers at hEART2023
 img:
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 date: 2021-02-01 09:10:00-0400
 inline: true
-title:
+title: Our paper accepted for MT-ITS
 img:
 ---
 

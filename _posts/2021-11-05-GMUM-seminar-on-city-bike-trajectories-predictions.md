@@ -2,7 +2,7 @@
 layout: post
 date: 2021-11-05 09:10:00-0400
 inline: true
-title:
+title: GMUM seminar on city bike trajectories predictions
 img:
 ---
 

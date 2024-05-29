@@ -2,7 +2,7 @@
 layout: post
 date: 2022-11-11 09:10:00-0400
 inline: true
-title:
+title: Paper published!
 img:
 ---
 

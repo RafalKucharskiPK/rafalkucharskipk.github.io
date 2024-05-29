@@ -2,7 +2,7 @@
 layout: post
 date: 2024-03-13
 inline: true
-title:
+title: Faculty Day
 img: https://matinf.uj.edu.pl/documents/41633/155714947/DW07.jpg
 ---
 

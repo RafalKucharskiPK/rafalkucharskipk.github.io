@@ -2,7 +2,7 @@
 layout: post
 date: 2021-10-12 09:10:00-0400
 inline: true
-title:
+title: MSCA proposal submitted
 img:
 ---
 

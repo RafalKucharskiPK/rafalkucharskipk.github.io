@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-11 09:10:00-0400
 inline: true
-title:
+title: Our results published in JoTG
 img: https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/assets/20555451/0a8e6e2c-6b44-4fd4-a113-e95fbef76d1d
 ---
 

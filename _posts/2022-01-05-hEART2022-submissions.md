@@ -2,7 +2,7 @@
 layout: post
 date: 2022-01-05 09:10:00-0400
 inline: true
-title:
+title: hEART2022 submissions
 img:
 ---
 

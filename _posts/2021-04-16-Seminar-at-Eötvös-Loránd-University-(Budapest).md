@@ -2,7 +2,7 @@
 layout: post
 date: 2021-04-16 09:10:00-0400
 inline: true
-title:
+title: Seminar at Eötvös Loránd University (Budapest)
 img:
 ---
 

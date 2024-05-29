@@ -2,7 +2,7 @@
 layout: post
 date: 2020-01-20 09:10:00-0400
 inline: true
-title:
+title: Our poster presented at TRB2020
 img:
 ---
 

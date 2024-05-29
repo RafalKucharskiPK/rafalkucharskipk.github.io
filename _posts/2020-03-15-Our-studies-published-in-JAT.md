@@ -2,7 +2,7 @@
 layout: post
 date: 2020-03-15 09:10:00-0400
 inline: true
-title:
+title: Our studies published in JAT
 img:
 ---
 

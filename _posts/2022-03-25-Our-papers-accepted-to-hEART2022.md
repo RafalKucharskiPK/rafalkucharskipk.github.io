@@ -2,7 +2,7 @@
 layout: post
 date: 2022-03-25 09:10:00-0400
 inline: true
-title:
+title: Our papers accepted to hEART 2022
 img:
 ---
 

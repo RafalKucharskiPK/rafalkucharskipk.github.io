@@ -2,7 +2,7 @@
 layout: post
 date: 2022-06-06 09:10:00-0400
 inline: true
-title:
+title: A few words about ride pooling problem at Cracow University of Technology
 img:
 ---
 

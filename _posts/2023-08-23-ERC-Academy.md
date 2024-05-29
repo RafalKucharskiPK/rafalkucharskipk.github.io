@@ -2,7 +2,7 @@
 layout: post
 date: 2023-08-28 09:10:00-0400
 inline: true
-title:
+title: ERC Academy
 img:
 ---
 

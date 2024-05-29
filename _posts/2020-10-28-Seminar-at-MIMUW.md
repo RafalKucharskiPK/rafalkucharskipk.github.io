@@ -2,7 +2,7 @@
 layout: post
 date: 2020-10-28 09:10:00-0400
 inline: true
-title:
+title: Seminar-at-MIMUW
 img:
 ---
 

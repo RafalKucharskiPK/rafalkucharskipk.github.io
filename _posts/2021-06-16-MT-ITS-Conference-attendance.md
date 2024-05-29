@@ -2,7 +2,7 @@
 layout: post
 date: 2021-06-16 09:10:00-0400
 inline: true
-title:
+title: MT-ITS Conference attendance
 img:
 ---
 
