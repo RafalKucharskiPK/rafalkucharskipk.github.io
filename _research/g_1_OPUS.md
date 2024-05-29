@@ -2,7 +2,7 @@
 layout: project
 project: OPUS
 title: PostCorona Shared Mobility
-description:NCN Opus Personal Grant UMO-2020/37/B/HS4/01847 
+description: NCN Opus Personal Grant UMO-2020/37/B/HS4/01847 
 img: assets/img/logo_NCN.png
 importance: 1
 category: grants
@@ -24,5 +24,4 @@ We anticipate substantial changes to post-corona urban mobility, when safety con
 
 Two PhD students involved: <a href="/research/michal_bujak">Michal Bujak</a> and <a href="/research/farnoud_ghasemi">Farnoud Ghasemi</a>
 
-Two PostDocs involved: <a href="/research/olha_shulika">Olha Shulika</a> and <a href="/research/usman_akhtar">Usman Akthar</a> 
-
+Two PostDocs involved: <a href="/research/olha_shulika">Olha Shulika</a> and <a href="/research/usman_akhtar">Usman Akthar</a>
