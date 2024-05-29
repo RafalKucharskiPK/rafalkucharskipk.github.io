@@ -35,4 +35,3 @@ I run the seminar on Complex Social Systems (transport is one of them) at Jagiel
 
 
 
----
