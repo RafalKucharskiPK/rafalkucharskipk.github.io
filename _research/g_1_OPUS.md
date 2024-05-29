@@ -22,7 +22,7 @@ We anticipate substantial changes to post-corona urban mobility, when safety con
 
 * WP3: propose efficient strategies to trace and control it Control, trace and halt spreading with a proactive strategic, tactical and operational system management to make sharing safe again. Demand management to keep system attractive, yet controlling the contact to prevent a future outbreaks.
 
-Two PhD students involved: [Michal Bujak](/research/michal_bujak) and [Farnoud Ghasemi](/research/farnoud_ghasemi)
+Two PhD students involved: <a href="/research/michal_bujak">Michal Bujak</a> and <a href="/research/farnoud_ghasemi">Farnoud Ghasemi</a>
 
-Two PostDocs involved: [Olha Shulika](/research/olha_shulika) and [Usman Akthar](/research/usman_akhtar) 
+Two PostDocs involved: <a href="/research/olha_shulika">Olha Shulika</a> and <a href="/research/usman_akhtar">Usman Akthar</a> 
 
