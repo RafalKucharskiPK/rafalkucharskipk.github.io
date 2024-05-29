@@ -2,7 +2,7 @@
 layout: project
 project: OPUS
 title: PostCorona Shared Mobility
-description: NCN Opus Personal Grant
+description: NCN Opus Personal Grant UMO-2020/37/B/HS4/01847 
 img: assets/img/logo_NCN.png
 importance: 1
 category: grants
