@@ -6,7 +6,7 @@ img: assets/img/person/rafal_kucharski.jpg
 importance: 2
 category: PI
 author: Kucharski
-bio: I am an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow (Poland) with the Group of Machine Learning Research GMUM. I run the ERC Starting Grant COeXISTENCE where I bridge between ML and transportation - we simulate how intelligent machines compete with humans for limited urban resources (space) and what can we expect as well as the NCN Opus Grant on Shared Mobility in the pandemic times. I am also involved in Horizon Europe project, SUM.
+bio: I am an Associate Professor at the Faculty of Mathematics and Computer Science, Jagiellonian University in Krakow (Poland) with the Group of Machine Learning Research GMUM. I run the ERC Starting Grant COeXISTENCE where I bridge between ML and transportation - we simulate how intelligent machines compete with humans for limited urban resources (space) and what can we expect as well as the NCN Opus Grant on Shared Mobility in the pandemic times. I am also involved in Horizon Europe project, SUM.
 arXiv:
 github: ['https://github.com/rafalkucharskiPK', 'rafalkucharskiPK']
 gitlab:
@@ -31,7 +31,7 @@ Before, I worked (2019-2021) with prof. Oded Cats at TU Delft in his ERC Startin
 
 **Teaching materials**
 
-I run the seminar on Complex Social Systems (transport is one of them) at the Jagiellonian University - [materials and papers are on my github](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb)
+I run the seminar on Complex Social Systems (transport is one of them) at the Jagiellonian University - [materials and papers are on my github](https://github.com/RafalKucharskiPK/ComplexSocialSystemsCourse/blob/main/Course.ipynb).
 
 
 
