@@ -14,5 +14,5 @@ I will be talking about how challenging is introducing the human factor into mod
 See you there!
 
 
-[<img src="https://media.licdn.com/dms/image/D4D22AQGnqy4fTO7XgA/feedshare-shrink_1280/0/1711360946141?e=1715212800&v=beta&t=yy8YmkhBs_ORaZcfzCZCvGw9pgdldifMNH4kYxRtRLU" width="150"/>](https://media.licdn.com/dms/image/D4D22AQGnqy4fTO7XgA/feedshare-shrink_1280/0/1711360946141?e=1715212800&v=beta&t=yy8YmkhBs_ORaZcfzCZCvGw9pgdldifMNH4kYxRtRLU)
+
 [Presentation](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/sfi.pdf)
