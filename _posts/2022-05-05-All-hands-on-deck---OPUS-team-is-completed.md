@@ -7,4 +7,3 @@ img: https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/
 ---
 
 🎆Happy to welcome the complete team - there is five of us, two PhD, 2PD and myself. Meet us [here](https://rafalkucharskipk.github.io/group/)🎆
-<center><img src="{{ site.baseurl }}/assets/img/all_hands_on_deck.jpg" height="115" width="157"></center>
