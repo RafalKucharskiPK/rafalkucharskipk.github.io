@@ -6,4 +6,4 @@ title: Farnound joins the team
 img:
 ---
 
-We grow - Farnoud will join as a PhD student to dig deeper into learning and adaptation in MaaSSim. Welcome!
+We grow - [**Farnoud**](https://www.linkedin.com/in/farnoud-ghasemi-ab9903178/) will join as a PhD student to dig deeper into learning and adaptation in MaaSSim. Welcome!
