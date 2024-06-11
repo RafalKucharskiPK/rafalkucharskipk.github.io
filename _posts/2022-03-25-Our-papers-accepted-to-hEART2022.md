@@ -6,7 +6,7 @@ title: Our papers accepted to hEART 2022
 img:
 ---
 
-💣 4/4 our papers got accepted to this year [hEART](https://heart2022.com/) conference: 
+💣 4/4 our papers got accepted to this year [hEART](https://transp-or.epfl.ch/heart/2022.php) conference: 
 Michal Bujak with topological properties of ride-pooling;
 Farnoud Ghasemi with drivers request acceptance simulation;
 [Marko Maricic](https://repository.tudelft.nl/islandora/object/uuid%3A3e9426a7-a3ec-4943-af7c-55a26592beaa) with stop-to-stop ride-pooling;
