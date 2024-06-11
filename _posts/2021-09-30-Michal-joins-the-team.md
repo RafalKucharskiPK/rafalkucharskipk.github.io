@@ -6,4 +6,4 @@ title: Michal joins the team
 img:
 ---
 
-New member of the team Michal Bujak joined us to research on topologies of ride-pooling networks. Welcome
+New member of the team [**Michal Bujak**](https://www.linkedin.com/in/michal-bujak-836602182/) joined us to research on topologies of ride-pooling networks. Welcome
