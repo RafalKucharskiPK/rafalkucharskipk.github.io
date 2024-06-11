@@ -6,4 +6,4 @@ title: Complex Networks in Madrid
 img:
 ---
 
-I presented our virus spreading model [from SciRep](https://www.nature.com/articles/s41598-021-86704-2) at the complex networks conference in [Madrid](https://complexnetworks.org/)
+I presented our virus spreading model [from SciRep](https://www.nature.com/articles/s41598-021-86704-2) at the complex networks conference in [Madrid](https://complexnetworks.org/).
