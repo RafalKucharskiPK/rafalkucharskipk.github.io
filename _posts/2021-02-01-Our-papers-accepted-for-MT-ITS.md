@@ -6,4 +6,4 @@ title: Our paper accepted for MT-ITS
 img:
 ---
 
-Two of our papers got accepted for MT-ITS conference organised by TU Munich (https://www.mt-its2021.tse.bgu.tum.de/). One on MaaSSim simulator and second one on Bus Bunching (with Arek Drabicki)
+Two of our papers got accepted for [**MT-ITS conference**](https://www.mt-its2021.tse.bgu.tum.de/) organised by TU Munich. One on MaaSSim simulator and second one on Bus Bunching (with Arek Drabicki)
