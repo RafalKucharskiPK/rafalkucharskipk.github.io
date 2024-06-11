@@ -6,4 +6,4 @@ title: All hand on deck - OPUS team is completed
 img: https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/team1.jpg
 ---
 
-🎆Happy to welcome the complete team - there is five of us, two PhD, 2PD and myself. Meet us [here](https://rafalkucharskipk.github.io/research/g_1_OPUS/)🎆
+🎆Happy to welcome the complete team - there is [five of us](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/team1.jpg), two PhD, 2PD and myself. Meet us [here](https://rafalkucharskipk.github.io/research/g_1_OPUS/)🎆
