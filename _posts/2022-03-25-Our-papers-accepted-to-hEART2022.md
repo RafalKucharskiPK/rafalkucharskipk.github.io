@@ -10,4 +10,4 @@ img:
 Michal Bujak with [topological properties of ride-pooling](https://transp-or.epfl.ch/heart/2022/abstracts/113.pdf);
 Farnoud Ghasemi with [drivers request acceptance simulation](https://transp-or.epfl.ch/heart/2022/abstracts/117.pdf);
 [Marko Maricic](https://repository.tudelft.nl/islandora/object/uuid%3A3e9426a7-a3ec-4943-af7c-55a26592beaa) with stop-to-stop ride-pooling;
-and [Arkadiusz Drabicki](https://doi.org/10.1007/s11116-022-10270-3) will fight bus-bunching with real-time information. Looking forward.ng 🚀
+and [Arkadiusz Drabicki](https://doi.org/10.1007/s11116-022-10270-3) will fight bus-bunching with real-time information. Looking forward 🚀
