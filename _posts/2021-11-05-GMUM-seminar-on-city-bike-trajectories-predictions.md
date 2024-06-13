@@ -6,4 +6,4 @@ title: GMUM seminar on city bike trajectories predictions
 img:
 ---
 
-On the weekly seminar of GMUM we kicked-off the project to predict trajectories with GNN and RL techniques. With Lukasz Brzozowski, Jacek Tabor, Przemek Spurek and Lukasz Kucinski we will try to predict city-bike trajectories in Krakow.
+On the weekly seminar of [**GMUM**](https://gmum.net/) we kicked-off the project to predict trajectories with GNN and RL techniques. With Lukasz Brzozowski, Jacek Tabor, Przemek Spurek and Lukasz Kucinski we will try to predict city-bike trajectories in Krakow.

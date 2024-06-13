@@ -6,4 +6,4 @@ title: Our paper accepted to PLOS One
 img:
 ---
 
-Our [Uber-paper](https://rafalkucharskipk.github.io/projects/3_UBER/) got accepted to `PLOS One` - great outlet for this relevant study.
+Our [Uber-paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0269682) got accepted to `PLOS One` - great outlet for this relevant study.
