@@ -15,8 +15,11 @@ category: grants
 > Modelling and controlling virus spread processes in shared mobility networks 2021-2024, 1mln PLN funded by National Science Centre under scheme OPUS 19
 
 We anticipate substantial changes to post-corona urban mobility, when safety concerns will drive individual, as well as, public decision makers. Travellers’ choices are likely to shift towards modes of low exposure to viruses. Consequently, the sustainable mobility paradigm needs to drift into ’sustainable, yet safe’, unleashing a novel trade-off dilemmas spanned between: cost-comfort-safety for individuals and sustainability-efficiency-safety for policymakers. Outcomes of those decision patterns are likely to disturb landscape of urban mobility. When sustainable mass transit modes start being avoided by risk averse travellers, it may have devastating consequences on performance of transport systems (congestion and traffic delays) and its externalities (emissions, pressure on public space, etc.), which shall be counteracted. Notably, due to recent, disruptive changes in urban mobility, the, so-called, shared mobility (where two or more travellers share the same vehicle to reach the destination), provided via two-sided platforms (like Uber and Lyft), has proven to be an appealing alternative. Whether it will remain attractive solution for emerging mobility problems remains unknown. In particular, it is not known: 
+
 a) how travellers willingness-to-share will change;
+
 b) how viruses spread through the shareability graph;
+
 c) how can we redesign shared rides system to control spreading and make sharing rides safe. 
 
 This calls for a new set of models, theories and analyses to understand how shared rides can contribute to post-corona urban mobility. To this end, in this project we aim to:
