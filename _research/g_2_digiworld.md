@@ -9,7 +9,7 @@ category: grants
 
 
 
-> Fully funded tenure-track professor position at Group of Machine Learning
+> Fully funded tenure-track professor position at Group of Machine Learning Research
 
 With this grant I enjoy a three-year fully funded assistant professor position to collaborate with Group of Machine Learning Research GMUM at the Faculty of Mathematics and Computer Science. 
 We explore intersections between AI/ML and modern ubran mobility. 
