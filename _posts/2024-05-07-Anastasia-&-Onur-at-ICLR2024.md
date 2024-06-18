@@ -4,7 +4,7 @@ date: 2024-05-07
 inline: true 
 title: Anastasia & Onur at ICLR2024
 img: https://rafalkucharskipk.github.io/assets/img/Onur_Vienna.jpg
-img: https://rafalkucharskipk.github.io/assets/img/Anastasia_Vienna.jpg
+img: https://rafalkucharskipk.github.io/assets/pdf/ICLR.pdf
 
 --- 
 
