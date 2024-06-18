@@ -23,13 +23,13 @@ I run the **ERC Starting Grant** to understand the future of Urban Mobility. In 
 
 It spans between fields as diverse as:
 
-* game theory
-* deep reinforcement learning
-* complex social systems
-* sustainability
-* urban mobility
-* agent based modelling
-* discrete choice theory
+* game theory;
+* deep reinforcement learning;
+* complex social systems;
+* sustainability;
+* urban mobility;
+* agent based modelling;
+* discrete choice theory.
 
 <p align="center">
 <img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="220"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="120"/>
@@ -42,9 +42,9 @@ Our team is happily full at the moment, yet we are always happy to collaborate.
 
 Nonetheless, we may have Master Students, Visiting Professors or prospective PhD students in this project's ecosystem. 
 
-Feel free to reach us out at `coexistence@uj.edu.pl`
+Feel free to reach us out at **coexistence@uj.edu.pl**
 
-There are funding opportunities at ERC under [International Arrangement Funding](https://erc.europa.eu/apply-grant/additional-opportunities#International%20Arrangement%20funding)
+There are funding opportunities at ERC under [International Arrangement Funding](https://erc.europa.eu/apply-grant/additional-opportunities#International%20Arrangement%20funding).
 
 ----
 
