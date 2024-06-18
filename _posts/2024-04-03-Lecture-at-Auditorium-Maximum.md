@@ -3,7 +3,7 @@ layout: post
 date: 2024-04-03
 inline: true
 title: Lecture at Auditorium Maximum
-img: https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/SFI%20graphics.jpg
+img: 
 ---
 
 🗞 _Complex social systems simulations – human behavior modeling_, lecture on [**Friday at Auditorium Maximum**]( https://www.linkedin.com/feed/update/urn:li:activity:7178375135991631873/)
