@@ -9,4 +9,4 @@ img:
 🗞 When ride-pooling is attractive/efficient for all the parties involved (passengers, platforms/providers, city/environment/sustainability)?
 
 We examined half a year (1.5 million trip sample) from NYC, run 9 000 experiments with our 𝐄𝐱𝐌𝐀𝐒 and report 6 KPIs to move beyond the well-known 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐦𝐚𝐬𝐬 and better understand ride-pooling potential.
-See our results in [**𝐉𝐨𝐮𝐫𝐧𝐚𝐥 𝐨𝐟 𝐓𝐫𝐚𝐧𝐬𝐩𝐨𝐫𝐭 𝐆𝐞𝐨𝐠𝐫𝐚𝐩𝐡𝐲**] (https://www.sciencedirect.com/science/article/pii/S0966692323002399?via%3Dihub) with [**Olha Shulika**](https://www.linkedin.com/in/olha-shulika/), [**Michał Bujak**](https://www.linkedin.com/in/michal-bujak-836602182/) and [**Farnoud Ghasemi**](https://www.linkedin.com/in/farnoud-ghasemi-ab9903178/).
+See our results in [**Journal of Transport Geography**](https://www.sciencedirect.com/science/article/pii/S0966692323002399?via%3Dihub) with [**Olha Shulika**](https://www.linkedin.com/in/olha-shulika/), [**Michał Bujak**](https://www.linkedin.com/in/michal-bujak-836602182/) and [**Farnoud Ghasemi**](https://www.linkedin.com/in/farnoud-ghasemi-ab9903178/).
