@@ -17,5 +17,11 @@ We employ Reinforcement Learning, Graph Neural Networks and Deep Learning to sol
 We are opened for (potentially funded) Master Student projects - see active opened projects [here](https://gmum.net/).
 
 [More about the programme](https://matinf.uj.edu.pl/nauka/projekt-iduj/pobscimat)
-[On the Path to Perfection](https://www.youtube.com/watch?v=dPFCB3iNsss)
+
+
+
+
+
+
+* [On the Path to Perfection](https://www.youtube.com/watch?v=dPFCB3iNsss)
 
