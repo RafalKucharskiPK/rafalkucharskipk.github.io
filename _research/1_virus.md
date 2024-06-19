@@ -2,7 +2,7 @@
 layout: project
 title: network science
 description: Modelling virus spreading in ride-pooling networks
-img: https://rafalkucharskipk.github.io/assets/assets/img/virus.png
+img: assets/img/virus.png
 importance: 1
 category: varia
 ---
