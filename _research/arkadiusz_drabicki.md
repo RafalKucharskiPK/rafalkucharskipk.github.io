@@ -16,6 +16,8 @@ linkedin:
 orcid: ['https://orcid.org/0000-0001-8191-6886', '0000-0001-8191-6886']
 researchgate: ['https://www.researchgate.net/profile/Arkadiusz-Drabicki', 'Arkadiusz-Drabicki']
 x: 
+
+
 ---
 
 [Akradiusz Drabicki](https://www.researchgate.net/profile/Arkadiusz-Drabicki) - co-supervised by prof. Oded Cats (TU Delft) and prof. Andrzej Szarata (CUT Krakow). 
