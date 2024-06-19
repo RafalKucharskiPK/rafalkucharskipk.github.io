@@ -7,7 +7,7 @@ order: 1
 dropdown: true
 children:
   - title: COeXISTENCE
-    permalink: /COeXISTENCE/
+    permalink: /reasearch/coexistence/
   - title: divider
   - title: OPUS
     permalink: /research/g_1_OPUS/
