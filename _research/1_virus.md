@@ -15,7 +15,7 @@ see our [preprint](https://arxiv.org/abs/2011.12770) with Julian Sienkiewicz and
 
 
 <div class="img_row">
-    <img class="col two center" src="{{ site.baseurl }}https://rafalkucharskipk.github.io/assets/assets/img/virus.png">
+    <img class="col two center" src="{{ site.baseurl }}/assets/img/virus.png">
 </div>
 <div class="col two left caption">
     Figure 1:  Results of epidemic spread across 2000 ride-pooling travellers in Amsterdam. Set of experimental results.
