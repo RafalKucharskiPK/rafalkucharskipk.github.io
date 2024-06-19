@@ -3,7 +3,7 @@ layout: post
 date: 2023-12-11 09:10:00-0400
 inline: true
 title: Our results published in JoTG
-img: 
+img: https://rafalkucharskipk.github.io/assets/img/JOTG%20publication.jpg
 ---
 
 🗞 When ride-pooling is attractive/efficient for all the parties involved (passengers, platforms/providers, city/environment/sustainability)?
