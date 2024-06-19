@@ -9,7 +9,7 @@ category: varia
 
 **We collected data on millions of city bike trips from NYC and started thinking how to synthesize them. We came up with this idea of 'vector of movement' that aggregates mobility pattern into a single vector. With this we may now cluster big datasets into groups of similar patterns and provide more accurate mobility predictions (including weather)**
 
-Work initiated with a North Gravity for our AWS Data Science framework demo, followed with _Guido Cantelmo at TU Munich_, presented at _TRB 2020 (DC)_, [MATTS 2019 (Delft)](/./assets/pdf/MATTS_pres.pdf)  and published in [TRR](https://journals.sagepub.com/doi/10.1177/0361198120932160)
+Work initiated with a North Gravity for our AWS Data Science framework demo, followed with _Guido Cantelmo at TU Munich_, presented at _TRB 2020 (DC)_ and published in [TRR](https://journals.sagepub.com/doi/10.1177/0361198120932160)
 
 
 <center><img src="{{ site.baseurl }}/assets/img/vectors.jpeg"></center>
