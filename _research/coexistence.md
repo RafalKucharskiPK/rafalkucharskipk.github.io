@@ -6,9 +6,5 @@ description: Playing urban mobility games with intelligent machines. Framework t
 img: assets/img/p_coexistence/logo_coexistence.jpg
 importance: 1
 category: grants
+permalink: /COeXISTENCE/
 ---
-
-
-
-Coexistence
-
