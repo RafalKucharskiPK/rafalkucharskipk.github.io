@@ -12,7 +12,7 @@ category: others
 Arek researched a novel and emerging research field - he tried to understand the impacts of futuristic RTCI: Real-time crowding information for Public Transport. He extended and developed new functionalities to BusMezzo and ended-up with remarkable stream of publications marking the new territory in Public Transport. He graduated in 2023.
 
 
-Also, I co-laborated, yet did not supervised, 4 PhD students of Critical MaaS project in TU Delft: [**Arjan de Ruijter**](https://www.linkedin.com/in/arjan-de-ruijter/), [**Nejc Gerzinic**](https://www.linkedin.com/in/nejc-gerzinic/) , [**Subodh Dubey**](https://www.linkedin.com/in/subodh-dubey-587023146/) and [**Peyman Ashkrof**](https://www.linkedin.com/in/peyman-ashkrof-ph-d-9262b383/) - with some I co-authored papers, for some I developed software for the needs of the thesis, yet they were not formally supervised by me. 
+Also, I co-laborated, yet did not supervised, 4 PhD students of Critical MaaS project in TU Delft: [**Arjan de Ruijter**](https://www.linkedin.com/in/arjan-de-ruijter/), [**Nejc Geržinič**](https://www.linkedin.com/in/nejc-gerzinic/) , [**Subodh Dubey**](https://www.linkedin.com/in/subodh-dubey-587023146/) and [**Peyman Ashkrof**](https://www.linkedin.com/in/peyman-ashkrof-ph-d-9262b383/) - with some I co-authored papers, for some I developed software for the needs of the thesis, yet they were not formally supervised by me. 
 
 
 
