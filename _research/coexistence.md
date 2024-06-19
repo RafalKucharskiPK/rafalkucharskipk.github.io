@@ -1,6 +1,6 @@
 --
 layout: project
-permalink: /research/COeXISTENCE/
+permalink: /reasearch/COeXISTENCE/
 title: COeXISTENCE
 project: COeXISTENCE
 img: assets/img/p_coexistence/logo_coexistence.jpg

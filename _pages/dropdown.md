@@ -10,7 +10,7 @@ children:
     permalink: /reasearch/coexistence/
   - title: divider
   - title: OPUS
-    permalink: /research/g_1_OPUS/
+    permalink: /reasearch/g_1_OPUS/
   - title: divider
   - title: SUM
     permalink: /research/SUM/
