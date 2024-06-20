@@ -6,4 +6,4 @@ title: Our paper in SR
 img:
 ---
 
-Our [paper](https://arxiv.org/abs/2011.12770) on Virus spreading in ride pooling network got accepted to *Scientific Reports*
+Our [paper](https://arxiv.org/abs/2011.12770) on Virus spreading in ride pooling network got accepted to *Scientific Reports*.
