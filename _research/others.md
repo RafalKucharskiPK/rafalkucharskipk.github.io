@@ -7,7 +7,7 @@ importance: 2
 category: others
 ---
 
-[**Arkadiusz Drabicki**](https://www.researchgate.net/profile/Arkadiusz-Drabicki) - co-supervised by prof. Oded Cats (TU Delft) and prof. Andrzej Szarata (CUT Krakow). 
+[**_Arkadiusz Drabicki_**](https://www.researchgate.net/profile/Arkadiusz-Drabicki) - co-supervised by prof. Oded Cats (TU Delft) and prof. Andrzej Szarata (CUT Krakow). 
 
 Arek researched a novel and emerging research field - he tried to understand the impacts of futuristic RTCI: Real-time crowding information for Public Transport. He extended and developed new functionalities to BusMezzo and ended-up with remarkable stream of publications marking the new territory in Public Transport. He graduated in 2023.
 
