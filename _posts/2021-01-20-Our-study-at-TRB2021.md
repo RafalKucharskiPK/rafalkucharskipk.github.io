@@ -6,4 +6,4 @@ title: Our study at TRB2021
 img:
 ---
 
-Oded presents our study with Uber at TRB2021 in Washington DC: Beyond the Dichotomy: How Uber Competes with as well as Complements Public Transport (submitted to JoTG)
+Oded presents our study with Uber at TRB2021 in Washington DC: Beyond the Dichotomy: How Uber Competes with as well as Complements Public Transport (submitted to JoTG).
