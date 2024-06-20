@@ -6,5 +6,5 @@ title: Olha joins the team
 img:
 ---
 
-Happy to Welcome Olha Shulika, our new PostDoc. 
-[Olha](https://rafalkucharskipk.github.io/research/olha_shulika/), before the russian aggression was an assistant professor in Kharkiv, Ukraine. She joined us to explore the ride-pooling in the postpandemic world.
+Happy to welcome Olha Shulika, our new PostDoc 🤝
+[Olha](https://rafal-kucharski.u.matinf.uj.edu.pl/research/olha_shulika/), before the russian aggression was an Assistant Professor in Kharkiv, Ukraine. She joined us to explore the ride-pooling in the postpandemic world 🔎🌐
