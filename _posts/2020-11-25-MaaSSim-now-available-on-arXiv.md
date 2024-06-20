@@ -5,4 +5,4 @@ inline: true
 title: MaaSSim now available on arXiv
 ---
 
-Preprint of open-source two-sided mobilty simulator MaaSSim published at [arXiv](https://arxiv.org/abs/2011.12827) , submitted to SoftwareX
+Preprint of open-source two-sided mobilty simulator MaaSSim published at [arXiv](https://arxiv.org/abs/2011.12827) , submitted to SoftwareX.
