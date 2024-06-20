@@ -6,4 +6,4 @@ title: Talk at VU Amsterdam
 img:
 ---
 
-I am giving a talk at *VU Spatial webinar* on shared-rides, I will introduce our lates TR:B paper on ride-pooling algorithm ExMAS at *Vrije University Amsterdam*
+I am giving a talk at *VU Spatial webinar* on shared-rides, I will introduce our lates TR:B paper on ride-pooling algorithm ExMAS at *Vrije University Amsterdam*.
