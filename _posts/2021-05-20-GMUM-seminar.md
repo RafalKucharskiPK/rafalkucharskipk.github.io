@@ -6,4 +6,4 @@ title: GMUM seminar
 img:
 ---
 
-I gave a seminar on Urban Mobility at Machine Learning Group at Jagiellonian University [GMUM](http://www.gmum.net) - [slides](/./assets/pdf/GMUM.pdf)
+🎤 I gave a seminar on Urban Mobility for Group of Machine Learning Research [GMUM](http://www.gmum.net) - [slides](https://rafalkucharskipk.github.io/assets/pdf/GMUM.pdf).
