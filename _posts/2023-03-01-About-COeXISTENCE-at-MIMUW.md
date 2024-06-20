@@ -6,4 +6,4 @@ title: About COeXISTENCE at MIMUW
 img:
 ---
 
-I presented my ERC project to the Warsaw University at the Seminar organized by Pawel Gora at MIMUW, great feedback and pleasure - [presentation](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/MIMUW_Kucharski_COeXISTENCE_ERC.pdf)
+I presented my ERC project to the Warsaw University at the Seminar organized by Pawel Gora at MIMUW, great feedback and pleasure - [presentation](https://rafalkucharskipk.github.io/assets/pdf/MIMUW_Kucharski_COeXISTENCE_ERC.pdf)
