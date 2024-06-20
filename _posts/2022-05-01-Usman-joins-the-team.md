@@ -6,4 +6,4 @@ title: Usman joins the team
 img:
 ---
 
-Usman joined us as a new PostDoc. [Usman](https://rafalkucharskipk.github.io/research/usman_akthar/) will leverage on his Computer Science skills to enhance the ride-pooling.
+Usman joined us as a new PostDoc. [**Usman**](https://rafal-kucharski.u.matinf.uj.edu.pl/research/usman_akhtar/) will leverage on his Computer Science skills to enhance the ride-pooling.
