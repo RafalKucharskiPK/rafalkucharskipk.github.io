@@ -6,4 +6,4 @@ title: hEART2022 submissions
 img:
 ---
 
-Two submissions from our team to [hEART conference  2022](https://heart2022.com/). With Michał Bujak who explores topological properties of shareability networks and with Farnoud Ghasemi who simulates how drivers accept/reject travel requests in MaaSSim.
+Two submissions from our team to [**hEART2022 conference**](https://transp-or.epfl.ch/heart/2022.php). With [Michał Bujak](https://rafal-kucharski.u.matinf.uj.edu.pl/research/michal_bujak/) who explores topological properties of shareability networks and with [Farnoud Ghasemi](https://rafal-kucharski.u.matinf.uj.edu.pl/research/farnoud_ghasemi/) who simulates how drivers accept/reject travel requests in MaaSSim.
