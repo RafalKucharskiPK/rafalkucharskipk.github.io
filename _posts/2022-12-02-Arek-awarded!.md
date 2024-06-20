@@ -6,6 +6,4 @@ title: Arek awarded!
 img:
 ---
 
-Congratulations Arkadiusz Drabicki for winning the Transport Research Arena Young Researchers Competition in the category Crossmodality! Arek was awarded for his work on Modelling the impacts of real-time crowding information in public transport in collaboration with prof. Oded Cats, Achille Fonzone, Andrzej Szarata and myself - good job Arek.
-
-
+Congratulations [**Arkadiusz Drabicki**](https://www.linkedin.com/in/arkadiusz-drabicki-5b465ba3/) for winning the Transport Research Arena Young Researchers Competition in the category Crossmodality! Arek was awarded for his work on _Modelling the impacts of real-time crowding information in public transport_ in collaboration with prof. Oded Cats, Achille Fonzone, Andrzej Szarata and myself - good job Arek! 👏👏👏
