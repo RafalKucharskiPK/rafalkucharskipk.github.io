@@ -25,9 +25,9 @@ Since   ride-hailing   has   become   an   important   travel   alternative   in
 * How  does  ride-hailing travel time and cost compare to the fastest public transport alternative?
 * What proportion of ride-hailing trips that do not have a viable public transport alternative?
 * How   does     ride-hailing   change   overall   service   accessibility?  
-* What   is   the relation   between   demand   share   and   relative   competition   between   the   twoalternatives?
+* What   is   the relation   between   demand   share   and   relative   competition   between   the   two alternatives?
 
-Our findings suggest that  the  dichotomy  -  competing  with  or  complementing  - is false. Though the vast majority of ride-hailing trips have a viable public transport alternative,   between   20%   and   40%   of   them   have   no   viable   public   transport alternative.  The   increased  service   accessibility attributed   to  the   inclusion  of  ride-hailing is greater in our US cities than in their European counterparts. Demand splitis directly related to the relative competitiveness of travel times i.e. when public transport  travel times are competitive ride-hailing demand share  is low and vice-versa.
+Our findings suggest that  the  dichotomy  -  competing  with  or  complementing  - is false. Though the vast majority of ride-hailing trips have a viable public transport alternative,   between   20%   and   40%   of   them   have   no   viable   public   transport alternative.  The   increased  service   accessibility attributed   to  the   inclusion  of  ride-hailing is greater in our US cities than in their European counterparts. Demand splitis directly related to the relative competitiveness of travel times i.e. when public transport travel times are competitive ride-hailing demand share is low and vice-versa.
 
 <center><img src="{{ site.baseurl }}/assets/img/Collage_EU_9.png" height="460" width="630"></center>
 <center><img src="{{ site.baseurl }}/assets/img/Collage_US_9.png" height="460" width="630"></center>
