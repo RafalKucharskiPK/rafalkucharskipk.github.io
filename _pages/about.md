@@ -22,7 +22,7 @@ We study how people travel. We want to understand their travel demands and behav
 * machine learning, spatial analysis, big data analysis, pattern recognition, unsupervised learning;
 * behavioural modelling, economic discrete choice models, policy, sustainability.
 
-Currenty there is [ten of us](/group), working in three different projects, at the modern campus of one of the oldest universities in Europe (est. 1364), Jagiellonian University in Kraków, Poland. We have three major projects:
+Currently there is [ten of us](/group), working in three different projects, at the modern campus of one of the oldest universities in Europe (est. 1364), Jagiellonian University in Kraków, Poland. We have three major projects:
 
 * **[ERC Starting Grant COeXISTENCE](/COeXISTENCE)**, where we simulate future of cities shared by humans and autonomous vehicles. We use reinforcement learning to optimize joint actions of collaborative machines (cars) and see how it affects the well studied complex social system of urban traffic - will it remain in the Nash Equilibrium? We do not think so, but that’s what we want to demonstrate - stay tuned.
 * **[Horizon Europe SUM project](/research/SUM)** - where we apply our in-house ride-pooling algorithms to see the potential of on-demand transit in urban areas of Jerusalem and Kraków.
