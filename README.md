@@ -1,1 +1,1 @@
-my website https://https://rafal-kucharski.u.matinf.uj.edu.pl
+my website https://rafal-kucharski.u.matinf.uj.edu.pl
