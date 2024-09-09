@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: COeXISTENCE
 project: COeXISTENCE
 description: Playing urban mobility games with intelligent machines. Framework to discover and mitigate human-machine conflicts
