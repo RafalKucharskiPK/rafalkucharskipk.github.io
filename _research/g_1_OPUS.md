@@ -24,7 +24,7 @@ c) how can we redesign shared rides system to control spreading and make sharing
 
 This calls for a new set of models, theories and analyses to understand how shared rides can contribute to post-corona urban mobility. To this end, in this project we aim to:
 
-* **WP1:forecast demand for post-corona shared mobility**   Data-driven travel behaviour modelling. Series of stated preference experiments to estimate the post-corona willingness-to-share among the virus-aware travellers. Predict a presumably non-deterministic, heterogeneous travellers’ reaction to applied measures and virus exposure.
+* **WP1: forecast demand for post-corona shared mobility**   Data-driven travel behaviour modelling. Series of stated preference experiments to estimate the post-corona willingness-to-share among the virus-aware travellers. Predict a presumably non-deterministic, heterogeneous travellers’ reaction to applied measures and virus exposure.
 
 * **WP2: model virus spreading on shared mobility networks**   Epidemic simulations with stochastic, time evolving contact networks. Reproduce and understand contact networks emerging from shared mobility to better model and predict spreading processes. Analyse structure of underlying network connectivity and identify hubs, communities, size and depth of diffusion trees and giant components.
 
