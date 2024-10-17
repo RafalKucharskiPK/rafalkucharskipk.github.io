@@ -3,7 +3,8 @@ layout: post
 date: 2024-10-15
 inline: true
 title: We make a good team outside of work as well
-img: 
+img: https://rafalkucharskipk.github.io/assets/img/Run-for-a-Good-Cause.jpg
+     
 ---
 
 Last Saturday we took part in Run for a Good Cause 🏃‍♂️ 🏃‍♀️ 🏃‍♂️ 🏃‍♀️ - a charity event organised by the Faculty of Mathematics and Computer Science to support [Tadzio Kaminski](https://www.siepomaga.pl/tadek-kaminski), the son of our colleague. 
