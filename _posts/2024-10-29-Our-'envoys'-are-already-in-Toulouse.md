@@ -2,7 +2,7 @@
 layout: post
 date: 2024-10-29
 inline: true
-title: 
+title: Our 'envoys' are already in Toulouse
 img: https://rafalkucharskipk.github.io/assets/img/EWRL 2024.jpg
 
 ---
