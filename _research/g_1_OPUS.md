@@ -30,6 +30,11 @@ This calls for a new set of models, theories and analyses to understand how shar
 
 * **WP3: propose efficient strategies to trace and control it**   Control, trace and halt spreading with a proactive strategic, tactical and operational system management to make sharing safe again. Demand management to keep system attractive, yet controlling the contact to prevent a future outbreaks.
 
+
 Two PhD students involved: <a href="/research/michal_bujak">Michal Bujak</a> and <a href="/research/farnoud_ghasemi">Farnoud Ghasemi</a>
 
 Two PostDocs involved: <a href="/research/olha_shulika">Olha Shulika</a> and <a href="/research/usman_akhtar">Usman Akhtar</a>
+
+
+
+[See](https://rafalkucharskipk.github.io/assets/pdf/Merit%20report%20OPUS%2019.pdf) main achievements, results and impact of our project.
