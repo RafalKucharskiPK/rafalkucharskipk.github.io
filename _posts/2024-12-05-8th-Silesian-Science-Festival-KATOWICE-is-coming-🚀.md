@@ -3,7 +3,7 @@ layout: post
 date: 2024-12-05
 inline: true
 title: 8th Silesian Science Festival KATOWICE is coming 🚀
-img: https://rafalkucharskipk.github.io/assets/pdf/sfn_kucharski.pdf
+img: https://rafalkucharskipk.github.io/assets/img/%C5%9Bfn%202024%20small.png
 
      
 ---
