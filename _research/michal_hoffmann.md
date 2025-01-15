@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Michal Hoffmann
+title: Michał Hoffmann
 description:
 img: assets/img/person/michal_hoffmann.jpg
 importance: 2
