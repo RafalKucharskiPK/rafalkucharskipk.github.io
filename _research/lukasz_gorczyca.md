@@ -2,7 +2,7 @@
 layout: member
 title: Łukasz Gorczyca
 description:
-img: 
+img: assets/img/person/Lukas.jpeg
 importance: 2
 category: students
 author: Gorczyca
