@@ -1,5 +1,6 @@
 ---
-layout: about, archive-category, archive-tag, archive-year, bib, default, distill, none, page, post
+# about, archive-category, archive-tag, archive-year, bib, default, distill, none, page, post
+layout: default
 title: projects
 published: true
 nav: true
