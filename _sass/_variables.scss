@@ -5,6 +5,9 @@
 
 
 // Colors
+@use "sass:math";
+
+$grey-color-light: mix(white, $grey-color, 40%);
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
 $orange-color:        #F29105 !default;
@@ -24,7 +27,6 @@ $pink-color-light:    #ffdddd !default;
 $yellow-color:        #efcc00 !default;
 
 $grey-color:          #828282 !default;
-$grey-color-light: color.adjust($grey-color, $lightness: 40%);
 $grey-color-dark:     #1C1C1D;
 
 $white-color: #ffffff !default;
