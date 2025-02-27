@@ -90,11 +90,11 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
- # news:
-  #  defaults:
-  #    layout: post
-  #  output: true
-  #  permalink: /news/:path/
+ news:
+  defaults:
+    layout: post
+  output: true
+  permalink: /news/:path/
   research:
     output: true
     permalink: /research/:path/
