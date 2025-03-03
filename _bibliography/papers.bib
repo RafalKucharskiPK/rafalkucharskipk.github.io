@@ -1,5 +1,29 @@
 ---
 
+@article{akman2025routerl,
+title={RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles},
+author={Akman, Ahmet Onur and Psarou, Anastasia and Gorczyca, {\L}ukasz and Varga, Zolt{\'a}n Gy{\"o}rgy and Jamr{\'o}z, Grzegorz and Kucharski, Rafa{\l}},
+journal={arXiv preprint arXiv:2502.20065},
+year={2025},
+abbr={arXiv},
+project={COeXISTENCE},
+abstract={RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation, facilitating the testing and development of efficient route choice strategies for autonomous vehicles (AVs). The proposed framework simulates the daily route choices of driver agents in a city, including two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human-AI interaction for transportation applications. This study presents a technical report on RouteRL, outlines its potential research contributions, and showcases its impact via illustrative examples.},
+html={https://arxiv.org/abs/2502.20065},
+keywords={Akman, Psarou, Gorczyca, Varga, Jamróz, Kucharski}
+}
+
+@article{psarou2025autonomous,
+title={Autonomous Vehicles Using Multi-Agent Reinforcement Learning for Routing Decisions Can Harm Urban Traffic},
+html={https://www.arxiv.org/abs/2502.13188},
+author={Psarou, Anastasia and Akman, Ahmet Onur and Gorczyca, {\L}ukasz and Hoffmann, Micha{\l} and Varga, Zolt{\'a}n Gy{\"o}rgy and Jamr{\'o}z, Grzegorz and Kucharski, Rafa{\l}},
+journal={arXiv preprint arXiv:2502.13188},
+year={2025},
+abbr={arXiv}, 
+abstract={Autonomous vehicles (AVs) using Multi-Agent Reinforcement Learning (MARL) for simultaneous route optimization may destabilize traffic environments, with human drivers possibly experiencing longer travel times. We study this interaction by simulating human drivers and AVs. Our experiments with standard MARL algorithms reveal that, even in trivial cases, policies often fail to converge to an optimal solution or require long training periods. The problem is amplified by the fact that we cannot rely entirely on simulated training, as there are no accurate models of human routing behavior. At the same time, real-world training in cities risks destabilizing urban traffic systems, increasing externalities, such as CO2 emissions, and introducing non-stationarity as human drivers adapt unpredictably to AV behaviors. Centralization can improve convergence in some cases, however, it raises privacy concerns for the travelers' destination data. In this position paper, we argue that future research must prioritize realistic benchmarks, cautious deployment strategies, and tools for monitoring and regulating AV routing behaviors to ensure sustainable and equitable urban mobility systems.},
+project={COeXISTENCE},
+keywords={Psarou, Akman, Groczyca, Hoffmann, Varga, Jamróz, Kucharski}
+}
+
 @article{jamroz2025social,
 title={Social implications of coexistence of CAVs and human drivers in the context of route choice},
 html={https://doi.org/10.1038/s41598-025-90783-w},
@@ -34,8 +58,8 @@ abstract={Mobility platforms such as Uber and DiDi have been introduced in citie
 To bridge this gap, we introduce the MoMaS (two-sided Mobility Market Simulation) framework to represent growth mechanism in two-sided mobility markets based on the realistic behavior adjustment of drivers and travelers reactive to platform strategy. In the proposed framework, traveler and driver agents learn the platform utility from multiple channels: their own experience, peers’ word-of-mouth, and the platform’s marketing, all-together constituting the agent’s perceived utility of the platform. Each of these channels is modeled and updated by our S-shaped learning model day-to-day which stabilizes, and at the same time, remains sensitive to the system changes. The platform can simulate any strategy on five levers: trip fare, commission rate, discount rate, incentive rate, and marketing.
 While detailed empirical data and actual strategies for platform growth remain largely unknown, MoMaS allows to reproduce series of plausible growth trajectories that were previously unattainable. The framework facilitates the modeling of individual-level behaviors such as reluctance, neutrality, and loyalty, alongside aggregate-level dynamics like critical mass, bandwagon effects, and both positive and negative cross-side network effects.
 We illustrate the capabilities of MoMaS through an extensive set of real-world experiments. Our results demonstrate that once the platform acquires critical mass, it triggers a significant positive cross-side network effect, accelerating growth. However, this can be reversed if a negative cross-side network effect is triggered, leading to the collapse of the platform. MoMaS is applicable for real-sized problems and available on public repository along with reproducible experiments.},
-project={OPUS, COeXISTENCE, SUM},
-keywords={journalpaper, Ghasemi, Kucharski, OPUS, COeXISTENCE, SUM}
+project={OPUS, SUM},
+keywords={journalpaper, Ghasemi, Kucharski, OPUS, SUM}
 }
 
 
@@ -150,7 +174,7 @@ pages={679-687},
 year={2024},
 keywords={proceedings, Ghasemi, Kucharski, OPUS, COeXISTENCE},
 html={https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p679.pdf},
-project={OPUS, COeXISTENCE},
+project={OPUS},
 abstract={Two-sided markets disrupted our economies, reshaping markets as diverse as tourism (airbnb), mobility (Uber) and food deliveries (UberEats). New market leaders arose leveraging on platform-based business model, questioning well-established paradigms. The underlying processes behind their growth are non-trivial, inherently microscopic, and leverage on complex human interactions. Platforms need to reach critical mass of both supply and demand to trigger the so-called cross-sided network effects. To this end, platforms adopt a variety of strategies to first create the market, then expand it and finally successfully compete with others. Such a complex social system with many non-linear interactions and learning processes calls for a dedicated modelling approach. State-of-the-art methods well estimate the macroscopic equilibrium conditions, but struggle to reproduce the complex growth patterns and individual human behaviour behind. To bridge this gap, we propose the microscopic S-shaped learning model where agents build their perception on the new service with time, affected by both endogenous (service quality) and exogenous (marketing and word-of-mouth) factors cumulated from experiences. We illustrate it with the case of two-sided mobility platform (Uber), where the platform applies a series of marketing actions leading to rise and then fall on the market where 200 drivers serve 2000 travellers on the complex urban network of Amsterdam. Our model is the first to reproduce not only behaviourally sound, but also empirically observed growth trajectories, it remains sensitive to a variety of marketing strategies, allows reproducing the competition between platforms and is designed to be integrated with machine learning algorithms to identify the optimal market entry strategy.}
 }
 
