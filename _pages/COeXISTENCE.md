@@ -8,7 +8,7 @@ nav: false
 ---
 <p align="center">
 <img src="/./assets/img/Highlight_fig.jpg" alt="drawing" height="230"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  </p>
+</p>
 <p align="center">
 <img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" height="180"/>
 </p>
