@@ -6,9 +6,11 @@ project: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
 nav: false
 ---
+
 <p align="center">
 <img src="/./assets/img/Highlight_fig.jpg" alt="drawing" height="230"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 <p align="center">
 <img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" height="180"/>
 </p>
@@ -53,6 +55,7 @@ It spans between fields as diverse as:
 <p align="center">
 <img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="220"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="120"/>
 </p>
+
 ----
 
 ### Vacancies
@@ -62,7 +65,6 @@ Our team is happily full at the moment, yet we are always happy to collaborate.
 Nonetheless, we welcome Master Students, Visiting Professors (funded short term visits) or prospective PhD students in this project's ecosystem. 
 
 Feel free to reach us out to understand more about opportunities at **coexistence@uj.edu.pl**
-
 
 ----
 
