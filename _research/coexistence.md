@@ -3,7 +3,8 @@ layout: project
 title: COeXISTENCE
 project: COeXISTENCE
 description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
-importance: 2
+img: assets/img/p_coexistence/logo_coexistence.jpg
+importance: 1
 category: grants
 ---
 
