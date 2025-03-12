@@ -12,7 +12,7 @@ nav: false
 </p>
 
 <p align="center">
-<img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" height="180"/>
+<img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" height="180"/>&nbsp;&nbsp;
 </p>
 
 > COeXISTENCE is an ecosystem to experiment with future Urban Traffic Systems, where routing decisions are simulatenously made by humans and autonomous vehicles.
