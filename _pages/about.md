@@ -3,7 +3,7 @@ layout: about
 title: <strong>Rafał Kucharski </strong>
 permalink: /
 nav: false
-description: 
+description: Discover the research led by Rafał Kucharski at Jagiellonian University in Kraków, Poland. Explore cutting-edge studies on transport systems, autonomous vehicles, ride-pooling algorithms, and sustainable mobility to shape the future of urban transport. Engage with projects like ERC Starting Grant COeXISTENCE and Horizon Europe SUM, focusing on innovative modeling, machine learning, and policy sustainability.
 order: 0
 profile:
   align: right

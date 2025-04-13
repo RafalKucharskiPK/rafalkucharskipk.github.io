@@ -3,6 +3,7 @@ layout: post
 date: 2025-01-06
 inline: true
 title: COeXISTENCE team hit the ground running by participating in TRB2025
+description: Rafał Kucharski and the COeXISTENCE team kick off 2025 with participation in the TRB Annual Meeting in Washington. Discover their innovative framework, "Routing ZOO," for measuring properties of microscopic traffic equilibria and exploring urban mobility systems. Check out preliminary results and their draft repository for further experiments.
 img: 
 
      

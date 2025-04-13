@@ -3,6 +3,7 @@ layout: post
 date: 2025-01-09
 inline: true
 title: When science meets social needs 🤝
+description: Rafał Kucharski joined local authorities and researchers at the conference Czuję pociąg do Myślenic to discuss the upcoming railway line from Myślenice to Kraków. Learn about its societal impact and its potential as a sustainable development corridor for housing estates.
 img: 
 
      

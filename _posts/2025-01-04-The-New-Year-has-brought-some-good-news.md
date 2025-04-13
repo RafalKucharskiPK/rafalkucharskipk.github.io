@@ -3,6 +3,7 @@ layout: post
 date: 2025-01-04
 inline: true
 title: The New Year has brought some good news
+description: Exciting start to 2025 with Rafał Kucharski's collaborative open access publication in Transportation Research Part A: Policy and Practice. Explore agent-based simulation modeling on ride-sourcing systems in Amsterdam, analyzing impacts of drivers’ behavior, surge pricing strategies, and fleet dynamics. Learn more about MaSSim and access it through GitHub for advanced research.
 img: 
 
 ---
