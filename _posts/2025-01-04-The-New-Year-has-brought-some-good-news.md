@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-01-04
+date: 2025-01-05
 inline: true
 title: The New Year has brought some good news
 img: 
