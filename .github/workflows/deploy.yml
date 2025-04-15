@@ -35,21 +35,21 @@ jobs:
         npx -p @mermaid-js/mermaid-cli mmdc --version
     - name: Setup deploy options
       id: setup
-    run: |
-      git config --global user.name "GitHub Action"
-      git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      if [[ $GITHUB_EVENT_NAME == 'pull_request' ]]; then
-        echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> "$GITHUB_ENV"
-        echo "NO_PUSH=--no-push" >> "$GITHUB_ENV"
-      elif [[ $GITHUB_REF == refs/heads/* ]]; then
-        echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> "$GITHUB_ENV"
-      fi
+        if [[ $GITHUB_EVENT_NAME == 'pull_request' ]]; then
+          echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> "$GITHUB_ENV"
+          echo "NO_PUSH=--no-push" >> "$GITHUB_ENV"
+        elif [[ $GITHUB_REF == refs/heads/* ]]; then
+          echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> "$GITHUB_ENV"
+        fi
 
-      echo "DEPLOY_BRANCH=gh-pages" >> "$GITHUB_ENV"
+        echo "DEPLOY_BRANCH=gh-pages" >> "$GITHUB_ENV"
 
-  - name: Deploy website
-    run: yes |
-      bin/deploy --verbose $NO_PUSH \
-                 --src $SRC_BRANCH \
-                 --deploy $DEPLOY_BRANCH
+    - name: Deploy website
+      run: yes |
+        bin/deploy --verbose $NO_PUSH \
+                   --src $SRC_BRANCH \
+                   --deploy $DEPLOY_BRANCH
