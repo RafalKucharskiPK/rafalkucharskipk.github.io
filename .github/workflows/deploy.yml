@@ -56,7 +56,4 @@ jobs:
         echo "DEPLOY_BRANCH=gh-pages" >> "$GITHUB_ENV"
 
     - name: Deploy website
-      run: yes |
-        bin/deploy --verbose $NO_PUSH \
-                   --src $SRC_BRANCH \
-                   --deploy $DEPLOY_BRANCH
+      run: yes | bin/deploy --verbose $NO_PUSH \ --src $SRC_BRANCH \ --deploy $DEPLOY_BRANCH
