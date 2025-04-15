@@ -2,7 +2,7 @@
 layout: page
 title: news
 permalink: /posts/
-description: News and updates
+description: Stay updated with the latest news and insights from Rafał Kucharski and his research group at Jagiellonian University. Explore updates on transportation systems, machine learning applications, urban mobility solutions, and innovative academic projects shaping the future of mobility.
 nav: true
 order: 5
 published: true

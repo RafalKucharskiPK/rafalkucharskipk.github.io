@@ -3,6 +3,7 @@ layout: post
 date: 2025-03-26
 inline: true
 title: 🎉LajkBus is getting more and more popular!
+description: The SUM Project, featuring contributions from Rafał Kucharski's team, launched LajkBus, an innovative shared taxi service in Skotniki. This on-demand transport initiative now serves 200 passengers daily, demonstrating the success of collaboration and cutting-edge ride-pooling algorithms like ExMAS, developed at Jagiellonian University.
 img: 
 
      

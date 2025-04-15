@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Basic info and references to our grants, significant current and past research and finally ride-pooling our main current stream of research.
+description: Dive into the innovative research led by Rafał Kucharski at Jagiellonian University. Explore grants, groundbreaking projects, and studies on ride-pooling and urban mobility. Discover current research streams combining machine learning, transportation systems, and behavioral modeling.
 nav: false
 order: 4
 display_categories: [grants, varia, pooling]

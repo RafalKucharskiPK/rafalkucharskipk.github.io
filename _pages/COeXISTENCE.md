@@ -3,7 +3,7 @@ layout: project
 permalink: /COeXISTENCE/
 title: COeXISTENCE
 project: COeXISTENCE
-description: ERC Starting Grant on COeXISTENCE between humans and machines in urban mobility
+description: ERC Starting Grant COeXISTENCE focuses on the coexistence of humans and autonomous vehicles in urban mobility systems. Explore experiments on future traffic systems, machine reinforcement learning, and social systems through innovative research led at Jagiellonian University in Kraków. Follow results and developments on GitHub and engage in collaborations.
 nav: false
 ---
 

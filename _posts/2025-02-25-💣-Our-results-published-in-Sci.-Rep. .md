@@ -3,6 +3,7 @@ layout: post
 date: 2025-02-25
 inline: true
 title: 💣 Our results published in Sci. Rep. 
+description: Explore Rafał Kucharski's latest publication in Scientific Reports, examining the coexistence of human-driven vehicles and connected autonomous vehicles (CAVs) in urban traffic systems. Discover how different strategies adopted by CAVs can impact human drivers and urban network efficiency, highlighting the need for regulatory measures. Read the full study online.
 img: 
 ---
 

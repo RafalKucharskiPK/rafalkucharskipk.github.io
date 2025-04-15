@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /group/
-description: Our research group
+description: Meet Rafał Kucharski and his dynamic research group at Jagiellonian University in Kraków. From Principal Investigators to students, this team engages in groundbreaking projects on transport systems, machine learning, and urban mobility. Discover their members, achievements, and ongoing contributions to advancing these fields.
 nav: true
 order: 2
 published: true

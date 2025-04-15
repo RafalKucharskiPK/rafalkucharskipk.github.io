@@ -3,6 +3,7 @@ layout: post
 date: 2025-02-03
 inline: true
 title: Impressive submission pace
+description: Rafał Kucharski and his team from COeXISTENCE and SUM projects demonstrate impressive productivity with multiple submissions to prestigious conferences, including hEART, EWGT, CASPT, and ICML. Discover their cutting-edge research advancing transportation and mobility systems.
 img: 
 
      
