@@ -38,7 +38,7 @@ jobs:
         gem install bundler
         bundle config path vendor/bundle
         bundle install --jobs 4 --retry 3
-        npm install --save-dev @mermaid-js/mermaid-cli@11.4.2
+        npx -p @mermaid-js/mermaid-cli mmdc --version
         
     - name: Setup deploy options
       id: setup
