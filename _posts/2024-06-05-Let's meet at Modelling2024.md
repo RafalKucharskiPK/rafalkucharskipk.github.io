@@ -2,7 +2,7 @@
 layout: post
 date: 2024-06-05
 inline: true
-title: Let's meetat Modelling2024
+title: Let's meet at Modelling2024
 img: 
 ---
 
