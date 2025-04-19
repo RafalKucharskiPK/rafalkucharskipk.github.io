@@ -3,7 +3,7 @@ layout: post
 date: 2024-01-09
 inline: true
 title: Meet Arek at TRB
-img: https://rafalkucharskipk.github.io/assets/img/AREK%20TRB.jpg
+img: https://rafalkucharskipk.github.io/assets/img/AREK_TRB.jpg
      
 ---
 
