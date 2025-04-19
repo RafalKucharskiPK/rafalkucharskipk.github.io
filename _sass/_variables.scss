@@ -7,6 +7,9 @@
 @use "sass:math";
 @use "sass:color";
 
+// Setting max width
+$max-content-width: 1200px !default;
+
 // Red colors
 $red-color:           #FF3636 !default;
 $red-color-dark:      #B71C1C !default;
