@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'jekyll'
 
 group :jekyll_plugins do
-    gem 'jekyll-archives-v2'
+    gem 'jekyll-archives' #TODO update to -v2'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
