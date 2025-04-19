@@ -2,7 +2,7 @@
 layout: post
 date: 2025-01-10
 inline: true
-title: MoMaS is the answer!
+title: MoMaS is the answer
 description: "Discover how Rafał Kucharski and Farnoud Ghasemi's groundbreaking research explains the growth of two-sided platforms like Uber. Using the innovative MoMaS simulation tool, explore patterns of market share evolution and competition dynamics. Read their publication in Transportation Research Part C: Emerging Technologies for detailed insights."
 img: 
 
