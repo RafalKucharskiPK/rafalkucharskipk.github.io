@@ -6,4 +6,4 @@ title: Seminar at Faculty of Physics, Astronomy and Applied Computer Science
 img:
 ---
 
-🎤🎤🎤 I gave a Mark Kac Seminar "Enigmas of Chance" on Urban Mobility - [slides](/./assets/img/wfais.pdf) 
+🎤🎤🎤 I gave a Mark Kac Seminar "Enigmas of Chance" on Urban Mobility - [slides](/./assets/pdf/wfais.pdf) 
