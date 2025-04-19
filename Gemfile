@@ -16,4 +16,5 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'octopress-paginate'
+    gem 'faraday-retry'
 end
