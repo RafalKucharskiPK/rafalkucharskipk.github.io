@@ -2,7 +2,7 @@
 layout: post
 date: 2024-09-19
 inline: true
-title: Long long story... with a happy ending
+title: Long long story with a happy ending
 img: https://rafalkucharskipk.github.io/assets/img/pooled-rides%202024%20(with%20O.%20Cats)%20npj.jfif
 
 
