@@ -21,6 +21,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
+        bundler-cache: true
         
     - name: Enable bundler cache
       uses: actions/cache@v4
@@ -34,11 +35,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y libmagickwand-dev imagemagick
 
     - name: Install deps
-      run: |
-        gem install bundler
-        bundle config set path vendor/bundle
-        bundle install --jobs 4 --retry 3
-        npx -p @mermaid-js/mermaid-cli mmdc --version
+      run: npx -p @mermaid-js/mermaid-cli mmdc --version
         
     - name: Setup deploy options
       id: setup
