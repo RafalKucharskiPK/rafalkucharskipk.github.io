@@ -26,10 +26,13 @@ jobs:
         ruby-version: '3.2'
         bundler-cache: true
 
-    - name: Install Mermaid CLI
+    - name: Install other dependecies
       run: |
         npm install -g @mermaid-js/mermaid-cli
         mmdc --version
+        sudo apt-get update && sudo apt-get install -y libxml2 libxslt1-dev
+        bundle config set build.nokogiri --use-system-libraries && bundle install
+
         
     - name: Setup deploy options
       id: setup
