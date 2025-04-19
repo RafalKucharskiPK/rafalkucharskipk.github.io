@@ -26,8 +26,10 @@ jobs:
         ruby-version: '3.2'
         bundler-cache: true
 
-    - name: Install deps
-      run: npx -p @mermaid-js/mermaid-cli mmdc --version
+    - name: Install Mermaid CLI
+      run: |
+        npm install -g @mermaid-js/mermaid-cli
+        mmdc --version
         
     - name: Setup deploy options
       id: setup
