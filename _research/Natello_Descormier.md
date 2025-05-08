@@ -2,8 +2,7 @@
 layout: member
 title: Natello Descormier
 description:
-img: assets/img/person/natello 2025.jpg
-
+img: assets/img/person/natello 2025.png
 
 
 
