@@ -4,7 +4,8 @@ date: 2025-05-06
 inline: true
 title: "We are growing and expanding our research"
 description: "Rafal Kucharski Lab welcomes fresh smart minds aboard"
-img: https://rafalkucharskipk.github.io/assets/img/new-lab-members-2025.jpg
+img: https://rafalkucharskipk.github.io/assets/img/lab_collage.jpg
+
       
 ---
 
