@@ -16,7 +16,7 @@ category: grants
 <img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" height="180"/>
 </p>
 
-> COeXISTENCE is an ecosystem to experiment with future Urban Traffic Systems, where routing decisions are simulatenously made by humans and autonomous vehicles.
+> COeXISTENCE is an ecosystem to experiment with future Urban Traffic Systems, where routing decisions are simultaneously made by humans and autonomous vehicles.
 
   
 <p align="center">
