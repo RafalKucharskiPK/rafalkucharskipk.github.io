@@ -4,8 +4,7 @@ date: 2025-05-26
 inline: true
 title: "Our SUMOers in Berlin"
 description: "Rafal Kucharski Lab participated in SUMO User Conference 2025"
-img: https://rafalkucharskipk.github.io/assets/img/team at SUMO.jpg
-
+img: https://rafalkucharskipk.github.io/assets/img/team at SUMO 2.jpg
       
 ---
 
