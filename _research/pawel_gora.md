@@ -10,9 +10,9 @@ author: Gora
 arXiv:
 github: 
 gitlab:
-google_scholar: ['https://scholar.google.pl/citations?user=GbZr2MQAAAAJ', 'scholar_Paweł Gora']
+google_scholar: ['https://scholar.google.pl/citations?user=GbZr2MQAAAAJ', 'scholar_PG']
 instagram:
-linkedin: ['https://www.linkedin.com/in/pawelgora', 'Paweł Gora']
+linkedin: ['https://www.linkedin.com/in/pawelgora', 'linkedin_PG']
 orcid: ['https://orcid.org/0000-0002-8037-5704', '0000-0002-8037-5704']
 researchgate:
 x: ['https://x.com/PawelGora', x_Paweł Gora']
