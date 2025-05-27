@@ -7,14 +7,14 @@ importance: 1
 category: PhD students
 author: Ghasemi
 bio: I am currently a PhD student within the Faculty of Mathematics and Computer Science at the Jagiellonian University. My PhD research under the supervision of Prof. Rafal Kucharski, focuses on studying behavioural dynamics of two-sided mobility using agent-based microsimulation.
-arXiv: ['https://arxiv.org/search/cs?searchtype=author&query=Ghasemi,+F', arXiv]
+arXiv: ['https://arxiv.org/search/cs?searchtype=author&query=Ghasemi,+F', 'arXiv_FG']
 github: 
 gitlab: 
-google_scholar:
+google_scholar: ['https://scholar.google.com/citations?user=jJ4LrjIAAAAJ&hl=pl&oi=sra', 'scholar_FG']
 instagram:
-linkedin: [https://www.linkedin.com/in/farnoud-ghasemi-ab9903178, farnoud-ghasemi-ab9903178]
-orcid: [https://orcid.org/0000-0001-8866-647X, orcid.org/0000-0001-8866-647X, 0000-0001-8866-647X]
-researchgate:
+linkedin: ['https://www.linkedin.com/in/farnoud-ghasemi-ab9903178', 'linkedin_FG']
+orcid: ['https://orcid.org/0000-0001-8866-647X',0000-0001-8866-647X]
+researchgate: ['https://www.researchgate.net/profile/Farnoud-Ghasemi', 'RG_Farnoud Ghasemi']
 x: 
 ---
 
