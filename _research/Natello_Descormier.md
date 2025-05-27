@@ -15,7 +15,7 @@ github:
 gitlab:
 google_scholar: 
 instagram:
-linkedin: ['https://www.linkedin.com/in/natello-descormier-777112248/',natello-descormier]
+linkedin: ['https://www.linkedin.com/in/natello-descormier-777112248/','linkedin_ND']
 orcid: 
 researchgate:
 x: 
