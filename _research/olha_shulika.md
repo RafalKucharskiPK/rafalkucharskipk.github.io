@@ -10,11 +10,11 @@ author: Shulika
 arXiv:
 github: 
 gitlab:
-google_scholar: ['https://scholar.google.com/citations?user=j1lX8xoAAAAJ&hl=pl&oi=sra', 'Olha Shulika']
+google_scholar: ['https://scholar.google.com/citations?user=j1lX8xoAAAAJ&hl=pl&oi=sra', 'scholar_OS']
 instagram:
-linkedin: ['https://www.linkedin.com/in/olha-shulika', 'olha-shulika']
+linkedin: ['https://www.linkedin.com/in/olha-shulika', 'linkedin_OS']
 orcid: ['https://orcid.org/0000-0002-1912-1115', '0000-0002-1912-1115']
-researchgate:
+researchgate: ['https://www.researchgate.net/profile/Olha-Shulika-2', RG_Olha Shulika']
 x: 
 ---
 
