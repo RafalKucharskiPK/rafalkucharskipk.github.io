@@ -2,7 +2,7 @@
 layout: member
 title: Farnoud Ghasemi
 description: PhD student in dynamics of two-sided mobility markets.
-img: assets/img/person/farnoud_ghasemi.jpg
+img: assets/img/person/FG-renew.jpg
 importance: 1
 category: PhD students
 author: Ghasemi
