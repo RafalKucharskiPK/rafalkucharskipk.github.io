@@ -10,9 +10,9 @@ bio: I am a graduate of the applied mathematics at the Jagiellonian University. 
 arXiv:
 github: 
 gitlab:
-google_scholar: ['https://scholar.google.com/citations?user=WPze25gAAAAJ', 'google_scholar']
+google_scholar: ['https://scholar.google.com/citations?user=WPze25gAAAAJ', 'scholar_MB']
 instagram:
-linkedin: ['https://www.linkedin.com/in/michal-bujak-836602182', 'michal-bujak-836602182']
+linkedin: ['https://www.linkedin.com/in/michal-bujak-836602182', 'linkedin_MB']
 orcid: ['https://orcid.org/0000-0001-5383-6459', '0000-0001-5383-6459']
 researchgate:
 x: 
