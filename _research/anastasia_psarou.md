@@ -9,8 +9,8 @@ author: Psarou
 bio: My name is Anastasia Psarou. I am a PhD student currently working as part of the COeXISTENCE team towards training machines to drive better than humans using Reinforcement Learning. I earned my master’s degree in Electrical and Computer Engineering at the University of Thessaly in Greece, specializing in software development and artificial intelligence.
 arXiv:
 github: [https://github.com/AnastasiaPsarou, AnastasiaPsarou]
-gitlab: [https://github.com/AnastasiaPsarou, AnastasiaPsarou]
-google_scholar:
+gitlab: 
+google_scholar: ['https://scholar.google.com/citations?user=G1VvlXMAAAAJ&hl=pl&oi=ao','Anastasia Psarou']
 instagram:
 linkedin: [https://www.linkedin.com/in/anastasia-psarou, anastasia-psarou]
 orcid: [https://orcid.org/0009-0008-3314-4429, 0009-0008-3314-4429]
