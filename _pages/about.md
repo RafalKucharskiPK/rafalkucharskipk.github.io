@@ -7,7 +7,7 @@ description: Discover the research led by Rafał Kucharski at Jagiellonian Unive
 order: 0
 profile:
   align: right
-  image: team.jpg
+  image: team main.jpg
 published: true
 news: false  # includes a list of news items
 x: true # includes posts from X platform
