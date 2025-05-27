@@ -12,7 +12,7 @@ github: ['https://github.com/limexcyan, Łukasz Gorczyca']
 gitlab:
 google_scholar: 
 instagram:
-linkedin: ['https://www.linkedin.com/in/%C5%82ukasz-gorczyca-605339177/', Łukasz Gorczyca']
+linkedin: ['https://www.linkedin.com/in/%C5%82ukasz-gorczyca-605339177/', 'Łukasz Gorczyca']
 orcid: [https://orcid.org/0009-0009-7381-0251, 0009-0009-7381-0251]
 researchgate:
 x: 
