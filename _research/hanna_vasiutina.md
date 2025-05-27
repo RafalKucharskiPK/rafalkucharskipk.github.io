@@ -8,14 +8,14 @@ category: PostDocs
 bio: I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
 author: Vasiutina
 arXiv:
-github: ['https://github.com/anniutina', 'Hanna Vasiutina']
+github: ['https://github.com/anniutina', 'GH_Hanna Vasiutina']
 gitlab:
-google_scholar: ['https://scholar.google.com/citations?user=MTUUemYAAAAJ&hl=en', 'google_scholar']
+google_scholar: ['https://scholar.google.com/citations?user=MTUUemYAAAAJ&hl=en', 'scholar_HV']
 instagram:
-linkedin: ['https://www.linkedin.com/in/hanna-vasiutina-b2857469', 'Hanna-Vasiutina']
+linkedin: ['https://www.linkedin.com/in/hanna-vasiutina-b2857469', 'linkedin_HV']
 orcid: ['https://orcid.org/0000-0003-0609-6616', '0000-0003-0609-6616']
-researchgate: ['https://www.researchgate.net/profile/Hanna-Vasiutina', 'Hanna-Vasiutina']
-scopus: ['https://www.scopus.com/authid/detail.uri?authorId=57215699230', 'scopus']
+researchgate: ['https://www.researchgate.net/profile/Hanna-Vasiutina', 'RG_Hanna Vasiutina']
+scopus: ['https://www.scopus.com/authid/detail.uri?authorId=57215699230', 'scopus_HV']
 x: 
 --- 
 
