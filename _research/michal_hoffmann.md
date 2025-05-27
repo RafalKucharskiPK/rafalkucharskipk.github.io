@@ -2,7 +2,7 @@
 layout: member
 title: Michał Hoffmann
 description:
-img: assets/img/person/michal_hoffmann.jpg
+img: assets/img/person/MH-renew.jpg
 importance: 1
 category: students
 author: Hoffmann
