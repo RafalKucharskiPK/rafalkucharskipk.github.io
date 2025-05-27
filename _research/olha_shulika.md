@@ -14,7 +14,7 @@ google_scholar: ['https://scholar.google.com/citations?user=j1lX8xoAAAAJ&hl=pl&o
 instagram:
 linkedin: ['https://www.linkedin.com/in/olha-shulika', 'linkedin_OS']
 orcid: ['https://orcid.org/0000-0002-1912-1115', '0000-0002-1912-1115']
-researchgate: ['https://www.researchgate.net/profile/Olha-Shulika-2', RG_Olha Shulika']
+researchgate: ['https://www.researchgate.net/profile/Olha-Shulika-2', 'RG_Olha Shulika']
 x: 
 ---
 
