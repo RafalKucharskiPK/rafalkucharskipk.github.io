@@ -8,11 +8,11 @@ category: former
 author: Varga
 bio: I achieved my bachelor's degree in Hungary at the Budapest University of Technology and Economics. My specialization was railway systems and management. I got my master's degree at the Technical University of Denmark where my study line was data science and smart mobility. I was invloved in the ERC, COeXISTENCE as a PhD Student (November 2023 - February 2025). 
 arXiv:
-github: ['https://github.com/kistref', 'kistref']
+github: ['https://github.com/kistref', 'GH_Zoltán Varga']
 gitlab:
 google_scholar:
 instagram:
-linkedin: ['https://www.linkedin.com/in/zolt%C3%A1n-gy%C3%B6rgy-varga-832aa01b0', 'zoltán-györgy-varga-832aa01b0']
+linkedin: ['https://www.linkedin.com/in/zolt%C3%A1n-gy%C3%B6rgy-varga-832aa01b0', 'linkedin_ZV']
 orcid: ['https://orcid.org/0009-0005-9917-1284', '0009-0005-9917-1284']
 researchgate:
 x: 
