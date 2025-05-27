@@ -15,7 +15,7 @@ instagram:
 linkedin: ['https://www.linkedin.com/in/pawelgora', 'linkedin_PG']
 orcid: ['https://orcid.org/0000-0002-8037-5704', '0000-0002-8037-5704']
 researchgate:
-x: ['https://x.com/PawelGora', x_Paweł Gora']
+x: ['https://x.com/PawelGora', 'x_Paweł Gora']
 ---
 
 
