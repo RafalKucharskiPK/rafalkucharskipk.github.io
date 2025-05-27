@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Zoltán Varga
-img: assets/img/person/zoltan_varga.jpg
+img: assets/img/person/ZV_renew.jpg
 description: PhD in real-time crodwing information for public transport
 importance: 4
 category: former
