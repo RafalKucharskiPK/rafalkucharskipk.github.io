@@ -12,21 +12,21 @@ pagination:
 
 
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <ul class="post-list"> 
+<!-- This loops through the paginated seminars -->
+{% for seminars in paginator.seminars %}
+  <ul class="seminars-list"> 
 <li>
 			<div class="row">
 				<div class="col-sm-9">
-					<h3> <a class="news-title" href="{{ post.url }}">{{ post.title }}</a> </h3> 
+					<h3> <a class="seminars-title" href="{{ seminars.url }}">{{ seminars.title }}</a> </h3> 
 					<p class="author">
-    <span class="date">{{ post.date | date: "%d %b %Y" }}</span>
+    <span class="date">{{ seminars.date | date: "%d %b %Y" }}</span>
   </p>
-					{% if post.inline %}
-            {{ post.content | remove: '<p>' | remove: '</p>' | emojify }}
+					{% if seminars.inline %}
+            {{ seminars.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
             
-<a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
+<a class="seminars-title" href="{{ seminars.url }}">{{ seminars.title }}</a>
          
  {% endif %}
 					
@@ -34,8 +34,8 @@ pagination:
 					
 					<div class="col-sm-3"> 
 					
-					{% if post.img %}
-					<img class="card-img" src="{{ post.img }}" style="object-fit: cover; height: 90%" alt="image">
+					{% if seminars.img %}
+					<img class="card-img" src="{{ seminars.img }}" style="object-fit: cover; height: 90%" alt="image">
 					{% endif %}
 					 </div> 
 					
