@@ -542,20 +542,6 @@ abstract={Since ride-hailing has become an important travel alternative in many 
 } 
 
 
-
-@article{kucharski2022hyper, 
-title={Hyper-pool: pooling private trips into high-occupancy transit-like attractive shared rides}, 
-author={Kucharski, Rafal and Cats, Oded}, 
-journal={arXiv preprint arXiv:2206.05940}, 
-html={https://arxiv.org/abs/2206.05940}, 
-eprint={https://arxiv.org/abs/2206.05940},  
-abbr={arXiv}, 
-year={2022}, 
-keywords={article, Kucharski}, 
-abstract={ We propose Hyper-pool, an analytical, offline, utility-driven ride-pooling algorithm to aggregate individual trip requests into attractive shared rides of high-occupancy. We depart from our ride-pooling ExMAS algorithm where single rides are pooled into attractive door-to-door rides and propose two novel demand-side algorithms for further aggregating individual demand towards more compact pooling. First, we generate stop-to-stop rides, with a single pick up and drop off points optimal for all the travellers. Second, we bundle such rides again, resulting with hyper-pooled rides compact enough to resemble public transport operations. We propose a bottom-up framework where the pooling degree of identified rides is gradually increased, thereby ensuring attractiveness at subsequent aggregation levels. Our Hyper-pool method outputs the set of attractive pooled rides per service variant for a given travel demand. The algorithms are publicly available and reproducible. It is applicable for real-size demand datasets and opens new opportunities for exploiting the limits of ride-pooling potential. In our Amsterdam case-study we managed to pool over 220 travellers into 40 hyper-pooled rides of average occupancy 5.8 pax/veh.},
-abbr={Tmertica:A}
-}
-
 @article{akhtar2022exploring,
 title={Exploring Computational Complexity Of Ride-Pooling Problems},
 author={Akhtar, Usman and Kucharski, Rafal},
@@ -1100,7 +1086,7 @@ abstract={The problem of dividing the investments into development of railway tr
 @inproceedings{kucharski2019method,
 title={Method to Decompose Regional Travel Demand Model-Case Study of Krak{\'o}w Region},
 author={Kucharski, Rafa{\l} and Kulpa, Tomasz and Mielczarek, Justyna and Drabicki, Arkadiusz},
-booktitle={Directions of Development of Transport Networks and Traffic Engineering: 15th Scientific and Technical Conference" Transport Systems. Theory and Practice 2018", Katowice, Poland, September 17-19, 2018, Selected Papers},
+booktitle={Directions of Development of Transport Networks and Traffic Engineering: 15th Scientific and Technical Conference" Transport Systems. Theory and Practice 2018"},
 pages={114-124},
 year={2019},
 organization={Springer},
@@ -1162,7 +1148,8 @@ author={Kucharski, Rafa{\l} and Mielczarek, Justyna and Drabicki, Arkadiusz and 
 journal={Transport Miejski i Regionalny},
 abbr={TMiR},
 year={2018},
-keywords={article, Kucharski, Drabicki}
+keywords={article, Kucharski, Drabicki},
+abstract={W artykule prezentujemy metodę aktualizacji modelu podróży z użyciem macierzy przemieszczeń telefonów komórkowych. Proponujemy rozwiązanie dla sytuacji, gdy model popytu przestaje być aktualny, a jednocześnie dostępne są duże zbiory danych o faktycznych przemieszczeniach. Jako że budowa modelu popytu jest pracochłonna i kosztowna, a duże zbiory danych coraz bardziej dostępne, wskazane jest opracowanie metody aktualizacji. Jest to jednak problematyczne. Po pierwsze szczegółowość podziału obszaru na rejony jest zazwyczaj większa niż ta dostępna dla macierzy komórkowych, po drugie model popytu zawiera pełny opis mobilności (ruchliwość, motywacje, modele wyboru celu, środka podróży i trasy), a macierze komórkowe zawierają jedynie wielkości podróży. W niniejszym artykule proponujemy metodę wykorzystującą zalety obydwu źródeł danych. W szczególności korzystamy z formuł generacji ruchu, zmiennych objaśniających i struktury motywacji ujawnionych w badaniach, na podstawie których sformułowano model podróży. Dopełniamy te dane dwustopniowym modelem wyboru celu podróży opracowanym na podstawie struktury przemieszczeń telefonów komórkowych. Uzyskane wielkości podróży kalibrujemy do wielkości ujawnionych w macierzach, a następnie potoki pasażerów i pojazdów kalibrujemy do wyników uzyskanych w pomiarach. Propozycja ta nie eliminuje wszystkich problemów i niejasności, ale niewątpliwe pozwala na pełniejsze wykorzystanie tego cennego źródła danych. Metodę ilustrujemy wynikami aktualizacji małopolskiego modelu ruchu z użyciem macierzy przemieszczeń między powiatami całej Polski klientów jednego z operatorów. W efekcie model podróży oparty na zdezaktualizowanych wynikach badań został zaktualizowany do aktualnej struktury przemieszczeń i wielkości podróży, ale i sam opis mobilności stał się dokładniejszy. Dzięki wydzieleniu na etapie generacji ruchu liczby podróży: a) do Krakowa, b) do Tarnowa lub Nowego Sącza, c) międzypowiatowych d) wewnątrzpowiatowych e) zewnątrzwojewódzkich udało się uzyskać obraz podróży regionalnych zgodny z rzeczywistym.}
 }
 
 
@@ -1369,13 +1356,14 @@ abstract={In recent years, the focus of healthcare and wellness technologies has
 @inproceedings{kucharski2016modeling,
 title={Modeling information spread processes in dynamic traffic networks},
 author={Kucharski, Rafa{\l} and Gentile, Guido},
-booktitle={Challenge of Transport Telematics: 16th International Conference on Transport Systems Telematics, TST 2016, Katowice-Ustro{\'n}, Poland, March 16--19, 2016, Selected Papers 16},
-pages={317--328},
+booktitle={Challenge of Transport Telematics: 16th International Conference on Transport Systems Telematics, TST 2016},
+pages={317-328},
 year={2016},
 doi={10.1007/978-3-319-49646-7_27},
 html={https://link.springer.com/chapter/10.1007/978-3-319-49646-7_27},
 publisher={Springer},
-keywords={Kucharski}
+keywords={Kucharski},
+abstract={We propose the probabilistic information spread model to represent the spatiotemporal process of becoming aware while traversing the traffic network. In the contemporary traffic networks drivers are exposed to multiple traffic information sources simultaneously. Traffic managers look for a realistic estimate on when, where and how many drivers become informed about the actual traffic state (e.g. about the event). To this end we propose the probabilistic Information Spread Model (ISM) representing the process of spreading information to the drivers via multiple information sources (radio, VMS, on-line information, mobile applications, etc.). We express the probability of receiving information from a given information source using specifically defined spreading profile (formalized through the probability density function) and market penetration of respective source, with a novel information spreading model for on-line sources (websites, mobile apps, social networks etc.). Moreover, by assuming the information sources are mutually independent, the simplified formula for the joint probability can be used so that the model becomes practically applicable in real-time applications. Model is designed to work within the macroscopic dynamic traffic assignment (DTA) as a part of the network flow propagation model. Thanks to that, the informed drivers can be traced as they propagate through the network towards their destinations. We illustrate the model with the simulations on Dusseldorf network showing how information is spread in several ATIS scenarios (VMS, radio news, online sources, and simultaneous sources).}
 }
 
 
@@ -1409,7 +1397,8 @@ author={Kucharski, Rafa{\l} and Drabicki, Arkadiusz and Szarata, Andrzej},
 journal={Transport Miejski i Regionalny},
 abbr={TMiR},
 year={2016},
-keywords={article, Kucharski, Drabicki}
+keywords={article, Kucharski, Drabicki},
+abstract={Artykuł prezentuje metodę obliczania oporu relacji skrętnych na skrzyżowaniach dla makroskopowych miejskich modeli ruchu. Pokazano, jak na podstawie dostępnej bazy danych o warszawskiej sieci drogowej można zbudować model sieciowy wraz z określeniem przepustowości i czasów traconych na relacjach skrętnych. Wykorzystano w nim podstawowe formuły inżynierii ruchu (Gaca i in., 2008) pozwalające obliczyć przepustowość (poprzez oszacowanie natężenia nasycenia, udziału efektywnego sygnału zielonego, potoku nadrzędnego) oraz czasy przejazdu (swobodny oraz tracony) dla skrzyżowań sygnalizowanych, niesygnalizowanych i rond. Proponowana metoda jest uogólnieniem dostosowanym do dostępnej bazy danych i potrzeb makroskopowego modelu ruchu dużego obszaru (np. Aglomeracja Warszawska). Nie uwzględnia wszystkich czynników wpływających na przepustowość, jednak pozwala zbudować model sieciowy, w którym, tak jak w rzeczywistości, o czasie przejazdu i powstawaniu kolejek decyduje ograniczona przepustowość skrzyżowań, a nie odcinków. Metoda może być zastosowana w budowie modelu sieciowego dla dużego miasta przy użyciu dostępnej bazy danych bez znacznego zwiększenia czasów obliczeń. Wyniki metody ilustrują przykłady dla wybranych skrzyżowań w Warszawie.}
 }
 
 
@@ -1421,7 +1410,8 @@ abbr={TMiR},
 number={8},
 pages={20-25},
 year={2016},
-keywords={article, Kucharski}
+keywords={article, Kucharski},
+abstract={Artykuł przedstawia model wyboru środka transportu przez podróżnych. Zaproponowano model wyboru dyskretnego: dwumianowy model logitowy, który określa prawdopodobieństwo wyboru w danej sytuacji jednego z dwóch rozważanych środków transportu (nazywanych dalej opcjami): komunikacji zbiorowej (KZ) i indywidualnej (KI). Sytuację, w której dokonywany jest wybór, opisuje odpowiednio zdefiniowana dla każdej z opcji użyteczność obejmująca m.in. dostęp do samochodu, czas przejazdu, liczbę przesiadek, częstotliwość kursowania. W artykule przetestowano kilka postaci modelu i oceniono ich dopasowanie do wyników prawie 7 tysięcy podróży do i z pracy, zbadanych w Warszawskim Badaniu Ruchu 2015 (WBR 2015). Parametry modelu szacowano przy użyciu pakietu do kalibracji modeli dyskretnych BIOGEME (Bierlaire, 2003), który szukał postaci gwarantującej największą zgodność modelu z faktycznymi wyborami podróżnych. Zaproponowano formuły o najwyższej zgodności uzyskanej przy użyciu zmiennych dostępnych w modelu i łatwo prognozowalnych. Efektem jest model, który objaśnia kiedy i dlaczego w dojazdach do pracy w Warszawie wybierana jest komunikacja zbiorowa, a kiedy indywidualna.}
 }
 
 
@@ -1467,7 +1457,10 @@ title={Multichannel Cyclist Queuing Behaviour at Signalised Cycle Crossings},
 author={Kucharski, Rafa{\l} and Drabicki, Arkadiusz and Kulpa, Tomasz and Szarata, Andrzej},
 booktitle={hEART 2016 - 5th Symposium of the European Association for Research in Transportation},
 keywords={proceedings, Kucharski, Drabicki},
-year={2016}
+year={2016},
+abbr={hEART2016},
+html={https://transp-or.epfl.ch/heart/2017/abstracts/hEART2017_paper_74.pdf},
+abstract={We observed cyclist queuing behaviour at signalised cycle crossings. We examined how they spontaneously form queues of various number of channels and physical length. We analyzed how the queue dissipates, showing that clearance times is strongly related with the queue formation process. We mapped cyclists’ trajectories on the space-time diagram to illustrate observed phenomena. Key findings from 50 queues observed in Kraków are: 1) physical length of five-cyclists queue vary from 7m for one channel to 2.5m for three channels 2) its clearance time drops from 16s for one channel to 11s for three channels 3) number of formed channels grows with number of queuing cyclists 4) cyclists minimizing their queuing time by forming multiple channels improve the overall crossing efficiency. This research contributes towards a developing stream of research on bicycle traffic flow. Increasing popularity of cycling, especially in modern-day urban areas, reinforce the need for in-depth understanding of bicycle traffic flow and cyclist behaviour, which is necessary to formulate an adequate approach towards the design of cycling infrastructure and traffic control systems.}
 }
 
 
