@@ -6,7 +6,7 @@ description: Rafał Kucharski and his research group at Jagiellonian University 
 nav: true
 order: 6
 published: true
-pagination:
+seminars_pagination:
   enabled: true
 ---
 
