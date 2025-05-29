@@ -8,7 +8,6 @@ order: 5
 published: true
 pagination:
   enabled: true
-  collection: news
 ---
 
 
