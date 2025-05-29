@@ -22,7 +22,7 @@ seminars_pagination:
 					<p class="author">
     <span class="date">{{ seminar.date | date: "%d %b %Y" }}</span>
   </p>
-					{% if seminars.inline %}
+					{% if seminar.inline %}
             {{ seminars.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
             
