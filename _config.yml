@@ -83,17 +83,19 @@ pagination:
     before: 2
     after: 2
 
-# # Seminars pagination
-
-seminars_pagination:
+paginate_news:
   enabled: true
-  per_page: 15
+  collection: news
+  per_page: 6
+  permalink: /news/page/:num/
   sort_reverse: true
-  sort_field: 'date'
-  title: ':title'
-  trail:
-    before: 2
-    after: 2
+
+paginate_seminars:
+  enabled: true
+  collection: seminars
+  per_page: 6
+  permalink: /seminars/page/:num/
+  sort_reverse: true
 
 
 # # Comments
@@ -106,8 +108,6 @@ seminars_pagination:
 
 collections:
   news:
-  # defaults:
-    layout: post
     output: true
     permalink: /news/:path/
   research:
@@ -117,12 +117,24 @@ collections:
     output: true
     permalink: /group/:path/
   seminars:
-    layout: seminar
     output: true
     permalink: /seminars/:path/
 
 news_limit: 6
 seminars_limit: 6
+
+# Defaults for layouts
+defaults:
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: seminars
+    values:
+      layout: seminar
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
