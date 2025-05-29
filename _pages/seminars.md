@@ -1,5 +1,5 @@
 ---
-layout: meeting
+layout: page
 title: seminars
 permalink: /seminars/
 description: Rafał Kucharski and his research group at Jagiellonian University from the inside. Stay up to date with the latest achievements, meet researchers we are working with. 
