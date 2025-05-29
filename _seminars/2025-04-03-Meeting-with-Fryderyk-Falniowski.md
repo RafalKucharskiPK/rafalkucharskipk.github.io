@@ -1,5 +1,5 @@
 ---
-layout: seminars
+layout: default
 date: 2025-04-23
 inline: true
 title: "Meeting with Fryderyk Falniowski"
