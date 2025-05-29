@@ -118,7 +118,7 @@ collections:
   seminars:
     layout: seminar
     output: true
-    permalink: /seminars:path/
+    permalink: /seminars/:path/
 
 news_limit: 6
 
