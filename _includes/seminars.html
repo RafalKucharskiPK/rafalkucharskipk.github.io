@@ -5,7 +5,8 @@
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
       {% assign seminars = site.seminars | reverse %}
-      {% for item in seminars limit: site.seminars_limit %}
+      {% assign sem_limit = site.seminars_limit | default: 6 %}
+      {% for item in seminars limit: sem_limit %}
         <tr>
           <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
           <td>
