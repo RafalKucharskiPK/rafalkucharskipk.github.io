@@ -83,18 +83,6 @@ pagination:
     before: 2
     after: 2
 
-# # Seminars pagination
-
-seminars_pagination:
-  enabled: true
-  per_page: 15
-  sort_reverse: true
-  sort_field: 'date'
-  title: ':title'
-  trail:
-    before: 2
-    after: 2
-
 # # Comments
 # disqus_shortname: al-folio # put your disqus shortname
 # # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
