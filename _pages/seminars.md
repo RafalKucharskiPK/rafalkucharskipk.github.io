@@ -13,7 +13,7 @@ pagination:
 
 
 <!-- This loops through the paginated seminars -->
-{% for seminar in paginator.seminars %}
+{% for seminar in seminars_paginator.seminars %}
   <ul class="seminar-list"> 
 <li>
 			<div class="row">
@@ -48,18 +48,18 @@ pagination:
 
 <!-- Pagination links -->
 <div class="Seminars page navigation">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
+  {% if seminars_paginator.previous_page %}
+    <a href="{{ seminars_paginator.previous_page_path }}" class="previous">
       Previous
     </a>
   {% else %}
     <span class="previous page-item disabled">Previous </span>
   {% endif %}
   <span class="page_number ">
-   {{ paginator.page }} of {{ paginator.total_pages }}
+   {{ seminars_paginator.page }} of {{ seminars_paginator.total_pages }}
   </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% if seminars_paginator.next_page %}
+    <a href="{{ seminars_paginator.next_page_path }}" class="next">Next</a>
   {% else %}
     <span class="next page-item disabled">Next</span>
   {% endif %}
