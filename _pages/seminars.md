@@ -13,20 +13,20 @@ pagination:
 
 
 <!-- This loops through the paginated seminars -->
-{% for seminars in paginator.seminars %}
-  <ul class="seminars-list"> 
+{% for seminar in paginator.seminars %}
+  <ul class="seminar-list"> 
 <li>
 			<div class="row">
 				<div class="col-sm-9">
-					<h3> <a class="seminars-title" href="{{ seminars.url }}">{{ seminars.title }}</a> </h3> 
+					<h3> <a class="seminar-title" href="{{ seminar.url }}">{{ seminar.title }}</a> </h3> 
 					<p class="author">
-    <span class="date">{{ seminars.date | date: "%d %b %Y" }}</span>
+    <span class="date">{{ seminar.date | date: "%d %b %Y" }}</span>
   </p>
 					{% if seminars.inline %}
             {{ seminars.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
             
-<a class="seminars-title" href="{{ seminars.url }}">{{ seminars.title }}</a>
+<a class="seminar-title" href="{{ seminar.url }}">{{ seminar.title }}</a>
          
  {% endif %}
 					
@@ -34,8 +34,8 @@ pagination:
 					
 					<div class="col-sm-3"> 
 					
-					{% if seminars.img %}
-					<img class="card-img" src="{{ seminars.img }}" style="object-fit: cover; height: 90%" alt="image">
+					{% if seminar.img %}
+					<img class="card-img" src="{{ seminar.img }}" style="object-fit: cover; height: 90%" alt="image">
 					{% endif %}
 					 </div> 
 					
@@ -47,7 +47,7 @@ pagination:
 {% endfor %}
 
 <!-- Pagination links -->
-<div class="Blog page navigation">
+<div class="Seminars page navigation">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
       Previous
