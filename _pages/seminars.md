@@ -23,7 +23,7 @@ seminars_pagination:
     <span class="date">{{ seminar.date | date: "%d %b %Y" }}</span>
   </p>
 					{% if seminar.inline %}
-            {{ seminars.content | remove: '<p>' | remove: '</p>' | emojify }}
+            {{ seminar.content | remove: '<p>' | remove: '</p>' | emojify }}
           {% else %}
             
 <a class="seminar-title" href="{{ seminar.url }}">{{ seminar.title }}</a>
