@@ -4,6 +4,12 @@
   <head>
     {% if page.redirect %}<meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />{% endif %}
     {% include head.html %}
+
+    <style>
+      .justified {
+        text-align: justify;
+      }
+    </style>
   </head>
 
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
