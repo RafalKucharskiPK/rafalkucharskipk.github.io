@@ -24,11 +24,13 @@ pagination:
 					<p class="author">
     						<span class="date">{{ post.date | date: "%d %b %Y" }}</span>
   					</p>
-					{% if post.inline %}
-						{{ post.content | remove: '<p>' | remove: '</p>' | emojify }}
-          				{% else %}
-            					<a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
-					{% endif %}
+					<div class="justified">
+						{% if post.inline %}
+							{{ post.content | remove: '<p>' | remove: '</p>' | emojify }}
+          					{% else %}
+            						<a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
+						{% endif %}
+					</div>
 				</div>
 				<div class="col-sm-3"> 		
 					{% if post.img %}
