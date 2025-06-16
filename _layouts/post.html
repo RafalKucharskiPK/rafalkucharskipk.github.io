@@ -39,7 +39,9 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}
+    <div class="justified">
+      {{ content }}
+    </div>
   </article>
 
   {% if site.disqus_shortname and page.comments %}
