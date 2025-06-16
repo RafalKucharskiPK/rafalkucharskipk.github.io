@@ -24,11 +24,13 @@ pagination:
 					<p class="author">
     						<span class="date">{{ seminar.date | date: "%d %b %Y" }}</span>
   					</p>
-					{% if seminar.inline %}
-            					{{ seminar.content | remove: '<p>' | remove: '</p>' | emojify }}
-          				{% else %}
-						<a class="seminar-title" href="{{ seminar.url }}">{{ seminar.title }}</a>
-					{% endif %}
+					<div class="justified">
+						{% if seminar.inline %}
+	            					{{ seminar.content | remove: '<p>' | remove: '</p>' | emojify }}
+	          				{% else %}
+							<a class="seminar-title" href="{{ seminar.url }}">{{ seminar.title }}</a>
+						{% endif %}
+					</div>
 				</div>	
 				<div class="col-sm-3"> 
 					{% if seminar.img %}
