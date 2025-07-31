@@ -1,5 +1,5 @@
 ---
-layout: former
+layout: member
 title: Natello Descormier
 description:
 img: assets/img/person/natello 2025.jpg
@@ -7,9 +7,9 @@ img: assets/img/person/natello 2025.jpg
 
 
 importance: 2
-category: students
+category: former
 author: Descormier
-bio: As an engineering student at the École polytechnique in Paris, I am doing a master-level research internship within the COeXISTENCE project, on the topic of coalition games in urban networks.
+bio: As an engineering student at the École polytechnique in Paris, I was doing a master-level research internship within the COeXISTENCE project, on the topic of coalition games in urban networks.
 arXiv:
 github: 
 gitlab:
