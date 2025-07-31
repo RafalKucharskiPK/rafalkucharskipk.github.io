@@ -1,10 +1,10 @@
 ---
-layout: former
+layout: member
 title: Michał Hoffmann
 description:
 img: assets/img/person/MH-renew.jpg
 importance: 1
-category: students
+category: former
 author: Hoffmann
 bio: I was pursuing a bachelor's degree in Theoretical Computer Science at Jagiellonian University. My research focuses on competition in the transportation, where I combine Game Theory with Machine Learning to explore the impact of conflicts on everyday commuter.
 arXiv:
