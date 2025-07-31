@@ -1,5 +1,5 @@
 ---
-layout: member
+layout: former
 title: Natello Descormier
 description:
 img: assets/img/person/natello 2025.jpg
@@ -20,4 +20,4 @@ orcid:
 researchgate:
 x: 
 ---
-As an engineering student at the École polytechnique in Paris, I am doing a master-level research internship within the COeXISTENCE project, on the topic of coalition games in urban networks. My studies focus on operations research, algorithmics and game theory, and I have a particular interest for networks and transportation. Over the last years, I have followed a pluridisciplinary education that includes physics and economics.
+As an engineering student at the École polytechnique in Paris, I was doing a master-level research internship within the COeXISTENCE project, on the topic of coalition games in urban networks. My studies focus on operations research, algorithmics and game theory, and I have a particular interest for networks and transportation. Over the last years, I have followed a pluridisciplinary education that includes physics and economics.
