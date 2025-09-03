@@ -4,8 +4,7 @@ date: 2025-08-08
 inline: true
 title: "We don't slow down even during the holidays🏃‍♀️"
 description: "Anastasia Psarou participated in the Deep Learning + Reinforcement Learning Summer School in Edmonton"
-img: https://rafalkucharskipk.github.io/assets/img/Anastasia DLRL 2025.jpg
-
+img: https://rafalkucharskipk.github.io/assets/img/Anastasia DLRL 2025 (1).jpg
 
       
 ---
