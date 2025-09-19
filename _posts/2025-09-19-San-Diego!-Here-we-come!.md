@@ -12,4 +12,4 @@ img:
 ---
 Exciting news! 🎉Our work _URB – Urban Routing Benchmark for RL-equipped Connected Autonomous Vehicles_ has been accepted to the prestigious [**NeurIPS 2025**](https://neurips.cc/) conference!
 
-We're thrilled to share our research with the global AI community — and even more excited to be heading to San Diego this year. [**San Diego, here we come!**]
+We're thrilled to share our research with the global AI community — and even more excited to be heading to San Diego this year. **San Diego, here we come!**
