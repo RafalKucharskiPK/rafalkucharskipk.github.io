@@ -93,7 +93,7 @@ Connected and Autonomous Vehicles (CAVs) open the possibility for centralised ro
 RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation for the development of efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. 
   
 <p align="center">
-<img src="/./assets/img/RouteRL.jpg" height="400"/>
+<img src="/./assets/img/RouteRL.jpg" width="350"/>
 </p>
 
 #### State-of-the-art RL algorithms fail even on trivial routing tasks.
@@ -104,7 +104,7 @@ Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MA
 
 
 <p align="center">
-<img src="/./assets/img/storyline.png" height="400"/>
+<img  src="/./assets/img/storyline.png"/>
 </p>
 
 
@@ -124,7 +124,7 @@ Through this broad experimental scheme, `URB` aims to:
   3. Clarify the impact of collective CAV routing on congestion, emissions, and sustainability in future cities, equipping policymakers with solid arguments for CAV regulations.
 
 <p align="center">
-<img src="/./assets/img/urb_overview.png" height="400"/>
+<img src="/./assets/img/urb_overview.png"  width="350"/>
 </p>
 
 #### It is better to be a good, socially aware CAV then selfish
@@ -137,11 +137,26 @@ By introducing an intrinsic reward signal based on the marginal cost matrix, we 
 Our results optimistically indicate that social awareness (i.e., including marginal costs in routing decisions) improves both the system-wide and individual performance of future urban systems with AVs.
 
 <p align="center">
-<img src="/./assets/img/marginal.png" height="400"/>
+<img src="/./assets/img/marginal.png"  width="350"/>
 </p>
 
 
-#### Fleets may have different objectives than humans, leading to different system states.
+#### Fleets may have different objectives than humans, leading to different system states
+
+>  In this [study](https://www.nature.com/articles/s41598-025-90783-w) we show that the strategy CAVs are allowed to adopt may result in human drivers either benefitting or being systematically disadvantaged and urban networks becoming either more or less optimal.
+
+Studying the simplest on the two-route bottleneck macroscopic network we discover that:
+
+* The choices of CAVs that replace a given share of HDVs differ significantly from the choices of the remaining HDVs.
+* In different scenarios the average travel time of both HDVs and CAVs may increase or decrease, Fig. 2.
+* If the fleet of CAVs applies the selfish strategy, it may improve its collective travel time at a cost to human drivers when the share of CAVs is small.
+* For a large share of CAVs, the selfish or social strategies of CAVs may result in improvement of travel times for all the drivers. This, however, comes at a price of reduced equity.
+* Human driver populations with low perception bias may be less prone to exploitation by intelligent fleets of CAVs than more diverse and less optimal populations.
+* Heavily congested systems, where the choices of HDVs and CAVs tend to be similar, may be less susceptible to exploitation by CAVs. Contrariwise, uncongested networks could be easily exploited by machines.
+
+<p align="center">
+<img src="/./assets/img/scirep2.jpg" width="350"/>
+</p>
 
 #### Unsocial fleet behaviours can be detected.
 
@@ -161,7 +176,7 @@ on observation of every vehicle route choice every day?
 Our finginds indicate that the answer is likely to be ’yes’ for evil fleet objectives and ’no’ for pro-social fleet objectives. 
 
 <p align="center">
-<img src="/./assets/img/detect.jpg" height="400"/>
+<img src="/./assets/img/detect.jpg" width="350"/>
 </p>
 
 
@@ -169,7 +184,7 @@ Our finginds indicate that the answer is likely to be ’yes’ for evil fleet o
 ----
 
 
-
+<!---
 We want to understand the future of Urban Mobility and foresee what happens when our cities are shared with autonomous, intelligent robots - competing with us for limited resources. 
 * We demonstrated the novel phenomena on simple topologies [here](https://www.nature.com/articles/s41598-025-90783-w)
 * We created the dedicated MARL environment for our experiments [paper](https://arxiv.org/pdf/2502.20065) and repository on [GitHub](https://github.com/COeXISTENCE-PROJECT/RouteRL)
@@ -181,7 +196,7 @@ For updates and new contributions you may consult our [GitHub](https://github.co
 For collaborations, please contact us or simply start contributing on our repos.
 
 
-<!---
+
 . We create virtual environments where individual agents compete to arrive faster, more reliably and cheaper at their destinations.  Human agents are simulated with detailed behavioural models, estimated and calibrated on the field data to reproduce how we behave and adapt in the cities. In the same environment the deep learning agents try the same - they  use deep reinforcement learning to maximise their rewards. This creates a harsh competition in which machines have upper-hands strong enough to beat us. 
 
 
@@ -198,9 +213,9 @@ It spans between fields as diverse as:
 * discrete choice theory.
 --->
 
-<p align="center">
-<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="220"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="220"/>
-</p>
+### About us
+
+
 
 ----
 
@@ -209,6 +224,13 @@ It spans between fields as diverse as:
 We are always collaborators hungry, free to reach us out to understand more about opportunities at **coexistence@uj.edu.pl**
 
 ----
+
+
+<p align="center">
+<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="220"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="220"/>
+</p>
+
+
 
 
 <sub>**Disclaimer**: Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or European Research Council Executive Agency (ERCEA). Neither the European Union nor the granting authority can be held responsible for them.</sub>
