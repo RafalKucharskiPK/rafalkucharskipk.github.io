@@ -8,7 +8,7 @@ nav: false
 ---
 
 
-<img width="350" src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" class="responsive-logo"/>
+<img width="350" src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" class="responsive-logo"/><img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="100"/>
 
 
 > What will be the future of our cities with autonomous vehicles, using any kind of ML algorithms to make collective routing decisions?
@@ -21,31 +21,32 @@ What will it change? **Let's see**
 
 ### 📚 This is what we know so far from our research:
 
-<span style="color:red">Alarming:</span> 
-- [CAVs may form exclusive clubs](cavs-may-form-exclusive-clubs) 
-- [CAVs may intentionally disequilibrate systems and bring chaos](creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
-- 
+* <span style="color:red">Alarming:</span> 
+  - [CAVs may form exclusive clubs](cavs-may-form-exclusive-clubs) 
+  - [CAVs may intentionally disequilibrate systems and bring chaos](creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
 
+* <span style="color:green">Promising:</span> 
+  - [With CAVs Traffic assingnment be both Nash optimal and equilibrated with CAVs](traffic-assignment-can-be-both-nash-optimal-and-equilibrated-with-cavs)
+  - [Which (ML) algorithms are best for collective fleet routing?](which-ml-algorithms-are-best-for-collective-fleet-routing)
 
-<span style="color:green">Promising:</span> 
-- [With CAVs Traffic assingnment be both Nash optimal and equilibrated with CAVs](traffic-assingnment-be-both-nash-optimal-and-equilibrated-with-cavs)
-- [Which (ML) algorithms are best for collective fleet routing?](which-ml-algorithms-are-best-for-collective-fleet-routing)
-
-Tools and software we created to answer those questions
-
-- [RouteRL](how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is central framework, along with others available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
+* Tools and software we created to answer those questions
+  - [RouteRL](how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is central framework, along with others available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
 
 
 ---
 
 #### Problem formulation and overall methodology:
 
-> **Disclaimer** <span style="color:red"> we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What when CAVs will start making our decisions, e.g. routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc).
+
 
 <p align="center">
   <img src="/./assets/img/scirep.jpg" alt="drawing" width="500"/> 
 </p>
 
+See the brief overview [here](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/flyer.pdf) and more thorough [presentation](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/Wyklad_ERC.pdf).
+
+> **Disclaimer** <span style="color:red"> we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What when CAVs will start making our decisions, e.g. routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc).
+> 
 ---
 
 # Findings:
@@ -72,7 +73,7 @@ What is the optimal strategy to maximise market share and convince most drivers 
 <img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
 </p>
 
-#### Traffic assingnment be both Nash optimal and equilibrated with CAVs
+#### Traffic assignment can be both Nash optimal and equilibrated with CAVs
 
 > New concept of Wardrop Cyclical Equiblibruim is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
 
@@ -126,6 +127,19 @@ Through this broad experimental scheme, `URB` aims to:
 <img src="/./assets/img/urb_overview.png" height="400"/>
 </p>
 
+#### It is better to be a good, socially aware CAV then selfish
+
+> Autonomous vehicles need social awareness to find optima in multi-agent reinforcement learning routing games as we show [here](https://arxiv.org/pdf/2510.11410)
+
+Previous work has shown that when multiple selfish Autonomous Vehicles (AVs) are introduced to future cities and start learning optimal routing strategies using Multi-Agent Reinforcement Learning (MARL), they may destabilize traffic systems, as they would require a significant amount of time to converge to the optimal solution, equivalent to years of real-world commuting.
+We demonstrate that moving beyond the selfish component in the reward significantly relieves this issue. If each AV, apart from minimizing its own travel time, aims to reduce its impact on the system, this will be beneficial not only for the system-wide performance but also for each individual player in this routing game.
+By introducing an intrinsic reward signal based on the marginal cost matrix, we significantly reduce training time and achieve convergence more reliably. 
+Our results optimistically indicate that social awareness (i.e., including marginal costs in routing decisions) improves both the system-wide and individual performance of future urban systems with AVs.
+
+<p align="center">
+<img src="/./assets/img/marginal.png" height="400"/>
+</p>
+
 
 
 ----
@@ -148,8 +162,7 @@ For collaborations, please contact us or simply start contributing on our repos.
 
 
 
-*COeXISTENCE* is a broad and deep experiment in virtual environment on future cities, aimed to discover the new phenomena and propose the new solutions. See the brief overview [here](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/flyer.pdf) and more thorough [presentation](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/Wyklad_ERC.pdf).
-
+*COeXISTENCE* is a broad and deep experiment in virtual environment on future cities, aimed to discover the new phenomena and propose the new solutions. 
 It spans between fields as diverse as:
 
 * game theory;
@@ -169,11 +182,7 @@ It spans between fields as diverse as:
 
 ### Vacancies
 
-Our team is happily full at the moment, yet we are always happy to collaborate.
-
-Nonetheless, we welcome Master Students, Visiting Professors (funded short term visits) or prospective PhD students in this project's ecosystem. 
-
-Feel free to reach us out to understand more about opportunities at **coexistence@uj.edu.pl**
+We are always collaborators hungry, free to reach us out to understand more about opportunities at **coexistence@uj.edu.pl**
 
 ----
 
