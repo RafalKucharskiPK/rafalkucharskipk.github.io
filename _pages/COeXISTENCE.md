@@ -21,13 +21,17 @@ What will it change? **Let's see**
 
 ### 📚 This is what we know so far from our research:
 
-* <span style="color:red">Alarming:</span> 
-  - [CAVs may form exclusive clubs](cavs-may-form-exclusive-clubs) 
-  - [CAVs may intentionally disequilibrate systems and bring chaos](creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
 
-* <span style="color:green">Promising:</span> 
-  - [With CAVs Traffic assingnment be both Nash optimal and equilibrated with CAVs](traffic-assignment-can-be-both-nash-optimal-and-equilibrated-with-cavs)
-  - [Which (ML) algorithms are best for collective fleet routing?](which-ml-algorithms-are-best-for-collective-fleet-routing)
+* <span style="color:red">Alarming:</span>
+  - [Fleet strategy controls the overall system performance](#fleet-strategy-controls-the-overall-system-performance)
+  - [CAVs may form exclusive clubs](#cavs-may-form-exclusive-clubs)
+  - [Creating travel time oscillations is a good strategy to maximise fleet market share](#creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
+  - [State-of-the-art RL algorithms fail even on trivial routing tasks.](#state-of-the-art-rl-algorithms-fail-even-on-trivial-routing-tasks)
+* <span style="color:green">Promising:</span>
+  - [Traffic assignment can be both Nash optimal and equilibrated with CAVs](#traffic-assignment-can-be-both-nash-optimal-and-equilibrated-with-cavs)
+  - [It is better to be a good, socially aware CAV then selfish](#it-is-better-to-be-a-good-socially-aware-cav-then-selfish)
+  - [Unsocial fleet behaviours can be detected.](#unsocial-fleet-behaviours-can-be-detected)
+  - [ML community can compete to develop efficient algorithms](#ml-community-shall-compete-to-develop-efficient-algorithms)
 
 * Tools and software we created to answer those questions
   - [RouteRL](how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is central framework, along with others available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
@@ -104,7 +108,7 @@ Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MA
 
 
 <p align="center">
-<img  src="/./assets/img/storyline.png"/>
+<img width="350" src="/./assets/img/storyline.png"/>
 </p>
 
 
