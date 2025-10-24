@@ -23,7 +23,22 @@ What will it change? **Let's see**
 ### This is what we know so far from our research:
 
 
+short_list_todo
 
+explained in bit more detail below
+
+### Simulation framework to answer those questions:
+
+<p align="center">
+  <img src="https://github.com/COeXISTENCE-PROJECT/RouteRL/raw/main/docs/_static/logo.png" alt="drawing" width="150"/> 
+</p>
+[RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL) Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles 
+
+
+along with other _tools and frameworks_ for the new class of urban routing games available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
+
+
+---
 
 
 #### 1. CAVs may form exclusive clubs
@@ -68,7 +83,7 @@ Connected and Autonomous Vehicles (CAVs) open the possibility for centralised ro
 RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation for the development of efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. 
   
 <p align="center">
-<img src="/./assets/img/p_coexistence/RouteRL.jpg" height="400"/>
+<img src="/./assets/img/RouteRL.jpg" height="400"/>
 </p>
 
 #### 5. Which (ML) algorithms are best for collective fleet routing?
@@ -82,9 +97,9 @@ RouteRL is a novel framework that integrates multi-agent reinforcement learning 
 
 Through this broad experimental scheme, `URB` aims to:
 
-1) Identify which state-of-the-art algorithms outperform others in this class of tasks,
-2) Drive competition for future algorithmic improvements, and
-3) Clarify the impact of collective CAV routing on congestion, emissions, and sustainability in future cities, equipping policymakers with solid arguments for CAV regulations.
+  1. Identify which state-of-the-art algorithms outperform others in this class of tasks,
+  2. Drive competition for future algorithmic improvements, and
+  3. Clarify the impact of collective CAV routing on congestion, emissions, and sustainability in future cities, equipping policymakers with solid arguments for CAV regulations.
 
 <p align="center">
 <img src="/./assets/img/urb_overview.png" height="400"/>
