@@ -141,6 +141,30 @@ Our results optimistically indicate that social awareness (i.e., including margi
 </p>
 
 
+#### Fleets may have different objectives than humans, leading to different system states.
+
+#### Unsocial fleet behaviours can be detected.
+
+> It is possible to identify the individual vehicles of a coordinated fleet if they are antisocial as we prove in this [paper](https://arxiv.org/pdf/2506.22966)
+
+Detection of collectively routing fleets of vehicles in future urban systems may become important
+for the management of traffic, as such routing may destabilize urban networks leading to deterioration of
+driving conditions. To address this issue, in this we address two related problems:
+* Is it possible to determine the flow of fleet vehicles on all routes given the fleet size and behaviour as well as the combined total flow of fleet and non-fleet vehicles on every route?
+
+We prove that the answer is ’yes’ for myopic fleet strategies which are more ’selfish’ than ’altruistic’, and
+’no’ otherwise. 
+
+* Is it possible to identify the individual vehicles of a coordinated fleet within a reasonable time horizon based
+on observation of every vehicle route choice every day?
+
+Our finginds indicate that the answer is likely to be ’yes’ for evil fleet objectives and ’no’ for pro-social fleet objectives. 
+
+<p align="center">
+<img src="/./assets/img/detect.jpg" height="400"/>
+</p>
+
+
 
 ----
 
