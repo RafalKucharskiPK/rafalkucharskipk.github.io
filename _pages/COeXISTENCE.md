@@ -11,7 +11,7 @@ nav: false
 <img width="350" src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" class="responsive-logo"/><img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="100"/>
 
 
-> What will be the future of our cities with autonomous vehicles, using any kind of ML algorithms to make collective routing decisions?
+> What will be the future of our cities with autonomous vehicles, using any kind of ML algorithms to make collective routing decisions? **Let's see what we know so far**
 
 
 We pioneer the very specific problem that our cities may face in future, when autonomous vehicles are efficiently navigating across our cities. 
@@ -21,7 +21,7 @@ What will it change? **Let's see**
 
 ### 📚 This is what we know so far from our research:
 
-
+(click for short overview) 
 * <span style="color:red">Alarming:</span>
   - [Fleet strategy controls the overall system performance](#fleet-strategy-controls-the-overall-system-performance)
   - [CAVs may form exclusive clubs](#cavs-may-form-exclusive-clubs)
@@ -47,7 +47,7 @@ What will it change? **Let's see**
   <img src="/./assets/img/scirep.jpg" alt="drawing" width="500"/> 
 </p>
 
-See the brief overview [here](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/flyer.pdf) and more thorough [presentation](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/Wyklad_ERC.pdf).
+See the brief problem overview [here](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/flyer.pdf) and a longer kick-off talk  [presentation](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/Wyklad_ERC.pdf).
 
 > **Disclaimer** <span style="color:red"> we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What when CAVs will start making our decisions, e.g. routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc).
 > 
