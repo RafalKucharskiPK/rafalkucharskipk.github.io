@@ -12,20 +12,20 @@ nav: false
 
 
 > What will be the future of our cities with autonomous vehicles, using any kind of ML algorithms to make collective routing decisions?
->
-> Let's see!
+
 
 We pioneer the very specific problem that our cities may face in future, when autonomous vehicles are efficiently navigating across our cities. 
 They will, individually or collectively, make routing decisions. The same decisions which are now daily made by millions of human drivers worldwide and result in traffic jams and complex congestion patterns, will be delegated to machines.
 What will it change? **Let's see**
 
 
-### This is what we know so far from our research:
+### 📚 This is what we know so far from our research:
 
-
-short_list_todo
-
-explained in bit more detail below
+- [1. CAVs may form exclusive clubs](#1-cavs-may-form-exclusive-clubs)
+- [2. Creating travel time oscillations is a good strategy to maximise fleet market share](#2-creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
+- [3. Traffic assingnment be both Nash optimal and equilibrated with CAVs](#3-traffic-assingnment-be-both-nash-optimal-and-equilibrated-with-cavs)
+- [4. How to simulate such future system?](#4-how-to-simulate-such-future-system)
+- [5. Which (ML) algorithms are best for collective fleet routing?](#5-which-ml-algorithms-are-best-for-collective-fleet-routing)
 
 #### Problem formulation and overall methodology:
 
