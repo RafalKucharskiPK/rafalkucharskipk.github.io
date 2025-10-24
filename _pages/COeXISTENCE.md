@@ -27,7 +27,17 @@ short_list_todo
 
 explained in bit more detail below
 
-### Simulation framework to answer those questions:
+#### Problem formulation and overall methodology:
+
+> <span style="color:red">**Disclaimer** we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What when CAVs will start making our decisions, e.g. routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc).
+
+<p align="center">
+  <img src="/./assets/img/scirep.jpg" alt="drawing" width="500"/> 
+</p>
+
+
+
+#### Simulation framework to answer those questions:
 
 <p align="center">
   <img src="https://github.com/COeXISTENCE-PROJECT/RouteRL/raw/main/docs/_static/logo.png" alt="drawing" width="150"/> 
