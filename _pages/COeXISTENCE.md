@@ -26,7 +26,7 @@ What will it change? **Let's see**
 
 
 
-#### 1. CAVs will form exclusive clubs
+#### 1. CAVs may form exclusive clubs
 
 > We show that [Equilibria in routing games with connected autonomous vehicles will not be strong, as exclusive clubs may form](https://arxiv.org/pdf/2510.12862)
 
@@ -48,7 +48,7 @@ What is the optimal strategy to maximise market share and convince most drivers 
 <img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
 </p>
 
-#### 3. Can a traffic assingnment be both Nash optimal and equilibrated? Yes!
+#### 3. Traffic assingnment be both Nash optimal and equilibrated with CAVs
 
 > New concept of Wardrop Cyclical Equiblibruim is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
 
@@ -58,11 +58,42 @@ Connected and Autonomous Vehicles (CAVs) open the possibility for centralised ro
 <img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
 </p>
 
+#### 4. How to simulate such future system?
 
+> We created [RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL) Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles - [SoftwareX](https://doi.org/10.1016/j.softx.2025.102279)
+<p align="center">
+  <img src="https://github.com/COeXISTENCE-PROJECT/RouteRL/raw/main/docs/_static/logo.png" alt="drawing" width="150"/> 
+</p>
+
+RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation for the development of efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. 
   
 <p align="center">
-<img src="/./assets/img/p_coexistence/team_coexistence.jpg" alt="team coexistence" height="400"/>
+<img src="/./assets/img/p_coexistence/RouteRL.jpg" height="400"/>
 </p>
+
+#### 5. Which (ML) algorithms are best for collective fleet routing?
+
+> We introduced [URB](https://github.com/COeXISTENCE-PROJECT/URB) an Urban Routing Benchmark for MARL algorithms on the fleet routing tasks - [NIPS 2025](https://arxiv.org/abs/2505.17734)
+<p align="center">
+   <img src="https://github.com/COeXISTENCE-PROJECT/URB/blob/main/docs/urb.png" alt="drawing" width="150"/> 
+</p>
+
+ `URB` is a comprehensive benchmarking environment that unifies evaluation across **29 real-world traffic networks paired with realistic demand patterns**. `URB` comes with a catalog of **predefined tasks, multi-agent RL (MARL) algorithm implementations, three baseline methods, ten domain-specific performance metrics, and a modular configuration scheme**. 
+
+Through this broad experimental scheme, `URB` aims to:
+
+1) Identify which state-of-the-art algorithms outperform others in this class of tasks,
+2) Drive competition for future algorithmic improvements, and
+3) Clarify the impact of collective CAV routing on congestion, emissions, and sustainability in future cities, equipping policymakers with solid arguments for CAV regulations.
+
+<p align="center">
+<img src="/./assets/img/urb_overview.png" height="400"/>
+</p>
+
+
+
+----
+
 
 
 We want to understand the future of Urban Mobility and foresee what happens when our cities are shared with autonomous, intelligent robots - competing with us for limited resources. 
