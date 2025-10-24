@@ -7,15 +7,41 @@ description: ERC Starting Grant COeXISTENCE focuses on the coexistence of humans
 nav: false
 ---
 
-<p align="center">
-<img src="/./assets/img/Highlight_fig.jpg" alt="drawing" height="230"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+
+<img width="350" src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" class="responsive-logo"/>
+
+
+> What will be the future of our cities with autonomous vehicles, using any kind of ML algorithms to make collective routing decisions?
+>
+> Let's see!
+
+We pioneer the very specific problem that our cities may face in future, when autonomous vehicles are efficiently navigating across our cities. 
+They will, individually or collectively, make routing decisions. The same decisions which are now daily made by millions of human drivers worldwide and result in traffic jams and complex congestion patterns, will be delegated to machines.
+What will it change? **Let's see**
+
+### This is what we know so far from our research:
+
+#### 1. CAVs will form exclusive clubs
+
+> We show that [Equilibria in routing games with connected autonomous vehicles will not be strong, as exclusive clubs may form](https://arxiv.org/pdf/2510.12862)
+
+CAVs will be able to break from Nash equilibrium and form a coalitions, collaborating to devise a joint routing pattern, allowing them to arrive faster. However, with limited resources, i.e. the capacity in road networks, a
+group arriving faster will gain at the expense of others, arriving later. Also, not everyone can be invited to join the group as remains efficient only until
+some point. They will be exclusive, and ,as other exclusive goods, unavailable to masses and limited to upper classes only. Threatening equity of using public space of our cities.
 
 <p align="center">
-<img src="/./assets/img/logo_COeXISTENCE.jpeg" alt="drawing" class="responsive-logo"/>&nbsp;&nbsp;
+<img width="350" src="/./assets/img/overview.png" alt="drawing" class="responsive-logo"/>
 </p>
 
-> COeXISTENCE is an ecosystem to experiment with future Urban Traffic Systems, where routing decisions are simulatenously made by humans and autonomous vehicles.
+#### 2. Creating travel time oscillations is a good strategy to maximise fleet market share
+
+> We demonstrate the fleet may intentionally bring choas to our cities to maximise market share [here](arxiv)
+
+What is the optimal strategy to maximise market share and convince most drivers to join own fleet? Surprisingly, bringing chaos may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, strach pomyśleć co będzie when competing fleets launch aggressive campaigns deployed at our cities.
+
+<p align="center">
+<img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" class="responsive-logo"/>
+</p>
 
   
 <p align="center">
