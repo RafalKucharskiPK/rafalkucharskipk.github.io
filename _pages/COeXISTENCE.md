@@ -21,37 +21,36 @@ What will it change? **Let's see**
 
 ### 📚 This is what we know so far from our research:
 
-- [1. CAVs may form exclusive clubs](#1-cavs-may-form-exclusive-clubs)
-- [2. Creating travel time oscillations is a good strategy to maximise fleet market share](#2-creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
-- [3. Traffic assingnment be both Nash optimal and equilibrated with CAVs](#3-traffic-assingnment-be-both-nash-optimal-and-equilibrated-with-cavs)
-- [4. How to simulate such future system?](#4-how-to-simulate-such-future-system)
-- [5. Which (ML) algorithms are best for collective fleet routing?](#5-which-ml-algorithms-are-best-for-collective-fleet-routing)
+<span style="color:red">Alarming:</span> 
+- [CAVs may form exclusive clubs](cavs-may-form-exclusive-clubs) 
+- [CAVs may intentionally disequilibrate systems and bring chaos](creating-travel-time-oscillations-is-a-good-strategy-to-maximise-fleet-market-share)
+- 
+
+
+<span style="color:green">Promising:</span> 
+- [With CAVs Traffic assingnment be both Nash optimal and equilibrated with CAVs](traffic-assingnment-be-both-nash-optimal-and-equilibrated-with-cavs)
+- [Which (ML) algorithms are best for collective fleet routing?](which-ml-algorithms-are-best-for-collective-fleet-routing)
+
+Tools and software we created to answer those questions
+
+- [RouteRL](how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is central framework, along with others available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
+
+
+---
 
 #### Problem formulation and overall methodology:
 
-> <span style="color:red">**Disclaimer** we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What when CAVs will start making our decisions, e.g. routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc).
+> **Disclaimer** <span style="color:red"> we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What when CAVs will start making our decisions, e.g. routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc).
 
 <p align="center">
   <img src="/./assets/img/scirep.jpg" alt="drawing" width="500"/> 
 </p>
 
-
-
-#### Simulation framework to answer those questions:
-
-<p align="center">
-  <img src="https://github.com/COeXISTENCE-PROJECT/RouteRL/raw/main/docs/_static/logo.png" alt="drawing" width="150"/> 
-</p>
-[RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL) Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles 
-
-
-along with other _tools and frameworks_ for the new class of urban routing games available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
-
-
 ---
 
+# Findings:
 
-#### 1. CAVs may form exclusive clubs
+#### CAVs may form exclusive clubs
 
 > We show that [Equilibria in routing games with connected autonomous vehicles will not be strong, as exclusive clubs may form](https://arxiv.org/pdf/2510.12862)
 
@@ -63,7 +62,7 @@ some point. They will be exclusive, and ,as other exclusive goods, unavailable t
 <img width="350" src="/./assets/img/overview.png" alt="drawing" class="responsive-logo"/>
 </p>
 
-#### 2. Creating travel time oscillations is a good strategy to maximise fleet market share
+#### Creating travel time oscillations is a good strategy to maximise fleet market share
 
 > We demonstrate the fleet may intentionally bring choas to our cities to maximise market share [here](arxiv)
 
@@ -73,7 +72,7 @@ What is the optimal strategy to maximise market share and convince most drivers 
 <img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
 </p>
 
-#### 3. Traffic assingnment be both Nash optimal and equilibrated with CAVs
+#### Traffic assingnment be both Nash optimal and equilibrated with CAVs
 
 > New concept of Wardrop Cyclical Equiblibruim is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
 
@@ -83,7 +82,7 @@ Connected and Autonomous Vehicles (CAVs) open the possibility for centralised ro
 <img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
 </p>
 
-#### 4. How to simulate such future system?
+#### How to simulate such future system?
 
 > We created [RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL) Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles - [SoftwareX](https://doi.org/10.1016/j.softx.2025.102279)
 <p align="center">
@@ -96,7 +95,19 @@ RouteRL is a novel framework that integrates multi-agent reinforcement learning 
 <img src="/./assets/img/RouteRL.jpg" height="400"/>
 </p>
 
-#### 5. Which (ML) algorithms are best for collective fleet routing?
+#### State-of-the-art RL algorithms fail even on trivial routing tasks.
+
+> Only few of SOTA Reinforcement Learning algorithms managed to find optimal routing strategy in a trivial case with 10 AVs and two-routes as we report in this [paper](https://arxiv.org/pdf/2502.13188)
+
+Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MARL) for simultaneous route optimization, may destabilize traffic networks, with human drivers potentially experiencing longer travel times. We study this interaction by simulating human drivers and AVs. Our experiments with standard MARL algorithms reveal that, both in simplified and complex networks, policies often fail to converge to an optimal solution or require long training periods. This problem is amplified by the fact that we cannot rely entirely on simulated training, as there are no accurate models of human routing behavior. At the same time, real-world training in cities risks destabilizing urban traffic systems, increasing externalities, such as CO2 emissions, and introducing non-stationarity as human drivers will adapt unpredictably to AV behaviors.
+
+
+<p align="center">
+<img src="/./assets/img/storyline.png" height="400"/>
+</p>
+
+
+#### ML community shall compete to develop efficient algorithms
 
 > We introduced [URB](https://github.com/COeXISTENCE-PROJECT/URB) an Urban Routing Benchmark for MARL algorithms on the fleet routing tasks - [NIPS 2025](https://arxiv.org/abs/2505.17734)
 <p align="center">
