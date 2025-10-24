@@ -141,14 +141,14 @@ Our results optimistically indicate that social awareness (i.e., including margi
 </p>
 
 
-#### Fleets may have different objectives than humans, leading to different system states
+#### Fleet strategy controls the overall system performance
 
 >  In this [study](https://www.nature.com/articles/s41598-025-90783-w) we show that the strategy CAVs are allowed to adopt may result in human drivers either benefitting or being systematically disadvantaged and urban networks becoming either more or less optimal.
 
 Studying the simplest on the two-route bottleneck macroscopic network we discover that:
 
 * The choices of CAVs that replace a given share of HDVs differ significantly from the choices of the remaining HDVs.
-* In different scenarios the average travel time of both HDVs and CAVs may increase or decrease, Fig. 2.
+* In different scenarios the average travel time of both HDVs and CAVs may increase or decrease.
 * If the fleet of CAVs applies the selfish strategy, it may improve its collective travel time at a cost to human drivers when the share of CAVs is small.
 * For a large share of CAVs, the selfish or social strategies of CAVs may result in improvement of travel times for all the drivers. This, however, comes at a price of reduced equity.
 * Human driver populations with low perception bias may be less prone to exploitation by intelligent fleets of CAVs than more diverse and less optimal populations.
