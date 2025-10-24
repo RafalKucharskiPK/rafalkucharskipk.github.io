@@ -19,7 +19,12 @@ We pioneer the very specific problem that our cities may face in future, when au
 They will, individually or collectively, make routing decisions. The same decisions which are now daily made by millions of human drivers worldwide and result in traffic jams and complex congestion patterns, will be delegated to machines.
 What will it change? **Let's see**
 
+
 ### This is what we know so far from our research:
+
+
+
+
 
 #### 1. CAVs will form exclusive clubs
 
@@ -37,11 +42,22 @@ some point. They will be exclusive, and ,as other exclusive goods, unavailable t
 
 > We demonstrate the fleet may intentionally bring choas to our cities to maximise market share [here](arxiv)
 
-What is the optimal strategy to maximise market share and convince most drivers to join own fleet? Surprisingly, bringing chaos may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, strach pomyśleć co będzie when competing fleets launch aggressive campaigns deployed at our cities.
+What is the optimal strategy to maximise market share and convince most drivers to join own fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, strach pomyśleć co będzie when competing fleets launch aggressive campaigns deployed at our cities.
 
 <p align="center">
-<img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" class="responsive-logo"/>
+<img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
 </p>
+
+#### 3. Can a traffic assingnment be both Nash optimal and equilibrated? Yes!
+
+> New concept of Wardrop Cyclical Equiblibruim is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
+
+Connected and Autonomous Vehicles (CAVs) open the possibility for centralised routing with full compliance, making System Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of Wardropian cycles, which, in contrast to previous utopian visions, makes the assignment fair on top of being optimal, which amounts to satisfaction of both Wardrop's principles. Such cycles, represented as sequences of permutations to the daily assignment matrices, always exist and equalise, after a limited number of days, average travel times among travellers (like in User Equilibrium) while preserving everyday optimality of path flows (like in System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days-though 5% of cycles exceed 90 days. 
+
+<p align="center">
+<img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
+</p>
+
 
   
 <p align="center">
