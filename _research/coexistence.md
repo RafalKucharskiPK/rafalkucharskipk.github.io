@@ -118,7 +118,7 @@ Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MA
 
 > We introduced [URB](https://github.com/COeXISTENCE-PROJECT/URB) an Urban Routing Benchmark for MARL algorithms on the fleet routing tasks - [NIPS 2025](https://arxiv.org/abs/2505.17734)
 <p align="center">
-   <img src="https://raw.githubusercontent.com/COeXISTENCE-PROJECT/URB/master/docs/urb.png" alt="drawing" width="150"/> 
+   <img src="https://github.com/COeXISTENCE-PROJECT/URB/raw/main/docs/urb.png" alt="drawing" width="150"/> 
 </p>
 
  `URB` is a comprehensive benchmarking environment that unifies evaluation across **29** real-world traffic networks paired with realistic demand patterns. `URB` comes with a catalog of predefined tasks, multi-agent RL (MARL) algorithm implementations, three baseline methods, ten domain-specific performance metrics, and a modular configuration scheme. 
@@ -224,8 +224,11 @@ It spans between fields as diverse as:
 This content was made as part of [COeXISTENCE](https://www.rafalkucharskilab.pl/research/coexistence/) (ERC Starting Grant, grant agreement No 101075838) and is a team work at Jagiellonian University in Kraków, Poland by: [Ahmet Onur Akman](https://github.com/aonurakman), [Anastasia Psarou](https://github.com/AnastasiaPsarou), [Łukasz Gorczyca](https://github.com/Limexcyan), [Michał Hoffmann](https://github.com/Crackhoff), [Lukasz Kowalski](https://github.com/LukaszKowalski2013), [Paweł Gora](https://github.com/pgora), and [Grzegorz Jamróz](https://github.com/GrzegorzJamroz), within the research group of [prof. Rafał Kucharski](https://www.rafalkucharskilab.pl).
 
 <p align="center">
-  <img src="https://github.com/COeXISTENCE-PROJECT/URB/raw/main/docs/credits.png" width="50%"/>
+<img src="/./assets/img/p_coexistence/team_coexistence.jpg" alt="team coexistence" height="400"/>
 </p>
+
+
+
 
 
 
@@ -237,10 +240,12 @@ We are always collaborators hungry, free to reach us out to understand more abou
 
 ----
 
-
 <p align="center">
-<img src="/./assets/img/LOGO-ERC.jpg" alt="drawing" height="220"/><img src="/./assets/img/logo_kwadrat.jpg" alt="drawing" height="220"/>
+  <img src="https://github.com/COeXISTENCE-PROJECT/URB/raw/main/docs/credits.png" width="50%"/>
 </p>
+
+
+
 
 
 
