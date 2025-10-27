@@ -217,7 +217,14 @@ It spans between fields as diverse as:
 * discrete choice theory.
 --->
 
+
 ### About us
+
+This content was made as part of [COeXISTENCE](https://www.rafalkucharskilab.pl/research/coexistence/) (ERC Starting Grant, grant agreement No 101075838) and is a team work at Jagiellonian University in Kraków, Poland by: [Ahmet Onur Akman](https://github.com/aonurakman), [Anastasia Psarou](https://github.com/AnastasiaPsarou), [Łukasz Gorczyca](https://github.com/Limexcyan), [Michał Hoffmann](https://github.com/Crackhoff), [Lukasz Kowalski](https://github.com/LukaszKowalski2013), [Paweł Gora](https://github.com/pgora), and [Grzegorz Jamróz](https://github.com/GrzegorzJamroz), within the research group of [prof. Rafał Kucharski](https://www.rafalkucharskilab.pl).
+
+<p align="center">
+  <img src="https://github.com/COeXISTENCE-PROJECT/URB/raw/main/docs/credits.png" width="50%"/>
+</p>
 
 
 
