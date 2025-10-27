@@ -89,7 +89,7 @@ Connected and Autonomous Vehicles (CAVs) open the possibility for centralised ro
 <img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
 </p>
 
-#### How to simulate such future system?
+#### How to simulate such future system
 
 > We created [RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL) Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles - [SoftwareX](https://doi.org/10.1016/j.softx.2025.102279)
 <p align="center">
