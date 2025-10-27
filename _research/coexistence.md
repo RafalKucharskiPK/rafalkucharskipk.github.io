@@ -34,7 +34,7 @@ What will it change? **Let's see**
   - [ML community can compete to develop efficient algorithms](#ml-community-shall-compete-to-develop-efficient-algorithms)
 
 * Tools and software we created to answer those questions
-  - [RouteRL](how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is central framework, along with others available on this public repositories [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
+  - [RouteRL](how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is a central tool, along with otherson this repo: [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
 
 
 ---
@@ -55,13 +55,15 @@ See the brief problem overview [here](https://raw.githubusercontent.com/RafalKuc
 
 # Findings:
 
+Brief overview of the most impartant findings from our research:
+
 #### CAVs may form exclusive clubs
 
 > We show that [Equilibria in routing games with connected autonomous vehicles will not be strong, as exclusive clubs may form](https://arxiv.org/pdf/2510.12862)
 
-CAVs will be able to break from Nash equilibrium and form a coalitions, collaborating to devise a joint routing pattern, allowing them to arrive faster. However, with limited resources, i.e. the capacity in road networks, a
-group arriving faster will gain at the expense of others, arriving later. Also, not everyone can be invited to join the group as remains efficient only until
-some point. They will be exclusive, and ,as other exclusive goods, unavailable to masses and limited to upper classes only. Threatening equity of using public space of our cities.
+CAVs will be able to break from Nash equilibrium and form a coalitions: collaborate to devise a joint routing pattern, allowing them to arrive faster. However, with limited resources, i.e. the capacity in road networks, a
+group arriving faster will gain at the expense of others, arriving later. Also, not everyone can be invited to join the group as it remains efficient only until
+some point. Thus, such groups will be exclusive, and ,as other exclusive goods, unavailable to masses and limited to upper classes only. Threatening equity of using public space of our cities.
 
 <p align="center">
 <img width="350" src="/./assets/img/overview.png" alt="drawing" class="responsive-logo"/>
@@ -69,9 +71,9 @@ some point. They will be exclusive, and ,as other exclusive goods, unavailable t
 
 #### Creating travel time oscillations is a good strategy to maximise fleet market share
 
-> We demonstrate the fleet may intentionally bring choas to our cities to maximise market share [here](arxiv)
+> We demonstrate the fleet may intentionally bring choas to our cities to maximise market share - [here](arxiv)
 
-What is the optimal strategy to maximise market share and convince most drivers to join own fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, strach pomyśleć co będzie when competing fleets launch aggressive campaigns deployed at our cities.
+What is the optimal strategy to maximise market share and convince most drivers to join CAV fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, likely to be even worse in the case when competing fleets launch aggressive campaigns deployed in our cities.
 
 <p align="center">
 <img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
@@ -81,7 +83,7 @@ What is the optimal strategy to maximise market share and convince most drivers 
 
 > New concept of Wardrop Cyclical Equiblibruim is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
 
-Connected and Autonomous Vehicles (CAVs) open the possibility for centralised routing with full compliance, making System Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of Wardropian cycles, which, in contrast to previous utopian visions, makes the assignment fair on top of being optimal, which amounts to satisfaction of both Wardrop's principles. Such cycles, represented as sequences of permutations to the daily assignment matrices, always exist and equalise, after a limited number of days, average travel times among travellers (like in User Equilibrium) while preserving everyday optimality of path flows (like in System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days-though 5% of cycles exceed 90 days. 
+Connected and Autonomous Vehicles (CAVs) open the possibility for centralised routing with full compliance, making System Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of _Wardropian cycles_, which, in contrast to previous utopian visions, makes the assignment fair on top of being optimal, which amounts to satisfaction of both Wardrop's principles. Such cycles, represented as sequences of permutations to the daily assignment matrices, always exist and equalise, after a limited number of days, average travel times among travellers (like in User Equilibrium) while preserving everyday optimality of path flows (like in System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days. 
 
 <p align="center">
 <img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
@@ -116,12 +118,12 @@ Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MA
 
 > We introduced [URB](https://github.com/COeXISTENCE-PROJECT/URB) an Urban Routing Benchmark for MARL algorithms on the fleet routing tasks - [NIPS 2025](https://arxiv.org/abs/2505.17734)
 <p align="center">
-   <img src="https://github.com/COeXISTENCE-PROJECT/URB/blob/main/docs/urb.png" alt="drawing" width="150"/> 
+   <img src="https://raw.githubusercontent.com/COeXISTENCE-PROJECT/URB/master/docs/urb.png" alt="drawing" width="150"/> 
 </p>
 
- `URB` is a comprehensive benchmarking environment that unifies evaluation across **29 real-world traffic networks paired with realistic demand patterns**. `URB` comes with a catalog of **predefined tasks, multi-agent RL (MARL) algorithm implementations, three baseline methods, ten domain-specific performance metrics, and a modular configuration scheme**. 
+ `URB` is a comprehensive benchmarking environment that unifies evaluation across **29** real-world traffic networks paired with realistic demand patterns. `URB` comes with a catalog of predefined tasks, multi-agent RL (MARL) algorithm implementations, three baseline methods, ten domain-specific performance metrics, and a modular configuration scheme. 
 
-Through this broad experimental scheme, `URB` aims to:
+`URB` aims to:
 
   1. Identify which state-of-the-art algorithms outperform others in this class of tasks,
   2. Drive competition for future algorithmic improvements, and
@@ -131,9 +133,9 @@ Through this broad experimental scheme, `URB` aims to:
 <img src="/./assets/img/urb_overview.png"  width="350"/>
 </p>
 
-#### It is better to be a good, socially aware CAV then selfish
+#### It is better to be a good, socially aware CAV, than selfish
 
-> Autonomous vehicles need social awareness to find optima in multi-agent reinforcement learning routing games as we show [here](https://arxiv.org/pdf/2510.11410)
+> Autonomous vehicles need social awareness in reward to find optima in multi-agent reinforcement learning routing games, as we show [here](https://arxiv.org/pdf/2510.11410)
 
 Previous work has shown that when multiple selfish Autonomous Vehicles (AVs) are introduced to future cities and start learning optimal routing strategies using Multi-Agent Reinforcement Learning (MARL), they may destabilize traffic systems, as they would require a significant amount of time to converge to the optimal solution, equivalent to years of real-world commuting.
 We demonstrate that moving beyond the selfish component in the reward significantly relieves this issue. If each AV, apart from minimizing its own travel time, aims to reduce its impact on the system, this will be beneficial not only for the system-wide performance but also for each individual player in this routing game.
@@ -159,25 +161,24 @@ Studying the simplest on the two-route bottleneck macroscopic network we discove
 * Heavily congested systems, where the choices of HDVs and CAVs tend to be similar, may be less susceptible to exploitation by CAVs. Contrariwise, uncongested networks could be easily exploited by machines.
 
 <p align="center">
-<img src="/./assets/img/scirep2.jpg" width="350"/>
+<img src="/./assets/img/scirep2.jpeg" width="350"/>
 </p>
 
 #### Unsocial fleet behaviours can be detected.
 
-> It is possible to identify the individual vehicles of a coordinated fleet if they are antisocial as we prove in this [paper](https://arxiv.org/pdf/2506.22966)
+> Antisocial individual vehicles of a coordinated fleet will be detectable, as we prove in this [paper](https://arxiv.org/pdf/2506.22966)
 
-Detection of collectively routing fleets of vehicles in future urban systems may become important
-for the management of traffic, as such routing may destabilize urban networks leading to deterioration of
+Detection of collectively routing fleets of vehicles in future urban systems may become important for the management of traffic, as such routing may destabilize urban networks leading to deterioration of
 driving conditions. To address this issue, in this we address two related problems:
-* Is it possible to determine the flow of fleet vehicles on all routes given the fleet size and behaviour as well as the combined total flow of fleet and non-fleet vehicles on every route?
 
-We prove that the answer is ’yes’ for myopic fleet strategies which are more ’selfish’ than ’altruistic’, and
-’no’ otherwise. 
+* Is it possible to determine the flow of fleet vehicles on all routes given the fleet size and behaviour as well as the combined total flows?
 
-* Is it possible to identify the individual vehicles of a coordinated fleet within a reasonable time horizon based
-on observation of every vehicle route choice every day?
+We prove that the answer is **yes** for myopic fleet strategies which are more _selfish_ than _altruistic_, and
+**no** otherwise. 
 
-Our finginds indicate that the answer is likely to be ’yes’ for evil fleet objectives and ’no’ for pro-social fleet objectives. 
+* Is it possible to identify the individual vehicles of a coordinated fleet from daily route choice observations of individual vehicles?
+
+Our finginds indicate that the answer is likely to be **yes** for anisocial fleet objectives and _no_ for pro-social fleet objectives. 
 
 <p align="center">
 <img src="/./assets/img/detect.jpg" width="350"/>
@@ -218,7 +219,7 @@ It spans between fields as diverse as:
 --->
 
 
-### About us
+### About us:
 
 This content was made as part of [COeXISTENCE](https://www.rafalkucharskilab.pl/research/coexistence/) (ERC Starting Grant, grant agreement No 101075838) and is a team work at Jagiellonian University in Kraków, Poland by: [Ahmet Onur Akman](https://github.com/aonurakman), [Anastasia Psarou](https://github.com/AnastasiaPsarou), [Łukasz Gorczyca](https://github.com/Limexcyan), [Michał Hoffmann](https://github.com/Crackhoff), [Lukasz Kowalski](https://github.com/LukaszKowalski2013), [Paweł Gora](https://github.com/pgora), and [Grzegorz Jamróz](https://github.com/GrzegorzJamroz), within the research group of [prof. Rafał Kucharski](https://www.rafalkucharskilab.pl).
 
