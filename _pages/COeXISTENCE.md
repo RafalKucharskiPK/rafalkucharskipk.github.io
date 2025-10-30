@@ -131,7 +131,7 @@ Through this broad experimental scheme, `URB` aims to:
 <img src="/./assets/img/urb_overview.png"  width="350"/>
 </p>
 
-#### It is better to be a good, socially aware CAV then selfish
+#### It is better to be a good, socially aware CAV than selfish
 
 > Autonomous vehicles need social awareness to find optima in multi-agent reinforcement learning routing games as we show [here](https://arxiv.org/pdf/2510.11410)
 
