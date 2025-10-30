@@ -29,7 +29,7 @@ What will it change? **Let's see**
   - [State-of-the-art RL algorithms fail even on trivial routing tasks.](#state-of-the-art-rl-algorithms-fail-even-on-trivial-routing-tasks)
 * <span style="color:green">Promising:</span>
   - [Traffic assignment can be both Nash optimal and equilibrated with CAVs](#traffic-assignment-can-be-both-nash-optimal-and-equilibrated-with-cavs)
-  - [It is better to be a good, socially aware CAV than selfish](#it-is-better-to-be-a-good-socially-aware-cav-than-selfish)
+  - [It is better to be a good, socially aware CAV than selfish](#it-is-better-to-be-a-good,-socially-aware-CAV-than-selfish)
   - [Unsocial fleet behaviours can be detected.](#unsocial-fleet-behaviours-can-be-detected)
   - [ML community can compete to develop efficient algorithms](#ml-community-shall-compete-to-develop-efficient-algorithms)
 
