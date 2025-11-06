@@ -15,7 +15,7 @@ category: grants
 > Modelling and controlling virus spread processes in shared mobility networks 2021-2024, 1mln PLN funded by National Science Centre under scheme OPUS 19
 
 <p align="center">
-<img src="../assets/img/rp.jpg" width="350"/>
+<img src="/./assets/img/rp.jpg" width="350"/>
 </p>
 
 Ride-pooling is a complex topic that incorporates various research branches.
@@ -42,7 +42,7 @@ The contributions to this field are as follows.
 The premise of ride-sharing is that service providers can offer a discount, so that travellersare compensated for prolonged travel times and induced discomfort, while still increasingtheir revenues. While recently proposed real-time solutions support online operations, al-gorithms to perform strategic system-wide evaluations are crucially needed. We proposean exact, replicable and demand-, rather than supply-driven algorithm for matching tripsinto shared rides. We leverage on delimiting our search for attractive shared rides only,which, coupled with a directed shareability multi-graph representation and efficient graphsearches with predetermined node sequence, narrows the (otherwise exploding) search-space effectively enough to derive an exact solution. The proposed utility-based formula-tion paves the way for model integration in travel demand models, allowing for a cross-scenario sensitivity analysis, including pricing strategies and regulation policies.
 
 <p align="center">
-<img src="../assets/img/exmas.jpg" width="600"/>
+<img src="/./assets/img/exmas.jpg" width="600"/>
 </p>
 
 ## Ride-pooling potential
@@ -51,7 +51,7 @@ The premise of ride-sharing is that service providers can offer a discount, so t
 Ride-pooling systems, despite being an appealing urban mobility mode, still struggle to gain momentum. While we know the significance of critical mass in reaching system sustainability, less is known about the spatiotemporal patterns of system performance. Here, we use 1.5 million NYC taxi trips (sampled over a six-month period) and experiment to understand how well they could be served with pooled services. We use an offline utility-driven ride-pooling algorithm and observe the pooling potential with six performance indicators: mileage reductions, travellers' utility gains, share of pooled rides, occupancy, detours, and potential fleet reduction. We report distributions and temporal profiles of about 35 thousand experiments covering weekdays, weekends, evenings, mornings, and nights. We report complex spatial patterns, with gains concentrated in the core of the network and costs concentrated on the peripheries. 
 
 <p align="center">
-<img src="../assets/img/nyc.jpg" width="500"/>
+<img src="/./assets/img/nyc.jpg" width="500"/>
 </p>
 
 ## Compounding delay
@@ -60,7 +60,7 @@ Ride-pooling systems, despite being an appealing urban mobility mode, still stru
 Sharing rides in on-demand systems allow passengers to reducetheir fares and service providers to increase revenue, though at thecost of adding uncertainty to the system. Notably, the uncertaintyof ride-pooling systems stems not only from travel times but alsofrom unique features of sharing, such as the dependency on otherpassengers’ arrival time at their pick up points. In this work, we theo-retically and experimentally analyse how late arrivals at pick up loca-tions impact shared rides’ performance. We find that the total delayis equally distributed among sharing passengers. However, delaycomposition gradually shifts from on-board delay only for the firstpassenger to waiting delay at the origin for the last passenger. Sadly,trips with more passengers are more adversely impacted. Strate-gic behaviour analysis reveals Nash equilibria that might emerge.We analyse the system-wide effects and find that when latenessincreases passengers refrain from sharing and eventually opt-out.
 
 <p align="center">
-<img src="../assets/img/late.jpg" width="500"/>
+<img src="/./assets/img/late.jpg" width="500"/>
 </p>
 
 ## Networks emergence, properties, and new representations
@@ -69,7 +69,7 @@ Sharing rides in on-demand systems allow passengers to reducetheir fares and ser
 Graph (network) structures, starting with the seminal paper by Santi et al. (2014), were the algorithmic backbone of the proposed algorithms. Various methods introduce ride-pooling travellers and drivers as nodes in simple and bipartite representations. Network algorithms were leveraged to find optimal results. Although networks were an intermediate tool, neither their emergence nor their properties had been studied so far. In the this article, for the first time, we formalised four distinct network structures within ride-pooling. We introduce new, weighted representations that contain more information, based on stochastic analysis. To understand the role of the topologies of ride-pooling networks, we studied the correlation between a sharing discount (the control variable), network properties, and system performance indicators. Our analysis highlighted the existence of a critical mass embedded in network topology. This means that based on certain topological properties, we can assess the demand level required for the ride-pooling to become efficient.
 
 <p align="center">
-<img src="../assets/img/nets.jpg" width="400"/>
+<img src="/./assets/img/nets.jpg" width="400"/>
 </p>
 
 ## Modelling virus spreading
@@ -78,7 +78,7 @@ Graph (network) structures, starting with the seminal paper by Santi et al. (201
 The potential of ride-pooling rides to serve as a safe and effective alternative given the personal and public health risks considerations associated with the COVID-19 pandemic is hitherto unknown. To answer this, we combine epidemiological and behavioural shareability models to examine spreading among ride-pooling travellers, with an application for Amsterdam. Findings are at first sight devastating, with only few initially infected travellers needed to spread the virus to hundreds of ride-pooling users. Without intervention, ride-pooling system may substantially contribute to virus spreading. Notwithstanding, we identify an effective control measure allowing to halt the spreading before the outbreaks (at 50 instead of 800 infections) without sacrificing the efficiency achieved by pooling. Fixed matches among co-travellers disconnect the otherwise dense contact network, encapsulating the virus in small communities and preventing the outbreaks.
 
 <p align="center">
-<img src="../assets/img/model.jpg" width="650"/>
+<img src="/./assets/img/model.jpg" width="650"/>
 </p>
 
 ## Virus mitigation in an efficient system
@@ -87,8 +87,8 @@ The potential of ride-pooling rides to serve as a safe and effective alternative
 Efficiency of a system network often relies on high connectivity. However, strongly connected networks are vulnerable in a case of a spreading virus. In the study, we propose a clustering method which balances the two opposing factors: maintains a high system efficiency yet minimises the spreading potential. Our Deep Epidemic Efficiency Network (DEEN) model leverages Graph Convolutional Neural Networks and a novel loss function. In an unsupervised setting, we seek a partition that maximises the system utility while restraining the transmission rate to a desired level. We show that proposed method successfully solves three reallife problems: ride-pooling service in New York City, economic exchange between regions in Poland, and information sharing via peer-to-peer network.
 
 <p align="center">
-<img src="../assets/img/gnn1.jpg" width="245.3"/>
-<img src="../assets/img/gnn2.jpg" width="250"/>
+<img src="/./assets/img/gnn1.jpg" width="245.3"/>
+<img src="/./assets/img/gnn2.jpg" width="250"/>
 </p>
 
 ## Impact of the behavioural heterogeneity
@@ -100,10 +100,10 @@ Population diversity and model uncertainty remain uncaptured, which leads to a h
 As we show in this study, the assumption that population is homogeneous in value-of-time and willingness-to-share results in an underperforming system (cancellation rate over one-third). In utility equations, it is crucial to recognise heterogeneous characteristics. Many travellers, with high time sensitivity and/or who are more reluctant towards sharing, reject proposed pooled rides. On the other hand, many clients who gladly sacrifice their travel time for monetary savings are discarded as potential co-travellers. We extend the utility equations to allow for diverse population characteristics. We employ Monte Carlo stochastic analysis to show that heterogeneity yields significantly different modelling results compared to the baseline. The key performance indicators of the system change: the savings in mileage are lower, while the gains in utility for travellers are greater. As another highlight of the study, we used the network representations introduced in our earlier research to find travellers who are crucial to service performance.
 
 <p align="center">
-<img src="../assets/img/het1.jpeg" width="180"/>
-<img src="../assets/img/het2.jpeg" width="176"/>
-<img src="../assets/img/het3.jpeg" width="179"/>
-<img src="../assets/img/het4.jpeg" width="197"/>
+<img src="/./assets/img/het1.jpeg" width="180"/>
+<img src="/./assets/img/het2.jpeg" width="176"/>
+<img src="/./assets/img/het3.jpeg" width="179"/>
+<img src="/./assets/img/het4.jpeg" width="197"/>
 </p>
 
 
@@ -126,7 +126,7 @@ As we show in a numerical analysis, our method not only maximises the expected p
 Compared to other pricing policies, it proves to be superior in economic and environmental aspects, and leads to higher attractiveness for travellers.
 
 <p align="center">
-<img src="../assets/img/ind.jpeg" width="400"/>
+<img src="/./assets/img/ind.jpeg" width="400"/>
 </p>
 
 
@@ -136,7 +136,7 @@ Compared to other pricing policies, it proves to be superior in economic and env
 Although the personalised pricing algorithm maximises the short-term profitability of the service, it does not address the long-term consequences. A satisfied client is more likely to remain loyal to the operator and requests rides more often. The long-term demand acquisition is vital to ensure that the ride-pooling critical mass is reached and maintained. However, so far researchers have focused solely on a single-day operations where role of the long-term attraction and loyalty was neglected. In this study, we propose a pricing policy to support the operator who aims to learn individual parameters and attract travellers while providing an efficient service. In this explore-exploit setting, we need to balance the short- and long-term perspective to attain all goals. We propose an adaptive personalised pricing model with Bayesian inference of individual behavioural traits. Taking the role of the operator, we enrich our objective function in the personalised discounts optimisation. Our method supplements the pricing optimisation with additional components which ensure the long-term demand attraction. While conducting day-to-day operations, we observe travellers' choices (who either accept or reject our offer) and increase operator's knowledge. We estimate current satisfaction (loyalty) levels and, by adopting the S-shaped learning curve, assess future value of a client in a stochastic setting. To uncover individual traits of travellers, we employ Bayesian learning which allows for a stronger personalisation. The proposed pricing policy provides good economic indicators since day one, attracts more clients daily, and generates more satisfaction among travellers.
 
 <p align="center">
-<img src="../assets/img/ada.jpeg" width="400"/>
+<img src="/./assets/img/ada.jpeg" width="400"/>
 </p>
 
 
