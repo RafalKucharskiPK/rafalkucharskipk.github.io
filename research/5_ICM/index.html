@@ -2,7 +2,7 @@
 <html lang="en">
 
   <head>
-    <meta http-equiv="refresh" content="3; url=https://rafalkucharskipk.github.io/" />
+    
     
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0TBNKXSNZH"></script>
@@ -24,10 +24,10 @@
   Rafal Kucharski Lab
 
 
-  | Page not found
+  | modelling
 
 </title>
-<meta name="description" content="Looks like there has been a mistake. Nothing exists here.">
+<meta name="description" content="Simulation of rerouting phenomena in Dynamic Traffic Assignment with the Information Comply Model">
 
 <!-- Open Graph -->
 
@@ -50,7 +50,7 @@
 
 <link rel="stylesheet" href="/assets/css/main.css">
 <link rel="stylesheet" href="/assets/css/rk.css">
-<link rel="canonical" href="https://rafalkucharskipk.github.io/404.html">
+<link rel="canonical" href="https://rafalkucharskipk.github.io/research/5_ICM/">
 
 <!-- Magnific Popup core CSS file -->
 <link rel="stylesheet" href="/assets/css/magnific-popup.css">
@@ -287,15 +287,29 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Page not found</h1>
-    <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+    <h1 class="post-title">modelling</h1>
+    <p class="post-description">Simulation of rerouting phenomena in Dynamic Traffic Assignment with the Information Comply Model</p>
   </header>
 
   <article>
-    <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://rafalkucharskipk.github.io/">here</a>.</p>
+    <p><strong>Dynamic User Equilibrium well defines stable state of urban traffic network, but what if something unexpected happens? We propose a model, embedded in production-ready DTA solutions of PTV SISTeMA.</strong></p>
+
+<p>Stream of papers with <em>Guido Gentile (La Sapienza)</em> after wonderful years of cooperation with <em>PTV SISTeMA</em> team in Rome during my PhD, summarized with this <a href="https://doi.org/10.1016/j.trb.2018.12.001" target="_blank" rel="noopener noreferrer">paper</a> summed up with <a href="https://www.iamigniting.com/rafal_kucharski/" target="_blank" rel="noopener noreferrer">this</a> nice coverage</p>
+
+<center><img src="/assets/img/ICM.png"></center>
+<div class="col three caption">
+    Figure 1: 
+</div>
+
+<p>We present the Information Comply Model (ICM) which extends the framework for macroscopic within-day DTA proposed by Gentile (2016) to represent the rerouting of drivers wrt a single traffic event. Rerouting is reproduced as a two-stage process: first, drivers
+become aware about the event and its consequences on traffic; second, drivers may decide to change path. At each arc, unaware drivers have a probability of being informed by multiple ATIS sources (radio, VMS, mobile apps), which depends not only on devise
+penetration rates, but also on users space and time coordinates wrt the position and interval of the event. At each node, aware drivers, who are somehow reluctant to change, may finally modify their path based on a random rerouting utility, which is composed of expected gains and avoided losses. ICM is thus capable of representing the evolution of rerouting phenomena in time and space when the information about a traffic event and
+its consequences on congestion spread among drivers and onto the network.</p>
+
+<p>This way, ICM extends the concept of dynamic user equilibrium to a case of imperfect information related to availability and awareness rather than to individual perception, as well as to a case of bounded rationality with prudent drivers. Besides the model architecture and specification, this paper provides a workable methodology which can be applied both off-line for transport planning and in real-time for traffic management on large size networks.</p>
 
   </article>
-
+	
 </div>
 
       </div>
