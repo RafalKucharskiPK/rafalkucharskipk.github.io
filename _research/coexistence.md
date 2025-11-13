@@ -76,7 +76,7 @@ some point. Thus, such groups will be exclusive, and, like other exclusive goods
 What is the optimal strategy to maximise market share and convince most drivers to join the CAV fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operators but surprising to humans, may be frustrating enough to convince others to abandon human driving and join a fleet. Individually tailored offers (just like Uber, Amazon, or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from a monopoly, where a single operator competes with humans, which are likely to be even worse in the case when competing fleets launch aggressive campaigns deployed in our cities.
 
 <p align="center">
-<img width="700" src="/./assets/img/oscillations.jpg" alt="drawing" />
+<img width="800" src="/./assets/img/oscillations.jpg" alt="drawing" />
 </p>
 
 #### Traffic assignment can be both Nash optimal and equilibrated with CAVs
