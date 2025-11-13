@@ -86,7 +86,7 @@ What is the optimal strategy to maximise market share and convince most drivers 
 Connected and Autonomous Vehicles (CAVs) open the possibility for centralized routing with full compliance, making System-Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of _Wardropian cycles_, which, in contrast to previous utopian visions, ensures both fairness and optimality, thereby satisfying Wardrop's principles. Such cycles, represented as sequences of permutations in the daily assignment matrices, always exist and equalize, after a limited number of days, the average travel times among travelers (similar to User Equilibrium), while preserving the everyday optimality of path flows (similar to System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days. 
 
 <p align="center">
-<img width="500" src="/./assets/img/grafika_latest.png" alt="drawing" />
+<img width="600" src="/./assets/img/grafika_latest.png" alt="drawing" />
 </p>
 
 #### How to simulate such a future system
@@ -99,7 +99,7 @@ Connected and Autonomous Vehicles (CAVs) open the possibility for centralized ro
 RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation to develop efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. 
   
 <p align="center">
-<img src="/./assets/img/RouteRL.jpg" width="600"/>
+<img src="/./assets/img/RouteRL.jpg" width="800"/>
 </p>
 
 #### State-of-the-art RL algorithms fail even on trivial routing tasks.
@@ -110,7 +110,7 @@ Autonomous vehicles (AVs), which may utilize Multi-Agent Reinforcement Learning 
 
 
 <p align="center">
-<img width="500" src="/./assets/img/storyline.png"/>
+<img width="800" src="/./assets/img/storyline.png"/>
 </p>
 
 
@@ -130,7 +130,7 @@ Autonomous vehicles (AVs), which may utilize Multi-Agent Reinforcement Learning 
   3. Clarify the impact of collective CAV routing on congestion, emissions, and sustainability in future cities, equipping policymakers with solid arguments for CAV regulations.
 
 <p align="center">
-<img src="/./assets/img/urb_overview.png"  width="500"/>
+<img src="/./assets/img/urb_overview.png"  width="800"/>
 </p>
 
 #### It is better to be a good socially aware CAV than selfish
@@ -143,7 +143,7 @@ By introducing an intrinsic reward signal based on the marginal cost matrix, we 
 Our results optimistically indicate that social awareness (i.e., including marginal costs in routing decisions) improves both the system-wide and individual performance of future urban systems with AVs.
 
 <p align="center">
-<img src="/./assets/img/marginal.png"  width="600"/>
+<img src="/./assets/img/marginal.png"  width="800"/>
 </p>
 
 
@@ -161,7 +161,7 @@ Studying the simplest of the two-route bottleneck macroscopic network, we discov
 * Heavily congested systems, where the choices of HDVs and CAVs tend to be similar, may be less susceptible to exploitation by CAVs. Conversely, uncongested networks could be easily exploited by machines.
 
 <p align="center">
-<img src="/./assets/img/scirep2.jpeg" width="800"/>
+<img src="/./assets/img/scirep2.jpeg" width="900"/>
 </p>
 
 #### Unsocial fleet behaviours can be detected.
@@ -181,7 +181,7 @@ We prove that the answer is **yes** for myopic fleet strategies which are more _
 Our finginds indicate that the answer is likely to be **yes** for anisocial fleet objectives and _no_ for pro-social fleet objectives. 
 
 <p align="center">
-<img src="/./assets/img/detect.jpg" width="600"/>
+<img src="/./assets/img/detect.jpg" width="800"/>
 </p>
 
 
