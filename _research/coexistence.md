@@ -14,8 +14,8 @@ category: grants
 > What will be the future of our cities with autonomous vehicles, using any kind of ML algorithms to make collective routing decisions? **Let's see what we know so far**
 
 
-We pioneer the very specific problem that our cities may face in future, when autonomous vehicles are efficiently navigating across our cities. 
-They will, individually or collectively, make routing decisions. The same decisions which are now daily made by millions of human drivers worldwide and result in traffic jams and complex congestion patterns, will be delegated to machines.
+We pioneer the very specific problem that our cities may face in the future, when autonomous vehicles are efficiently navigating across our cities. 
+They will, individually or collectively, make routing decisions. The same decisions that are now made daily by millions of human drivers worldwide, and resulting in traffic jams and complex congestion patterns, will be delegated to machines.
 What will it change? **Let's see**
 
 
@@ -29,12 +29,12 @@ What will it change? **Let's see**
   - [State-of-the-art RL algorithms fail even on trivial routing tasks.](#state-of-the-art-rl-algorithms-fail-even-on-trivial-routing-tasks)
 * <span style="color:green">Promising:</span>
   - [Traffic assignment can be both Nash optimal and equilibrated with CAVs](#traffic-assignment-can-be-both-nash-optimal-and-equilibrated-with-cavs)
-  - [It is better to be a good, socially aware CAV then selfish](#it-is-better-to-be-a-good-socially-aware-cav-then-selfish)
+  - [It is better to be a good socially aware CAV than selfish](#it-is-better-to-be-a-good-socially-aware-cav-than-selfish)
   - [Unsocial fleet behaviours can be detected.](#unsocial-fleet-behaviours-can-be-detected)
-  - [ML community can compete to develop efficient algorithms](#ml-community-shall-compete-to-develop-efficient-algorithms)
+  - [The ML community shall compete to develop efficient algorithms](#the-ml-community-shall-compete-to-develop-efficient-algorithms)
 
 * Tools and software we created to answer those questions
-  - [RouteRL](#how-to-simulate-such-future-system) Multi-Agent Reinforcement Learning framework is a central tool, along with otherson this repo: [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
+  - [RouteRL](#how-to-simulate-such-a-future-system) Multi-Agent Reinforcement Learning framework is a central tool, along with otherson this repo: [COeXISTENCE Project GitHub](https://github.com/COeXISTENCE-PROJECT)
 
 
 ---
@@ -44,79 +44,79 @@ What will it change? **Let's see**
 
 
 <p align="center">
-  <img src="/./assets/img/scirep.jpg" alt="drawing" width="500"/> 
+  <img src="/./assets/img/scirep.jpg" alt="drawing" width="600"/> 
 </p>
 
 See the brief problem overview [here](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/flyer.pdf) and a longer kick-off talk  [presentation](https://raw.githubusercontent.com/RafalKucharskiPK/rafalkucharskipk.github.io/master/assets/pdf/Wyklad_ERC.pdf).
 
-> **Disclaimer** <span style="color:red"> we do not address the autonomous driving itself and operations. We assume AVs can well navigate in our cities: start, drive, cruise, detect objects, stop, obey traffic rules and park. </span> Dozens of excellent research teams already contribute to this, we adress the follow-up problem: _What happens when CAVs will start making own decisions, specifically routing decisions_. We anegdotically compare it to the case of toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g. on colour of hair, tattoos, carreer, etc). Notably, we assume that traffic flow operations of CAVs are indistiguishable from human driving (differences found here may amplify when we include CAV traffic flow advantages).
+> **Disclaimer** <span style="color:red"> we do not address the autonomous driving itself and operations. We assume that AVs can navigate well in our cities, including starting, driving, cruising, detecting objects, stopping, obeying traffic rules, and parking. </span> Dozens of excellent research teams already contribute to this. We address the follow-up problem: _What happens when CAVs will start making their own decisions, specifically routing decisions_. We anegdotically compare it to the case of a toddler who learns how to walk, but the true problems come with teenagers who may start to decide (e.g., on the colour of hair, tattoos, career, etc). Notably, we assume that traffic flow operations of CAVs are indistinguishable from human driving (differences found here may amplify when we include CAV traffic flow advantages).
 > 
 ---
 
 # Findings:
 
-Brief overview of the most impartant findings from our research:
+Brief overview of the most important findings from our research:
 
 #### CAVs may form exclusive clubs
 
 > We show that [Equilibria in routing games with connected autonomous vehicles will not be strong, as exclusive clubs may form](https://arxiv.org/pdf/2510.12862)
 
-CAVs will be able to break from Nash equilibrium and form a coalitions: collaborate to devise a joint routing pattern, allowing them to arrive faster. However, with limited resources, i.e. the capacity in road networks, a
-group arriving faster will gain at the expense of others, arriving later. Also, not everyone can be invited to join the group as it remains efficient only until
-some point. Thus, such groups will be exclusive, and ,as other exclusive goods, unavailable to masses and limited to upper classes only. Threatening equity of using public space of our cities.
+CAVs will be able to break from the Nash equilibrium and form coalitions, collaborating to devise a joint routing pattern that allows them to arrive faster. However, with limited resources, i.e., the capacity in road networks, a
+group arriving faster will gain at the expense of others arriving later. Also, not everyone can be invited to join the group as it remains efficient only until
+some point. Thus, such groups will be exclusive, and, like other exclusive goods, they will be available to the masses and limited to upper classes only. Threatening the equity of using public space of our cities.
 
 <p align="center">
-<img width="350" src="/./assets/img/overview.png" alt="drawing" class="responsive-logo"/>
+<img width="500" src="/./assets/img/overview.png" alt="drawing" class="responsive-logo"/>
 </p>
 
 #### Creating travel time oscillations is a good strategy to maximise fleet market share
 
-> We demonstrate the fleet may intentionally bring choas to our cities to maximise market share - [here](arxiv)
+> We demonstrate the fleet may intentionally bring chaos to our cities to maximise market share - [here](arxiv)
 
-What is the optimal strategy to maximise market share and convince most drivers to join CAV fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, likely to be even worse in the case when competing fleets launch aggressive campaigns deployed in our cities.
+What is the optimal strategy to maximise market share and convince most drivers to join the CAV fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operators but surprising to humans, may be frustrating enough to convince others to abandon human driving and join a fleet. Individually tailored offers (just like Uber, Amazon, or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from a monopoly, where a single operator competes with humans, which are likely to be even worse in the case when competing fleets launch aggressive campaigns deployed in our cities.
 
 <p align="center">
-<img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
+<img width="800" src="/./assets/img/oscillations.jpg" alt="drawing" />
 </p>
 
 #### Traffic assignment can be both Nash optimal and equilibrated with CAVs
 
-> New concept of Wardrop Cyclical Equiblibruim is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
+> New concept of Wardrop Cyclical Equilibrium is both optimal and fair for CAVs as we show [here](https://arxiv.org/pdf/2507.19675)
 
-Connected and Autonomous Vehicles (CAVs) open the possibility for centralised routing with full compliance, making System Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of _Wardropian cycles_, which, in contrast to previous utopian visions, makes the assignment fair on top of being optimal, which amounts to satisfaction of both Wardrop's principles. Such cycles, represented as sequences of permutations to the daily assignment matrices, always exist and equalise, after a limited number of days, average travel times among travellers (like in User Equilibrium) while preserving everyday optimality of path flows (like in System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days. 
+Connected and Autonomous Vehicles (CAVs) open the possibility for centralized routing with full compliance, making System-Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of _Wardropian cycles_, which, in contrast to previous utopian visions, ensures both fairness and optimality, thereby satisfying Wardrop's principles. Such cycles, represented as sequences of permutations in the daily assignment matrices, always exist and equalize, after a limited number of days, the average travel times among travelers (similar to User Equilibrium), while preserving the everyday optimality of path flows (similar to System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days. 
 
 <p align="center">
-<img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
+<img width="600" src="/./assets/img/grafika_latest.png" alt="drawing" />
 </p>
 
-#### How to simulate such future system
+#### How to simulate such a future system
 
-> We created [RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL) Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles - [SoftwareX](https://doi.org/10.1016/j.softx.2025.102279)
+> We created [RouteRL](https://github.com/COeXISTENCE-PROJECT/RouteRL), a Multi-Agent Reinforcement Learning framework for modeling and simulating the collective route choices of humans and autonomous vehicles - [SoftwareX](https://doi.org/10.1016/j.softx.2025.102279)
 <p align="center">
   <img src="https://github.com/COeXISTENCE-PROJECT/RouteRL/raw/main/docs/_static/logo.png" alt="drawing" width="150"/> 
 </p>
 
-RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation for the development of efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. 
+RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation to develop efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. 
   
 <p align="center">
-<img src="/./assets/img/RouteRL.jpg" width="350"/>
+<img src="/./assets/img/RouteRL.jpg" width="800"/>
 </p>
 
 #### State-of-the-art RL algorithms fail even on trivial routing tasks.
 
-> Only few of SOTA Reinforcement Learning algorithms managed to find optimal routing strategy in a trivial case with 10 AVs and two-routes as we report in this [paper](https://arxiv.org/pdf/2502.13188)
+> Only a few of the SOTA Reinforcement Learning algorithms managed to find the optimal routing strategy in a trivial case with 10 AVs and two routes, as we report in this [paper](https://arxiv.org/pdf/2502.13188)
 
-Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MARL) for simultaneous route optimization, may destabilize traffic networks, with human drivers potentially experiencing longer travel times. We study this interaction by simulating human drivers and AVs. Our experiments with standard MARL algorithms reveal that, both in simplified and complex networks, policies often fail to converge to an optimal solution or require long training periods. This problem is amplified by the fact that we cannot rely entirely on simulated training, as there are no accurate models of human routing behavior. At the same time, real-world training in cities risks destabilizing urban traffic systems, increasing externalities, such as CO2 emissions, and introducing non-stationarity as human drivers will adapt unpredictably to AV behaviors.
+Autonomous vehicles (AVs), which may utilize Multi-Agent Reinforcement Learning (MARL) for simultaneous route optimization, may destabilize traffic networks, potentially leading to longer travel times for human drivers. We study this interaction by simulating human drivers and AVs. Our experiments with standard MARL algorithms reveal that, both in simplified and complex networks, policies often fail to converge to an optimal solution or require long training periods. This problem is amplified by the fact that we cannot rely entirely on simulated training, as there are no accurate models of human routing behavior. At the same time, real-world training in cities risks destabilizing urban traffic systems, increasing externalities, such as CO2 emissions, and introducing non-stationarity as human drivers will adapt unpredictably to AV behaviors.
 
 
 <p align="center">
-<img width="350" src="/./assets/img/storyline.png"/>
+<img width="800" src="/./assets/img/storyline.png"/>
 </p>
 
 
-#### ML community shall compete to develop efficient algorithms
+#### The ML community shall compete to develop efficient algorithms
 
-> We introduced [URB](https://github.com/COeXISTENCE-PROJECT/URB) an Urban Routing Benchmark for MARL algorithms on the fleet routing tasks - [NIPS 2025](https://arxiv.org/abs/2505.17734)
+> We introduced [URB](https://github.com/COeXISTENCE-PROJECT/URB), an Urban Routing Benchmark for MARL algorithms on the fleet routing tasks - [NeurIPS 2025](https://arxiv.org/abs/2505.17734)
 <p align="center">
    <img src="https://github.com/COeXISTENCE-PROJECT/URB/raw/main/docs/urb.png" alt="drawing" width="150"/> 
 </p>
@@ -130,12 +130,12 @@ Autonomous vehicles (AVs), possibly using Multi-Agent Reinforcement Learning (MA
   3. Clarify the impact of collective CAV routing on congestion, emissions, and sustainability in future cities, equipping policymakers with solid arguments for CAV regulations.
 
 <p align="center">
-<img src="/./assets/img/urb_overview.png"  width="350"/>
+<img src="/./assets/img/urb_overview.png"  width="800"/>
 </p>
 
-#### It is better to be a good, socially aware CAV, than selfish
+#### It is better to be a good socially aware CAV than selfish
 
-> Autonomous vehicles need social awareness in reward to find optima in multi-agent reinforcement learning routing games, as we show [here](https://arxiv.org/pdf/2510.11410)
+> Autonomous vehicles need social awareness in their reward to find optima in multi-agent reinforcement learning routing games, as we show [here](https://arxiv.org/pdf/2510.11410)
 
 Previous work has shown that when multiple selfish Autonomous Vehicles (AVs) are introduced to future cities and start learning optimal routing strategies using Multi-Agent Reinforcement Learning (MARL), they may destabilize traffic systems, as they would require a significant amount of time to converge to the optimal solution, equivalent to years of real-world commuting.
 We demonstrate that moving beyond the selfish component in the reward significantly relieves this issue. If each AV, apart from minimizing its own travel time, aims to reduce its impact on the system, this will be beneficial not only for the system-wide performance but also for each individual player in this routing game.
@@ -143,33 +143,33 @@ By introducing an intrinsic reward signal based on the marginal cost matrix, we 
 Our results optimistically indicate that social awareness (i.e., including marginal costs in routing decisions) improves both the system-wide and individual performance of future urban systems with AVs.
 
 <p align="center">
-<img src="/./assets/img/marginal.png"  width="350"/>
+<img src="/./assets/img/marginal.png"  width="800"/>
 </p>
 
 
 #### Fleet strategy controls the overall system performance
 
->  In this [study](https://www.nature.com/articles/s41598-025-90783-w) we show that the strategy CAVs are allowed to adopt may result in human drivers either benefitting or being systematically disadvantaged and urban networks becoming either more or less optimal.
+>  In this [study](https://www.nature.com/articles/s41598-025-90783-w), we show that the strategy CAVs are allowed to adopt may result in human drivers either benefiting or being systematically disadvantaged and urban networks becoming either more or less optimal.
 
-Studying the simplest on the two-route bottleneck macroscopic network we discover that:
+Studying the simplest of the two-route bottleneck macroscopic network, we discover that:
 
 * The choices of CAVs that replace a given share of HDVs differ significantly from the choices of the remaining HDVs.
 * In different scenarios the average travel time of both HDVs and CAVs may increase or decrease.
 * If the fleet of CAVs applies the selfish strategy, it may improve its collective travel time at a cost to human drivers when the share of CAVs is small.
 * For a large share of CAVs, the selfish or social strategies of CAVs may result in improvement of travel times for all the drivers. This, however, comes at a price of reduced equity.
 * Human driver populations with low perception bias may be less prone to exploitation by intelligent fleets of CAVs than more diverse and less optimal populations.
-* Heavily congested systems, where the choices of HDVs and CAVs tend to be similar, may be less susceptible to exploitation by CAVs. Contrariwise, uncongested networks could be easily exploited by machines.
+* Heavily congested systems, where the choices of HDVs and CAVs tend to be similar, may be less susceptible to exploitation by CAVs. Conversely, uncongested networks could be easily exploited by machines.
 
 <p align="center">
-<img src="/./assets/img/scirep2.jpeg" width="350"/>
+<img src="/./assets/img/scirep2.jpeg" width="900"/>
 </p>
 
 #### Unsocial fleet behaviours can be detected.
 
 > Antisocial individual vehicles of a coordinated fleet will be detectable, as we prove in this [paper](https://arxiv.org/pdf/2506.22966)
 
-Detection of collectively routing fleets of vehicles in future urban systems may become important for the management of traffic, as such routing may destabilize urban networks leading to deterioration of
-driving conditions. To address this issue, in this we address two related problems:
+Detection of collectively routing fleets of vehicles in future urban systems may become important for the management of traffic, as such routing may destabilize urban networks, leading to deterioration of
+driving conditions. To address this issue, we address two related problems:
 
 * Is it possible to determine the flow of fleet vehicles on all routes given the fleet size and behaviour as well as the combined total flows?
 
@@ -181,7 +181,7 @@ We prove that the answer is **yes** for myopic fleet strategies which are more _
 Our finginds indicate that the answer is likely to be **yes** for anisocial fleet objectives and _no_ for pro-social fleet objectives. 
 
 <p align="center">
-<img src="/./assets/img/detect.jpg" width="350"/>
+<img src="/./assets/img/detect.jpg" width="800"/>
 </p>
 
 
