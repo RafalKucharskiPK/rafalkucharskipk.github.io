@@ -234,9 +234,10 @@ This content was made as part of [COeXISTENCE](https://www.rafalkucharskilab.pl/
 
 ----
 
-### Vacancies
+## Jobs
 
-We are always collaborators hungry, free to reach us out to understand more about opportunities at **coexistence@uj.edu.pl**
+We have opened positions for PhD, PostDocs and Student internships to work at Jagiellonian University in Kraków, Poland under EU funded salaries. 
+For more info reach us out at at **coexistence@uj.edu.pl** with CV/github/motivation and we will get back to you with details.
 
 ----
 
