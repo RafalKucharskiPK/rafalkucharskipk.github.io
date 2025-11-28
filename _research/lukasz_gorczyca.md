@@ -6,7 +6,7 @@ img: assets/img/person/Lukas.jpg
 importance: 1
 category: students
 author: Gorczyca
-bio: I am a data scientist in the COeXISTENCE project. As a student, I am affiliated with the Jagiellonian University, where I completed my bachelor's degree in applied mathematics, which I am currently pursuing in my master's degree. In addition, I am also studying computational mathematics for my master's degree. 
+bio: I am a data scientist in the COeXISTENCE project. I am affiliated with the Jagiellonian University, where I completed both my bachelor's and master's degree in applied mathematics. 
 arXiv:
 github: ['https://github.com/limexcyan', 'GH_Łukasz Gorczyca']
 gitlab:
@@ -18,5 +18,5 @@ researchgate:
 x: 
 ---
 
-I am a data scientist in the COeXISTENCE project. As a student, I am affiliated with the Jagiellonian University, where I completed my bachelor's degree in applied mathematics, which I am currently pursuing in my master's degree. In addition, I am also studying computational mathematics for my master's degree. My broad research interests include free probability theory, stochastic processes, machine learning in drug discovery and social data analysis. 
+I am a data scientist in the COeXISTENCE project. I am affiliated with the Jagiellonian University, where I completed both my bachelor's and master's degree in applied mathematics. My broad research interests include free probability theory, machine learning in drug discovery and social data analysis. 
 
