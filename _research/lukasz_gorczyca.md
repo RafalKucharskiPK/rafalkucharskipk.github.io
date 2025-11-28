@@ -10,7 +10,7 @@ bio: I am a data scientist in the COeXISTENCE project. I am affiliated with the 
 arXiv:
 github: ['https://github.com/limexcyan', 'GH_Łukasz Gorczyca']
 gitlab:
-google_scholar: 
+google_scholar: ['https://scholar.google.com/citations?hl=pl&user=4F7axnkAAAAJ', 'GS Łukasz Gorczyca']
 instagram:
 linkedin: ['https://www.linkedin.com/in/%C5%82ukasz-gorczyca-605339177/', 'linkedin_ŁG']
 orcid: ['https://orcid.org/0009-0009-7381-0251', '0009-0009-7381-0251']
