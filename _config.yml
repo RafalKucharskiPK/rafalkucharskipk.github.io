@@ -119,6 +119,9 @@ collections:
   seminars:
     output: true
     permalink: /seminars/:path/
+  coexistence:
+    output: true
+    permalink: /COeXISTENCE/:path/
 
 news_limit: 6
 seminars_limit: 6
@@ -135,6 +138,9 @@ defaults:
       type: seminars
     values:
       layout: seminar
+  - scope:
+    path: ""
+    type: COeXISTENCE
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
