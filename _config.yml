@@ -119,7 +119,7 @@ collections:
   seminars:
     output: true
     permalink: /seminars/:path/
-  coexistence:
+  simple_COeXISTENCE:
     output: true
     permalink: /COeXISTENCE/:path/
 
@@ -140,7 +140,7 @@ defaults:
       layout: seminar
   - scope:
     path: ""
-    type: COeXISTENCE
+    type: simple_COeXISTENCE
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
