@@ -10,7 +10,7 @@ children:
     permalink: /coexistence/#jobs
   - title: divider
   - title: COeXISTENCE
-    permalink: /research/coexistence/
+    permalink: /research/COeXISTENCE/
   - title: divider
   - title: OPUS
     permalink: /research/g_1_OPUS/
