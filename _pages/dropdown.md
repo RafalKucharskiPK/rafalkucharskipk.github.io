@@ -7,10 +7,10 @@ order: 1
 dropdown: true
 children:
   - title: jobs
-    permalink: /coexistence/#jobs
+    permalink: /COeXISTENCE/#jobs
   - title: divider
   - title: COeXISTENCE
-    permalink: /research/COeXISTENCE/
+    permalink: /research/coexistence/
   - title: divider
   - title: OPUS
     permalink: /research/g_1_OPUS/
