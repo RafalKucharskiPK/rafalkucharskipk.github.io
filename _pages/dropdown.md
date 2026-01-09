@@ -6,8 +6,6 @@ nav: true
 order: 1
 dropdown: true
 children:
-  - title: jobs
-    permalink: /COeXISTENCE/#jobs
   - title: divider
   - title: COeXISTENCE
     permalink: /research/coexistence/
