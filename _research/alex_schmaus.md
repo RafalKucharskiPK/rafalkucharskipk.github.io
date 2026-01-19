@@ -3,7 +3,7 @@ layout: member
 title: Alexander Schmaus
 description: PhD student in ride-pooling dynamics
 img: assets/img/person/alex schmaus.jpeg
-importance: 2
+importance: 4
 category: former
 author: Schmaus
 bio: I was on a research stay at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow in 2025. My PhD at the Potsdam Institute for Climate Impact Research and the Technical University of Berlin examines ride-pooling dynamics and their impact on sustainable public transport systems.
