@@ -6,7 +6,7 @@ img: assets/img/person/natello 2025.jpg
 
 
 
-importance: 2
+importance: 4
 category: former
 author: Descormier
 bio: As an engineering student at the École polytechnique in Paris, I was doing a master-level research internship within the COeXISTENCE project, on the topic of coalition games in urban networks.
