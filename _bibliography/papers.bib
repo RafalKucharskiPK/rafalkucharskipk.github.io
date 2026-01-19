@@ -87,6 +87,47 @@ keywords={Grzegorz, COeXISTENCE}
 }
 
 
+@article{akman2025impact,
+title={Impact of collective behaviors of autonomous vehicles on urban traffic dynamics: A multi-agent reinforcement learning approach},
+author={Akman, Ahmet Onur and Psarou, Anastasia and Varga, Zolt{\'a}n Gy{\"o}rgy and Jamr{\'o}z, Grzegorz and Kucharski, Rafa{\l}},
+journal={arXiv preprint arXiv:2509.22216},
+year={2025},
+abbr={arXiv},
+project={COeXISTENCE},
+keywords={Akman, COeXISTENCE, Psarou, Varga, Grzaegorz, Kucharski},
+abstract={This study examines the potential impact of reinforcement learning (RL)-enabled autonomous vehicles (AV) on urban traffic flow in a mixed traffic environment. We focus on a simplified day-to-day route choice problem in a multi-agent setting. We consider a city network where human drivers travel through their chosen routes to reach their destinations in minimum travel time. Then, we convert one-third of the population into AVs, which are RL agents employing Deep Q-learning algorithm. We define a set of optimization targets, or as we call them behaviors, namely selfish, collaborative, competitive, social, altruistic, and malicious. We impose a selected behavior on AVs through their rewards. We run our simulations using our in-house developed RL framework PARCOUR. Our simulations reveal that AVs optimize their travel times by up to 5\%, with varying impacts on human drivers' travel times depending on the AV behavior. In all cases where AVs adopt a self-serving behavior, they achieve shorter travel times than human drivers. Our findings highlight the complexity differences in learning tasks of each target behavior. We demonstrate that the multi-agent RL setting is applicable for collective routing on traffic networks, though their impact on coexisting parties greatly varies with the behaviors adopted.},
+html={https://arxiv.org/abs/2509.22216}
+}
+
+@article{psarou2025autonomous,
+title={Autonomous vehicles need social awareness to find optima in multi-agent reinforcement learning routing games},
+author={Anastasia Psarou and Łukasz Gorczyca and Dominik Gaweł and Rafał Kucharski},
+journal={arXiv preprint arXiv:2510.11410},
+year={2025},
+abbr={arXiv},
+project={COeXISTENCE},
+html={https://arxiv.org/abs/2510.11410},
+keywords={COeXISTENCE, Psarou, Kucharski, Gorczyca, Gaweł}
+abstract={Previous work has shown that when multiple selfish Autonomous Vehicles (AVs) are introduced to future cities and start learning optimal routing strategies using Multi-Agent Reinforcement Learning (MARL), they may destabilize traffic systems, as they would require a significant amount of time to converge to the optimal solution, equivalent to years of real-world commuting.
+We demonstrate that moving beyond the selfish component in the reward significantly relieves this issue. If each AV, apart from minimizing its own travel time, aims to reduce its impact on the system, this will be beneficial not only for the system-wide performance but also for each individual player in this routing game.
+By introducing an intrinsic reward signal based on the marginal cost matrix, we significantly reduce training time and achieve convergence more reliably. Marginal cost quantifies the impact of each individual action (route-choice) on the system (total travel time). Including it as one of the components of the reward can reduce the degree of non-stationarity by aligning agents' objectives. Notably, the proposed counterfactual formulation preserves the system's equilibria and avoids oscillations.
+Our experiments show that training MARL algorithms with our novel reward formulation enables the agents to converge to the optimal solution, whereas the baseline algorithms fail to do so. We show these effects in both a toy network and the real-world network of Saint-Arnoult. Our results optimistically indicate that social awareness (i.e., including marginal costs in routing decisions) improves both the system-wide and individual performance of future urban systems with AVs.}
+}
+
+@article{kucharski2025equilibria,
+title={Equilibria in routing games with connected autonomous vehicles will not be strong, as exclusive clubs may form},
+author={Kucharski, Rafa{\l} and Psarou, Anastasia and Descormier, Natello},
+journal={arXiv preprint arXiv:2510.12862},
+year={2025},
+project={COeXISTENCE},
+keywords={COeXISTENCE, Kucharski, Psarou, Descormier},
+abbr={arXiv},
+html={https://arxiv.org/abs/2510.12862},
+abstract={User Equilibrium is the standard representation of the so-called routing game in which drivers adjust their route choices to arrive at their destinations as fast as possible. Asking whether this Equilibrium is strong or not was meaningless for human drivers who did not form coalitions due to technical and behavioral constraints. This is no longer the case for connected autonomous vehicles (CAVs), which will be able to communicate and collaborate to jointly form routing coalitions.
+We demonstrate this for the first time on a carefully designed toy-network example, where a `club` of three autonomous vehicles jointly decides to deviate from the user equilibrium and benefit (arrive faster). The formation of such a club has negative consequences for other users, who are not invited to join it and now travel longer, and for the system, making it suboptimal and disequilibrated, which triggers adaptation dynamics.
+This discovery has profound implications for the future of our cities. We demonstrate that, if not prevented, CAV operators may intentionally disequilibrate traffic systems from their classic Nash equilibria, benefiting their own users and imposing costs on others. These findings suggest the possible emergence of an exclusive CAV elite, from which human-driven vehicles and non-coalition members may be excluded, potentially leading to systematically longer travel times for those outside the coalition, which would be harmful for the equity of public road networks.}
+}
+
 @article{VASIUTINA2025100142,
 title={SimFLEX: A methodology for comparative analysis of urban areas for implementing new on-demand feeder bus services},
 journal={Journal of Public Transportation},
@@ -1133,38 +1174,6 @@ year={2019},
 pages={183-196},
 keywords={article, Kucharski, Drabicki} 
 }
-
-
-@article{akhtar2019dynamic, 
-title={A dynamic, cost-aware, optimized maintenance policy for interactive exploration of linked data}, 
-author={Akhtar, Usman and Sant’Anna, Anita and Lee, Sungyoung}, 
-journal={Applied Sciences}, 
-abbr={AS},
-volume={9}, 
-number={22}, 
-pages={4818}, 
-year={2019}, 
-publisher={MDPI}, 
-keywords={article, Usman}, 
-html={https://doi.org/10.3390/app9224818}, 
-doi={10.3390/app9224818}, 
-abstract={Vast amounts of data, especially in biomedical research, are being published as Linked Data. Being able to analyze these data sets is essential for creating new knowledge and better decision support solutions. Many of the current analytics solutions require continuous access to these data sets. However, accessing Linked Data at query time is prohibitive due to high latency in searching the content and the limited capacity of current tools to connect to these databases. To reduce this overhead cost, modern database systems maintain a cache of previously searched content. The challenge with Linked Data is that databases are constantly evolving and cached content quickly becomes outdated. To overcome this challenge, we propose a Change-Aware Maintenance Policy (CAMP) for updating cached content. We propose a Change Metric that quantifies the evolution of a Linked Dataset and determines when to update cached content. We evaluate our approach on two datasets and show that CAMP can reduce maintenance costs, improve maintenance quality and increase cache hit rates compared to standard approaches.} 
-} 
-
-
-@article{akhtar2018change, 
-title={Change-aware scheduling for effectively updating linked open data caches}, 
-author={Akhtar, Usman and Razzaq, Muhammad Asif and Rehman, Ubaid Ur and Amin, Muhammad Bilal and Khan, Wajahat Ali and Huh, Eui-Nam and Lee, Sungyoung}, 
-journal={IEEE Access}, 
-volume={6}, 
-pages={65862-65873}, 
-year={2018}, 
-publisher={IEEE}, 
-doi={10.1109/ACCESS.2018.2871511}, 
-html={https://doi.org/10.1109/ACCESS.2018.2871511}, 
-keywords={article, Usman}, 
-abstract={The linked open data (LOD) cloud is a global information space with a wealth of structured facts, which are useful for a wide range of usage scenarios. The LOD cloud handles a large number of requests from applications consuming the data. However, the performance of retrieving data from LOD repositories is one of the major challenge. Overcome with this challenge, we argue that it is advantageous to maintain a local cache for efficient querying and processing. Due to the continuous evolution of the LOD cloud, local copies become outdated. In order to utilize the best resources, improvised scheduling is required to maintain the freshness of the local data cache. In this paper, we have proposed an approach to efficiently capture the changes and update the cache. Our proposed approach, called application-aware change prioritization (AACP), consists of a change metric that quantifies the changes in LOD, and a weight function that assigns importance to recent changes. We have also proposed a mechanism to update policies, called preference-aware source update (PASU), which incorporates the previous estimation of changes and establishes when the local data cache needs to be updated. In the experimental evaluation, several state-of-the-art strategies are compared against the proposed approach. The performance of each policy is measured by computing the precision and recall between the local data cache update using the policy under consideration and the data source, which is the ground truth. Both cases of a single update and iterative update are evaluated in this study. The proposed approach is reported to outperform all the other policies by achieving an F1-score of 88% and effectivity of 93.5%.} 
-} 
 
 
 @article{kucharski2018metoda,
