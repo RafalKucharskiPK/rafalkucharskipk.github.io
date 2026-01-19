@@ -14,6 +14,27 @@ project={OPUS, SUM},
 selected={true},
 }
 
+@article{ghasemi2025momas,
+title={MoMaS: Two-sided Mobility Market Simulation Framework for Modeling Platform Growth Trajectories},
+html={https://doi.org/10.1016/j.trc.2024.104990},
+doi={https://doi.org/10.1016/j.trc.2024.104990},
+author={Ghasemi, Farnoud and Kucharski, Rafal},
+journal={Transportation Research Part C: Emerging Technologies},
+volume={171},
+pages={104990},
+year={2025},
+publisher={Elsevier},
+selected={true},
+abbr={TR:C},
+abstract={Mobility platforms such as Uber and DiDi have been introduced in cities worldwide, each demonstrating varying degrees of success, employing diverse strategies, and exerting distinct impacts on urban mobility. We have observed various growth trajectories in two-sided mobility markets and understood the underlying mechanisms. However, to date, a realistic microscopic model of these markets including phenomena such as network effects has been missing. State-of-the-art methods well estimate the macroscopic equilibrium conditions in the market, but struggle to reproduce the individual human behavior behind and complex growth patterns sensitive to platform strategy and policies.
+To bridge this gap, we introduce the MoMaS (two-sided Mobility Market Simulation) framework to represent growth mechanism in two-sided mobility markets based on the realistic behavior adjustment of drivers and travelers reactive to platform strategy. In the proposed framework, traveler and driver agents learn the platform utility from multiple channels: their own experience, peers’ word-of-mouth, and the platform’s marketing, all-together constituting the agent’s perceived utility of the platform. Each of these channels is modeled and updated by our S-shaped learning model day-to-day which stabilizes, and at the same time, remains sensitive to the system changes. The platform can simulate any strategy on five levers: trip fare, commission rate, discount rate, incentive rate, and marketing.
+While detailed empirical data and actual strategies for platform growth remain largely unknown, MoMaS allows to reproduce series of plausible growth trajectories that were previously unattainable. The framework facilitates the modeling of individual-level behaviors such as reluctance, neutrality, and loyalty, alongside aggregate-level dynamics like critical mass, bandwagon effects, and both positive and negative cross-side network effects.
+We illustrate the capabilities of MoMaS through an extensive set of real-world experiments. Our results demonstrate that once the platform acquires critical mass, it triggers a significant positive cross-side network effect, accelerating growth. However, this can be reversed if a negative cross-side network effect is triggered, leading to the collapse of the platform. MoMaS is applicable for real-sized problems and available on public repository along with reproducible experiments.},
+project={OPUS, SUM},
+keywords={journalpaper, Ghasemi, Kucharski, OPUS, SUM}
+}
+
+
 @article{akman2025urb, 
 title={URB - Urban Routing Benchmark for RL-equipped Connected Autonomous Vehicles}, 
 author={Akman, Ahmet Onur and Psarou, Anastasia and Hoffmann, Micha{\l} and Gorczyca, {\L}ukasz and Kowalski, {\L}ukasz and Gora, Pawe{\l} and Jamr{\'o}z, Grzegorz and Kucharski, Rafa{\l}}, 
@@ -27,6 +48,43 @@ abstract={Connected Autonomous Vehicles (CAVs) promise to reduce congestion in f
 project={COeXISTENCE},
 selected={true}
 } 
+
+
+@article{akman2025routerl,
+title={RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles},
+author = {Ahmet Onur Akman and Anastasia Psarou and Łukasz Gorczyca and Zoltán György Varga and Grzegorz Jamróz and Rafał Kucharski},
+journal={SoftwareX},
+volume={31},
+issn={2352-7110},
+doi={https://doi.org/10.1016/j.softx.2025.102279},
+html={https://www.sciencedirect.com/science/article/pii/S2352711025002468?via%3Dihub},
+pages={102279},
+year={2025},
+abbr={SoftwareX},
+abstract = {RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation for the development of efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. This study presents a technical report on RouteRL, outlines its potential research contributions, and showcases its impact via illustrative examples. Initial findings show that human travel times could increase following the introduction of AVs in urban environments, highlighting the importance of future studies to support efficient urban mobility.},
+keywords={Akman, Psarou, Gorczyca, Varga, Jamróz, Kucharski, COeXISTENCE},
+project={COeXISTENCE},
+selected={true}
+}
+
+
+@article{jamroz2025social,
+title={Social implications of coexistence of CAVs and human drivers in the context of route choice},
+html={https://doi.org/10.1038/s41598-025-90783-w},
+doi={https://doi.org/10.1038/s41598-025-90783-w},
+author={Jamróz, Grzegorz and Akman, Ahmet Onur and Psarou, Anastasia and Varga, Zoltán György and Kucharski, Rafał},
+journal={Scientific Reports},
+volume={15},
+number={1},
+pages={1-16},
+year={2025},
+publisher={Nature Publishing Group},
+selected={true},
+abbr={Sci. Rep.},
+abstract={Suppose in a stable urban traffic system populated only by human driven vehicles (HDVs), a given proportion (e.g. 10 %) is replaced by a fleet of Connected and Autonomous Vehicles (CAVs), which share information and pursue a collective goal. Suppose these vehicles are centrally coordinated and differ from HDVs only by their collective capacities allowing them to make more efficient routing decisions before the travel on a given day begins. Suppose there is a choice between two routes and every day each driver makes a decision which route to take. Human drivers maximize their utility. CAVs might optimize different goals, such as the total travel time of the fleet. We show that in this plausible futuristic setting, the strategy CAVs are allowed to adopt may result in human drivers either benefitting or being systematically disadvantaged and urban networks becoming more or less optimal. Consequently, some regulatory measures might become indispensable.},
+project={COeXISTENCE},
+keywords={Grzegorz, COeXISTENCE}
+}
 
 
 @article{VASIUTINA2025100142,
@@ -111,23 +169,6 @@ doi={https://ieeexplore.ieee.org/abstract/document/10919911}
 }
 
 
-@article{akman2025routerl,
-title={RouteRL: Multi-agent reinforcement learning framework for urban route choice with autonomous vehicles},
-author = {Ahmet Onur Akman and Anastasia Psarou and Łukasz Gorczyca and Zoltán György Varga and Grzegorz Jamróz and Rafał Kucharski},
-journal={SoftwareX},
-volume={31},
-issn={2352-7110},
-doi={https://doi.org/10.1016/j.softx.2025.102279},
-html={https://www.sciencedirect.com/science/article/pii/S2352711025002468?via%3Dihub},
-pages={102279},
-year={2025},
-abbr={SoftwareX},
-abstract = {RouteRL is a novel framework that integrates multi-agent reinforcement learning (MARL) with a microscopic traffic simulation for the development of efficient collective route choice strategies for autonomous vehicles (AVs). The proposed framework models the daily urban route choices of driver agents of two types: human drivers, emulated using behavioral route choice models, and AVs, modeled as MARL agents optimizing their policies for a predefined objective. RouteRL aims to advance research in MARL, transport modeling, and human–AI interaction for transportation applications. This study presents a technical report on RouteRL, outlines its potential research contributions, and showcases its impact via illustrative examples. Initial findings show that human travel times could increase following the introduction of AVs in urban environments, highlighting the importance of future studies to support efficient urban mobility.},
-keywords={Akman, Psarou, Gorczyca, Varga, Jamróz, Kucharski, COeXISTENCE},
-project={COeXISTENCE},
-selected={true}
-}
-
 @article{psarou2025autonomous,
 title={Autonomous Vehicles Using Multi-Agent Reinforcement Learning for Routing Decisions Can Harm Urban Traffic},
 html={https://www.arxiv.org/abs/2502.13188},
@@ -138,44 +179,6 @@ abbr={arXiv},
 abstract={Autonomous vehicles (AVs) using Multi-Agent Reinforcement Learning (MARL) for simultaneous route optimization may destabilize traffic environments, with human drivers possibly experiencing longer travel times. We study this interaction by simulating human drivers and AVs. Our experiments with standard MARL algorithms reveal that, even in trivial cases, policies often fail to converge to an optimal solution or require long training periods. The problem is amplified by the fact that we cannot rely entirely on simulated training, as there are no accurate models of human routing behavior. At the same time, real-world training in cities risks destabilizing urban traffic systems, increasing externalities, such as CO2 emissions, and introducing non-stationarity as human drivers adapt unpredictably to AV behaviors. Centralization can improve convergence in some cases, however, it raises privacy concerns for the travelers' destination data. In this position paper, we argue that future research must prioritize realistic benchmarks, cautious deployment strategies, and tools for monitoring and regulating AV routing behaviors to ensure sustainable and equitable urban mobility systems.},
 project={COeXISTENCE},
 keywords={Psarou, Akman, Groczyca, Hoffmann, Varga, Jamróz, Kucharski, COeXISTENCE}
-}
-
-@article{jamroz2025social,
-title={Social implications of coexistence of CAVs and human drivers in the context of route choice},
-html={https://doi.org/10.1038/s41598-025-90783-w},
-doi={https://doi.org/10.1038/s41598-025-90783-w},
-author={Jamróz, Grzegorz and Akman, Ahmet Onur and Psarou, Anastasia and Varga, Zoltán György and Kucharski, Rafał},
-journal={Scientific Reports},
-volume={15},
-number={1},
-pages={1-16},
-year={2025},
-publisher={Nature Publishing Group},
-selected={true},
-abbr={Sci. Rep.},
-abstract={Suppose in a stable urban traffic system populated only by human driven vehicles (HDVs), a given proportion (e.g. 10 %) is replaced by a fleet of Connected and Autonomous Vehicles (CAVs), which share information and pursue a collective goal. Suppose these vehicles are centrally coordinated and differ from HDVs only by their collective capacities allowing them to make more efficient routing decisions before the travel on a given day begins. Suppose there is a choice between two routes and every day each driver makes a decision which route to take. Human drivers maximize their utility. CAVs might optimize different goals, such as the total travel time of the fleet. We show that in this plausible futuristic setting, the strategy CAVs are allowed to adopt may result in human drivers either benefitting or being systematically disadvantaged and urban networks becoming more or less optimal. Consequently, some regulatory measures might become indispensable.},
-project={COeXISTENCE},
-keywords={Grzegorz, COeXISTENCE}
-}
-
-@article{ghasemi2025momas,
-title={MoMaS: Two-sided Mobility Market Simulation Framework for Modeling Platform Growth Trajectories},
-html={https://doi.org/10.1016/j.trc.2024.104990},
-doi={https://doi.org/10.1016/j.trc.2024.104990},
-author={Ghasemi, Farnoud and Kucharski, Rafal},
-journal={Transportation Research Part C: Emerging Technologies},
-volume={171},
-pages={104990},
-year={2025},
-publisher={Elsevier},
-selected={true},
-abbr={TR:C},
-abstract={Mobility platforms such as Uber and DiDi have been introduced in cities worldwide, each demonstrating varying degrees of success, employing diverse strategies, and exerting distinct impacts on urban mobility. We have observed various growth trajectories in two-sided mobility markets and understood the underlying mechanisms. However, to date, a realistic microscopic model of these markets including phenomena such as network effects has been missing. State-of-the-art methods well estimate the macroscopic equilibrium conditions in the market, but struggle to reproduce the individual human behavior behind and complex growth patterns sensitive to platform strategy and policies.
-To bridge this gap, we introduce the MoMaS (two-sided Mobility Market Simulation) framework to represent growth mechanism in two-sided mobility markets based on the realistic behavior adjustment of drivers and travelers reactive to platform strategy. In the proposed framework, traveler and driver agents learn the platform utility from multiple channels: their own experience, peers’ word-of-mouth, and the platform’s marketing, all-together constituting the agent’s perceived utility of the platform. Each of these channels is modeled and updated by our S-shaped learning model day-to-day which stabilizes, and at the same time, remains sensitive to the system changes. The platform can simulate any strategy on five levers: trip fare, commission rate, discount rate, incentive rate, and marketing.
-While detailed empirical data and actual strategies for platform growth remain largely unknown, MoMaS allows to reproduce series of plausible growth trajectories that were previously unattainable. The framework facilitates the modeling of individual-level behaviors such as reluctance, neutrality, and loyalty, alongside aggregate-level dynamics like critical mass, bandwagon effects, and both positive and negative cross-side network effects.
-We illustrate the capabilities of MoMaS through an extensive set of real-world experiments. Our results demonstrate that once the platform acquires critical mass, it triggers a significant positive cross-side network effect, accelerating growth. However, this can be reversed if a negative cross-side network effect is triggered, leading to the collapse of the platform. MoMaS is applicable for real-sized problems and available on public repository along with reproducible experiments.},
-project={OPUS, SUM},
-keywords={journalpaper, Ghasemi, Kucharski, OPUS, SUM}
 }
 
 
