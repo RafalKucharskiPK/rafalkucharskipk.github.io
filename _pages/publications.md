@@ -11,11 +11,7 @@ published: true
 ---
 <div class="publications">
   {% for y in page.years %}
-    <h2 class="year">{{ y }}</h2>
-    {% for project in page.projects %}
-      <h3 class="project">{{ project }}</h3>
-      {% capture query %}@*[year=={{ y }} && project=~{{ project }}]{% endcapture %}
-      {% bibliography -f papers -q {{ query }} %}
-    {% endfor %}
+    <h2 class="year">{{y}}</h2>
+    {% bibliography -f project_papers -q @*[year={{y}}]* %}
   {% endfor %}
 </div>
