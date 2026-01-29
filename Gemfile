@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'jekyll'
 
 group :jekyll_plugins do
-    gem 'jekyll-archives' #TODO update to -v2'
+    gem 'jekyll-archives'
     gem 'jekyll-diagrams'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -16,8 +16,6 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jekyll-toc'
     gem 'jemoji'
-    # gem 'unicode_utils' -- should be already installed by jekyll
-    # gem 'webrick' -- should be already installed by jekyll
     gem 'octopress-paginate'
     gem 'faraday-retry'
 end
@@ -26,6 +24,6 @@ group :other_plugins do
     gem 'css_parser'
     gem 'feedjira'
     gem 'httparty'
-    gem 'observer'       # used by jekyll-scholar
-    gem 'ostruct'        # used by jekyll-twitter-plugin
+    gem 'observer'
+    gem 'ostruct'
 end
