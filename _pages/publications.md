@@ -13,7 +13,7 @@ published: true
 
 {% for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}} && project =~ /(SUMO|OPUS|COeXISTENCE)/] %}
+  {% bibliography -f papers -q "@*[year={{ y }} && project =~ /\\b(SUMO|OPUS|COeXISTENCE)\\b/]" %}
 {% endfor %}
 
 </div>
