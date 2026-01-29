@@ -11,7 +11,7 @@ published: true
 
 <div class="publications">
   {% bibliography -f papers
-     -q "@*[project =~ /\\b(SUMO|OPUS|COeXISTENCE)\\b/]"
+     -q @*[project =~ /\\b(SUMO|OPUS|COeXISTENCE)\\b/]
      --group_by year
      --group_order descending %}
 </div>
