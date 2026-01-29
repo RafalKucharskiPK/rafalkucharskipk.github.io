@@ -4,14 +4,17 @@ permalink: /papers/
 title: papers
 description: Explore journal papers and arXiv preprints by Rafał Kucharski and his research group at Jagiellonian University, presented in reversed chronological order. Delve into studies on transportation systems, machine learning, and urban mobility, showcasing groundbreaking insights and academic achievements.
 years: [2026, 2025, 2024, 2023, 2022, 2021, 2020]
+projects: [SUM, OPUS, COeXISTENCE]
 nav: true
 order: 4
 published: true
 ---
 
 <div class="publications">
-  {% bibliography -f papers
-     -q @*[project =~ /\\b(SUMO|OPUS|COeXISTENCE)\\b/]
-     --group_by year
-     --group_order descending %}
+  {% for y in page.years %}
+    <h2 class="year">{{y}}</h2>
+    {% for project in page.projects %}
+      {% bibliography -f papers -q @*[year={{y}} && project=^{{project}}]* %}
+    {% endfor %}
+  {% endfor %}
 </div>
