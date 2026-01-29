@@ -14,7 +14,7 @@ published: true
     <h2 class="year">{{y}}</h2>
     {% for project in page.projects %}
       <h3 class="project">{{project}}</h3>
-      {% bibliography -f papers -q @*[year=="{{y}}" && project=~"{{project}}"] %}
+      {% bibliography -f papers -q @*[year==2025] %}
     {% endfor %}
   {% endfor %}
 </div>
