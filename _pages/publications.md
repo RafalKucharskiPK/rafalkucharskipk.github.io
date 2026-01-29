@@ -10,10 +10,8 @@ published: true
 ---
 
 <div class="publications">
-
-{% for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q "@*[year={{ y }} && project =~ /\\b(SUMO|OPUS|COeXISTENCE)\\b/]" %}
-{% endfor %}
-
+  {% bibliography -f papers
+     -q "@*[project =~ /\\b(SUMO|OPUS|COeXISTENCE)\\b/]"
+     --group_by year
+     --group_order descending %}
 </div>
