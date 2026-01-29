@@ -9,13 +9,12 @@ nav: true
 order: 4
 published: true
 ---
-
 <div class="publications">
   {% for y in page.years %}
     <h2 class="year">{{y}}</h2>
     {% for project in page.projects %}
       <h3 class="project">{{project}}</h3>
-      {% bibliography -f papers -q @*[year={{y}} && project=^{{project}}] %}
+      {% bibliography -f papers -q @*[year=="{{y}}" && project=~"{{project}}"] %}
     {% endfor %}
   {% endfor %}
 </div>
