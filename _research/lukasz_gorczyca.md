@@ -18,5 +18,5 @@ researchgate:
 x: 
 ---
 
-I am a data scientist in the COeXISTENCE project. I am affiliated with the Jagiellonian University, where I completed both my bachelor's and master's degree in applied mathematics. My broad research interests include free probability theory, machine learning in drug discovery and social data analysis. 
+I am a PhD student in the COeXISTENCE project. I am affiliated with the Jagiellonian University, where I completed both bachelor's and master's degree in applied mathematics. My broad research interests include free probability theory, machine learning in drug discovery and social data analysis. 
 
