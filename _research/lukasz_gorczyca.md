@@ -4,7 +4,7 @@ title: Łukasz Gorczyca
 description:
 img: assets/img/person/Lukas.jpg
 importance: 1
-category: students
+category: PhD students
 author: Gorczyca
 bio: I am a data scientist in the COeXISTENCE project. I am affiliated with the Jagiellonian University, where I completed both my bachelor's and master's degree in applied mathematics. 
 arXiv:
