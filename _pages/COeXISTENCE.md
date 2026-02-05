@@ -76,7 +76,7 @@ some point. Thus, such groups will be exclusive, and ,as other exclusive goods, 
 What is the optimal strategy to maximise market share and convince most drivers to join CAV fleet? Surprisingly, **bringing chaos** may be quite effective. Controlled oscillations of traffic flows, predictable by fleet operator, surprising to humans may be frustrating enough to convince others to abandon human driving and join some fleet. Individually tailored offers (just like Uber, Amazon or Ryanair) leveraging on our behavioural traits may be exploitable as well, and our low expectations (due to low budget or high urgency) may enable network-wide strange assignment plans, ultimately leading to increasing market shares. Those are initial results from monopoly, where single operator competes with humans, likely to be even worse in the case when competing fleets launch aggressive campaigns deployed in our cities.
 
 <p align="center">
-<img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" />
+<img width="350" src="/./assets/img/oscillations.jpg" alt="drawing" class="responsive-img" />
 </p>
 
 #### Traffic assignment can be both Nash optimal and equilibrated with CAVs
@@ -86,7 +86,7 @@ What is the optimal strategy to maximise market share and convince most drivers 
 Connected and Autonomous Vehicles (CAVs) open the possibility for centralised routing with full compliance, making System Optimal traffic assignment attainable. However, as System Optimum makes some drivers better off than others, voluntary acceptance seems dubious. To overcome this issue, we propose a new concept of _Wardropian cycles_, which, in contrast to previous utopian visions, makes the assignment fair on top of being optimal, which amounts to satisfaction of both Wardrop's principles. Such cycles, represented as sequences of permutations to the daily assignment matrices, always exist and equalise, after a limited number of days, average travel times among travellers (like in User Equilibrium) while preserving everyday optimality of path flows (like in System Optimum). In Barcelona, 670 vehicle-hours of Price-of-Anarchy are eliminated using cycles with a median length of 11 days. 
 
 <p align="center">
-<img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" />
+<img width="350" src="/./assets/img/grafika_latest.png" alt="drawing" class="responsive-img"/>
 </p>
 
 #### How to simulate such future system
