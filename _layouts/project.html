@@ -9,7 +9,11 @@ layout: default
   </header>
 
   <article>
-    {{ content }}
+	<div class="container mt-5">
+      <div class="justified">
+         {{ content }}
+      </div>
+    </div>
   </article>
 	{% if page.project %}
       {% include project_papers.html %}
