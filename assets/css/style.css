@@ -1,3 +1,8 @@
 .justified {
   text-align:justify;
 }
+
+.responsive-img {
+  max-width: 100%;
+  height: auto;
+}
