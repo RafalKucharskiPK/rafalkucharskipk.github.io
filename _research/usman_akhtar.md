@@ -2,7 +2,7 @@
 layout: member
 title: Usman Akhtar
 description: Post Doc in computational complexity of ride-pooling problems.
-img: assets/img/person/usman_akhtar.jpg
+img: assets/img/usman akhtar.jpg
 importance: 4
 category: former
 author: Akhtar
