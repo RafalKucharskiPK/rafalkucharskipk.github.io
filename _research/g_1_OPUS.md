@@ -3,7 +3,7 @@ layout: project
 project: OPUS
 title: PostCorona Shared Mobility
 description: Ride-pooling research studies and contribution
-img: assets/img/logo_NCN.png
+img: assets/img/NCN logo poziom.jpg
 importance: 1
 category: grants
 ---
