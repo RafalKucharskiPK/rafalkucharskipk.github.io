@@ -4,7 +4,7 @@ title: Błażej Torbus
 description: Student in Applied Computer Science
 img: assets/img/person/Błażej bio.jpg
 importance: 1
-category: Students
+category: students
 author: Torbus
 bio: I am an Applied Computer Science Master's student at Jagiellonian University and an intern in the COeXISTENCE project. Currently, I am focused on feature-based urban route clustering - a topic I am also exploring in my Master's Thesis under the supervision of prof. Rafał Kucharski.
 arXiv:
