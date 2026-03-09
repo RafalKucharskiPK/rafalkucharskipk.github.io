@@ -4,7 +4,7 @@ date: 2026-03-09
 inline: true
 title: "Get Ready for the Student IT Festival 🚀"
 description: "Rafal Kucharski will take part in the Student IT Festival"
-img: https://rafalkucharskipk.github.io/assets/assets/img/sfi2026plakat.jpg
+img: https://rafalkucharskipk.github.io/assets/img/sfi2026plakat.jpg
 
 
 ---
