@@ -4,8 +4,8 @@ title: Hanna Vasiutina
 description: 
 img: assets/img/person/HV-renew.jpeg
 importance: 2
-category: PostDocs
-bio: I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
+category: former
+bio: I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands. From April 2024 to February 2026, I worked as a postdoctoral researcher in the SUM project.
 author: Vasiutina
 arXiv:
 github: ['https://github.com/anniutina', 'GH_Hanna Vasiutina']
@@ -19,6 +19,6 @@ scopus: ['https://www.scopus.com/authid/detail.uri?authorId=57215699230', 'scopu
 x: 
 --- 
 
-I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands.
+I completed my PhD in transportation at Cracow University of Technology. During my studies, I participated in the EU project CityChangerCargoBike and conducted a research internship at TU Delft in the Netherlands. From April 2024 to February 2026, I worked as a postdoctoral researcher in the SUM project.
 
 My research interests encompass the modeling of transport systems, analyzing the environmental impact of transportation, and employing mathematical and computer methods in transport and logistics.
