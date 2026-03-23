@@ -4,7 +4,7 @@ date: 2026-03-23
 inline: true
 title: "Final Stretch: SUM Project General Assembly in Kraków"
 description: "Rafal Kucharski and his coworkers took part in the final General Assembly in Kraków"
-img: hhttps://www.rafalkucharskilab.pl/assets/img/SUM%20GA.jpg
+img: https://www.rafalkucharskilab.pl/assets/img/SUM%20GA.jpg
 
 
 
