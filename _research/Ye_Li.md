@@ -5,7 +5,7 @@ description: Post Doc
 img: assets/img/Ye Li photo.png
 importance: 2
 category: PostDocs
-bio: I am an Assistant Professor at Beijing University of Technology, specializing in traffic modeling and network management.
+bio: I am an Assistant Professor at Beijing University of Technology, specializing in traffic modeling and network management. I work with the COeXISTENCE team under the National Natural Science Foundation of China–European Research Council (NSFC–ERC) Joint Programme. The purpose of my visit is to collaborate on modelling future traffic systems with autonomous vehicles, using machine learning for routing decisions.
 arXiv:
 github: 
 gitlab:
