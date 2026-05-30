@@ -29,7 +29,7 @@ Currently there is [ten of us](/group), working in two different projects, at th
 
 * and one already finished: **[NCN Opus](/research/g_1_OPUS)** - where we look at the future of ride-pooling and platform services in post-pandemic world.
 
-Feel free to reach to us for a joint seminar, collaboration or vacancies.
+Feel free to reach to us for a joint seminar, collaboration or vacancies. Find us at the Faculty of Mathematics and Computer Science – see the [map](https://www.rafalkucharskilab.pl/assets/img/Lab_map.png).
 
 
 
