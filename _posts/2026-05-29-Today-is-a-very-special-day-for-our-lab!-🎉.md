@@ -3,7 +3,7 @@ layout: post
 date: 2026-05-29
 inline: true
 title: "Today is a very special day for our lab! 🎉"
-description: "Today, two members of the Rafal Kucharski Lab officially became Doctors”
+description: "Today, two members of the Rafal Kucharski Lab officially became Doctors"
 img: https://www.rafalkucharskilab.pl/assets/pdf/Zdj%C4%99cia_PhD_defences.pdf
 
 
