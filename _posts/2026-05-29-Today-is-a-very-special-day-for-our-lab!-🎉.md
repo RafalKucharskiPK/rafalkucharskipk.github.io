@@ -3,8 +3,10 @@ layout: post
 date: 2026-05-29
 inline: true
 title: "Today is a very special day for our lab! 🎉"
-description: " Today, two members of the Rafal Kucharski Lab officially became Doctors”
-img: 
+description: "Today, two members of the Rafal Kucharski Lab officially became Doctors”
+img: https://www.rafalkucharskilab.pl/assets/pdf/Zdj%C4%99cia_PhD_defences.pdf
+
+
 
 ---
 We are proud to announce that [Michał Bujak](https://www.rafalkucharskilab.pl/research/michal_bujak/) and [Farnoud Ghasemi]( https://www.rafalkucharskilab.pl/research/farnoud_ghasemi/) have successfully defended their PhD dissertations! 👏🎓
