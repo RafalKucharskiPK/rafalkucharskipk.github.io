@@ -10,7 +10,7 @@ img: https://www.rafalkucharskilab.pl/assets/img/AAMAS2026.jpg
 
 
 ---
-Last week [Anastasia](https://www.rafalkucharskilab.pl/research/anastasia_psarou/) and [Łukasz](https://www.rafalkucharskilab.pl/research/lukasz_gorczyca/) participated in the Autonomous Agents and Multiagent Systems (AAMAS) 2026 conference, [presenting](https://www.rafalkucharskilab.pl/assets/img/AAMAS2026.jpg) the collaborative research paper [_“Autonomous Vehicles Need Social Awareness to Find Optimal Policies in MARL Routing Games”_](https://arxiv.org/abs/2510.11410).
+Last week, [Anastasia](https://www.rafalkucharskilab.pl/research/anastasia_psarou/) and [Łukasz](https://www.rafalkucharskilab.pl/research/lukasz_gorczyca/) participated in the Autonomous Agents and Multiagent Systems (AAMAS) 2026 conference, [presenting](https://www.rafalkucharskilab.pl/assets/img/AAMAS2026.jpg) the collaborative research paper [_“Autonomous Vehicles Need Social Awareness to Find Optimal Policies in MARL Routing Games”_](https://arxiv.org/abs/2510.11410).
 The study demonstrates that autonomous vehicles can improve both overall system performance and individual outcomes when, in addition to optimizing their own travel times, they take into account the impact of their decisions on other road users.
 
 The work was very well received by the research community, generating engaging discussions and valuable feedback from conference participants.
