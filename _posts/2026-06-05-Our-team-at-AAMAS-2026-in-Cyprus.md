@@ -2,7 +2,7 @@
 layout: post
 date: 2026-06-05
 inline: true
-title: "TOur Team at AAMAS 2026 in Cyprus!"
+title: "Our team at AAMAS 2026 in Cyprus!"
 description: "Research on socially aware autonomous vehicles from Rafał Kucharski’s lab presented at AAMAS 2026."
 img: https://www.rafalkucharskilab.pl/assets/img/AAMAS2026.jpg
 
