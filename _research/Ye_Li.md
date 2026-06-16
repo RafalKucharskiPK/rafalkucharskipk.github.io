@@ -3,9 +3,9 @@ layout: member
 title: Ye Li
 description: Post Doc 
 img: assets/img/Ye Li photo.png
-importance: 2
-category: PostDocs
-bio: I am an Assistant Professor at Beijing University of Technology, specializing in traffic modeling and network management. I work with the COeXISTENCE team under the National Natural Science Foundation of China–European Research Council (NSFC–ERC) Joint Programme. The purpose of my visit is to collaborate on modelling future traffic systems with autonomous vehicles, using machine learning for routing decisions.
+importance: 1
+category: former
+bio: I am an Assistant Professor at Beijing University of Technology, specializing in traffic modeling and network management. I worked with the COeXISTENCE team under the National Natural Science Foundation of China–European Research Council (NSFC–ERC) Joint Programme. The purpose of my visit was to collaborate on modelling future traffic systems with autonomous vehicles, using machine learning for routing decisions.
 arXiv:
 github: 
 gitlab:
@@ -20,4 +20,4 @@ x:
 
 I am an Assistant Professor at Beijing University of Technology, working in traffic modeling and network management. My research focuses on urban traffic control, including perimeter control, congestion pricing, and macroscopic fundamental diagram–based approaches to improve city mobility.
 
-I work with the COeXISTENCE team under the National Natural Science Foundation of China–European Research Council (NSFC–ERC) Joint Programme. The purpose of my visit is to collaborate on modelling future traffic systems with autonomous vehicles, using machine learning for routing decisions.
+I worked with the COeXISTENCE team under the National Natural Science Foundation of China–European Research Council (NSFC–ERC) Joint Programme. The purpose of my visit was to collaborate on modelling future traffic systems with autonomous vehicles, using machine learning for routing decisions.
