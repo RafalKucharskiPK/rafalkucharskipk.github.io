@@ -22,12 +22,14 @@ We study how people travel. We want to understand their travel demands and behav
 * machine learning, spatial analysis, big data analysis, pattern recognition, unsupervised learning;
 * behavioural modelling, economic discrete choice models, policy, sustainability.
 
-Currently there is [ten of us](/group), working in two different projects, at the modern campus of one of the oldest universities in Europe (est. 1364), Jagiellonian University in Kraków, Poland. We have two major projects:
+Currently there is [seven of us](/group), working at the modern campus of one of the oldest universities in Europe (est. 1364), Jagiellonian University in Kraków, Poland working on the major project:
 
-* **[ERC Starting Grant COeXISTENCE](/COeXISTENCE)**, where we simulate future of cities shared by humans and autonomous vehicles. We use reinforcement learning to optimize joint actions of collaborative machines (cars) and see how it affects the well studied complex social system of urban traffic - will it remain in the Nash Equilibrium? We do not think so, but that’s what we want to demonstrate - stay tuned,
-* **[Horizon Europe SUM project](/research/SUM)** - where we apply our in-house ride-pooling algorithms to see the potential of on-demand transit in urban areas of Jerusalem and Kraków
+* **[ERC Starting Grant COeXISTENCE](/COeXISTENCE)**, where we simulate future of cities shared by humans and autonomous vehicles. We use reinforcement learning to optimize joint actions of collaborative machines (cars) and see how it affects the well studied complex social system of urban traffic - will it remain in the Nash Equilibrium? We do not think so, but that’s what we want to demonstrate - stay tuned.
 
-* and one already finished: **[NCN Opus](/research/g_1_OPUS)** - where we look at the future of ride-pooling and platform services in post-pandemic world.
+Our previous projects include:
+* **[Horizon Europe SUM project](/research/SUM)** - where we applied our in-house ride-pooling algorithms to see the potential of on-demand transit in urban areas of Jerusalem and Kraków;
+
+* and **[NCN Opus](/research/g_1_OPUS)** - where we looked at the future of ride-pooling and platform services in post-pandemic world.
 
 Feel free to reach to us for a joint seminar, collaboration or vacancies. Find us at the Faculty of Mathematics and Computer Science – see the [map](https://www.rafalkucharskilab.pl/assets/img/Lab_map.png).
 
