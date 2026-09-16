@@ -11,8 +11,8 @@ img: https://www.rafalkucharskilab.pl/assets/img/IMG_20260901_102954722_HDR.jpg
 
 ---
 
-On 1 September, researchers and transport professionals met in Kraków at the Faculty of Mathematics and Computer Science for [Research Meets Practice](https://www.rafalkucharskilab.pl/assets/img/IMG_20260901_102954722_HDR.jpg) — a satellite workshop of the EWGT 2026 Annual Conference organised by Jagiellonian University and Centralny Port Komunikacyjny. As we take a moment to look back on the event, we are pleased to share some highlights from the inspiring discussions and exchange of ideas that took place.
-The central part of the event was the opportunity to exchange experience and engage in the discussion at 3 international roundtables🌍 
+On 1 September, researchers and transport professionals met in Kraków at the Faculty of Mathematics and Computer Science for [Research Meets Practice](https://www.rafalkucharskilab.pl/assets/img/IMG_20260901_102954722_HDR.jpg) — a satellite workshop of the EWGT 2026 Annual Conference. As we take a moment to look back on the event, we are pleased to share some highlights from the inspiring discussions and exchange of ideas that took place.
+The central part of the event organised by Jagiellonian University and Centralny Port Komunikacyjny was the opportunity to exchange experience and engage in the discussion at 3 international roundtables🌍 
 
 **🔹 Optimisation, Capacity Management and Mathematical Models**
 Experts including [Prof. Michael Hewitt](https://www.linkedin.com/in/mike-hewitt-42376/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bj7bHACQvQDOC%2FtyJDj%2F1qg%3D%3D) (Loyola University Chicago) and [Prof. Norman Weik](https://www.linkedin.com/in/norman-weik-4807b5176/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bj7bHACQvQDOC%2FtyJDj%2F1qg%3D%3D) (Technical University of Munich) discussed model calibration and uncertainty, open-source modelling, AI and machine learning, capacity constraints, and ways to prioritise major infrastructure investments. 
