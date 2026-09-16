@@ -6,7 +6,7 @@ img: assets/img/person/MB-renew.jpg
 importance: 2
 category: former
 author: Bujak
-bio: I graduated in Applied Mathematics from Jagiellonian University. During my studies, I focused primarily on probability theory, with my master’s thesis addressing the construction of the Wiener process, as well as statistics and graph theory, with my bachelor’s thesis concerning the equivalence of König’s and Hall’s theorems. I pursued a PhD in Technical Computer Science at the same university and defended my doctoral dissertation in May 2026. The title of my dissertation was _Advances in Ride-pooling: Methods from Operations Research and Network Science_.
+bio: I graduated in Applied Mathematics from Jagiellonian University. During my studies, I focused primarily on probability theory, with my master’s thesis addressing the construction of the Wiener process, as well as statistics and graph theory, with my bachelor’s thesis concerning the equivalence of König’s and Hall’s theorems. I pursued a PhD in Technical Computer Science at the same university and defended my doctoral dissertation in May 2026. The title of my dissertation was Advances in Ride-pooling: Methods from Operations Research and Network Science.
 arXiv:
 github: 
 gitlab:
@@ -18,6 +18,6 @@ researchgate:
 x: 
 ---
 
-I graduated in Applied Mathematics from Jagiellonian University. During my studies, I focused primarily on probability theory, with my master’s thesis addressing the construction of the Wiener process, as well as statistics and graph theory, with my bachelor’s thesis concerning the equivalence of König’s and Hall’s theorems. I pursued a PhD in Technical Computer Science at the same university and defended my doctoral dissertation in May 2026. The title of my dissertation was _Advances in Ride-pooling: Methods from Operations Research and Network Science_.
+I graduated in Applied Mathematics from Jagiellonian University. During my studies, I focused primarily on probability theory, with my master’s thesis addressing the construction of the Wiener process, as well as statistics and graph theory, with my bachelor’s thesis concerning the equivalence of König’s and Hall’s theorems. I pursued a PhD in Technical Computer Science at the same university and defended my doctoral dissertation in May 2026. The title of my dissertation was Advances in Ride-pooling: Methods from Operations Research and Network Science.
 
 My main field of expertise is the application of network science in the ride-pooling problem. My first contribution is the formalisation of network structures present in the algorithmic approach and the introduction of weighted structures. Later, I applied probabilistic tools to analyse the impact of behavioural heterogeneity of travellers on the system performance. Currently, I am working on the application of graph neural networks in the ride-pooling. 
