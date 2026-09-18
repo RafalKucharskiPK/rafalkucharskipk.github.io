@@ -6,7 +6,7 @@ img: assets/img/person/FG-renew.jpg
 importance: 1
 category: former
 author: Ghasemi
-bio: I was a PhD student within the Faculty of Mathematics and Computer Science at the Jagiellonian University. My PhD research under the supervision of Prof. Rafal Kucharski, focuses on studying behavioural dynamics of two-sided mobility using agent-based microsimulation.
+bio: I was a PhD student at the Faculty of Mathematics and Computer Science at Jagiellonian University. My PhD research, conducted under the supervision of Prof. Rafal Kucharski, focused on studying the behavioural dynamics of two-sided mobility markets using agent-based microsimulation. I defended my PhD thesis in May 2026. The title of my doctoral dissertation was _Agent-based Modelling of Ride-sourcing Dynamics_.
 arXiv: ['https://arxiv.org/search/cs?searchtype=author&query=Ghasemi,+F', 'arXiv_FG']
 github: 
 gitlab: 
@@ -18,7 +18,11 @@ researchgate: ['https://www.researchgate.net/profile/Farnoud-Ghasemi', 'RG_Farno
 x: 
 ---
 
-I was a PhD student within the Faculty of Mathematics and Computer Science at the Jagiellonian University. My PhD research under the supervision of Prof. Rafal Kucharski, focuses on studying behavioural dynamics of two-sided mobility using agent-based microsimulation.  
-I received my Bachelor’s degree in Civil Engineering at the University of Tabriz and completed my MSc degree in Transport Systems at the Sapienza University of Rome. I did my Master’s thesis in collaboration with CriticalMaas group of TU Delf, on the ride acceptance behavour of ride-sourcing drivers, under supervision of Prof. Guido Gentile and Prof. Rafal Kucharski. 
+I was a PhD student at the Faculty of Mathematics and Computer Science at Jagiellonian University. My PhD research, conducted under the supervision of Prof. Rafal Kucharski, focused on studying the behavioural dynamics of two-sided mobility markets using agent-based microsimulation. I defended my PhD thesis in May 2026. The title of my doctoral dissertation was _Agent-based Modelling of Ride-sourcing Dynamics_.
 
-Research interests: Transportation modeling, Mobility as a Service, Two-sided mobility market, Agent-based modelling, Multi-agent systems 
+Previously, I received my Bachelor’s degree in Civil Engineering from the University of Tabriz and completed my MSc degree in Transport Systems at Sapienza University of Rome. I conducted my Master’s thesis in collaboration with the CriticalMaas group at TU Delft, focusing on the ride acceptance behaviour of ride-sourcing drivers, under the supervision of Prof. Guido Gentile and Prof. Rafał Kucharski.
+
+Research interests: Transportation modelling, Mobility as a Service, two-sided mobility markets, agent-based modelling, multi-agent systems.
+
+
+
