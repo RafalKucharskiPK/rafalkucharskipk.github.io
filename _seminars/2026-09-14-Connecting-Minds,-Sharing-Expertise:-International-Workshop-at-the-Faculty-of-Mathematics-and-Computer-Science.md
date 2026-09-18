@@ -2,8 +2,8 @@
 layout: seminar
 date: 2026-09-14
 inline: true
-title: "Connecting Minds,&nbsp;Sharing Expertise: International Workshops at the Faculty of Mathematics and Computer Science"
-description: "Connecting Minds,&nbsp;Sharing Expertise: International Workshops at the Faculty of Mathematics and Computer Science"
+title: "Connecting Minds,&nbsp;Sharing Expertise: International Workshop at the Faculty of Mathematics and Computer Science"
+description: "Connecting Minds,&nbsp;Sharing Expertise: International Workshop at the Faculty of Mathematics and Computer Science"
       
 ---
 
