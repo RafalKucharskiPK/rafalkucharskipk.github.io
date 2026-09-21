@@ -8,7 +8,7 @@ img: assets/img/person/Yann_Dyinski.jpg
 
 
 importance: 4
-category: student
+category: students
 author: Dyinski
 bio: I am a Master's student from CentraleSupélec Paris, currently taking a gap year as a research intern at the lab. My studies focus on machine learning, applied mathematics, and physics. I am particularly interested in reinforcement learning, multi-agent systems, and their applications to urban mobility.
 arXiv:
