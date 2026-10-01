@@ -17,4 +17,4 @@ hEART is always one of those conferences we look forward to - a great place for 
 
 And while [we are enjoying this year’s edition in Paris](https://www.rafalkucharskilab.pl/assets/img/heart2026.jpg), we are already looking forward to the next one…
 
-📍 HEART 2027 will be hosted by Jagiellonian University in Kraków! 🇵🇱
+📍 hEART 2027 will be hosted by Jagiellonian University in Kraków! 🇵🇱
