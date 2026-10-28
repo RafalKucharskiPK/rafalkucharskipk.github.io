@@ -3,8 +3,8 @@ layout: member
 title: Olha Shulika
 description: Post Doc in ride-pooling for the Post-Pandemic Reality
 img: assets/img/person/OS-renew.jpeg
-importance: 3
-category: PostDocs
+importance: 2
+category: former
 bio: I was an Assistant Professor at the Faculty of Mathematics and Computer Science of Jagiellonian University in Krakow. At the time, I was working as part of a group led by Prof. Rafal Kucharski as a PI in the EU co-funded Seamless Shared Urban Mobility (SUM) project, which aimed to help cities integrate new and shared modes with public transport. Before that, I was part of the team working on the NCN Opus Grant on Shared Mobility in Pandemic Times.
 author: Shulika
 arXiv:
