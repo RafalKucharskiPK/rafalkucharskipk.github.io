@@ -1,6 +1,6 @@
 ---
 layout: seminar
-date: 2026-09-14
+date: 2026-11-12
 inline: true
 title: "Advancing Decentralized&nbsp;Multi-Agent Reinforcement Learning"
 description: "Advancing Decentralized&nbsp;Multi-Agent Reinforcement Learning"
