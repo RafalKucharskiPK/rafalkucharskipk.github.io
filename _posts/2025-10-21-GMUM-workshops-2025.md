@@ -4,7 +4,7 @@ date: 2025-10-21
 inline: true
 title: "GMUM workshops 2025"
 description: "Rafal Kucharski's LAB took part in GMUM workshops"
-img: https://rafalkucharskipk.github.io/assets/img/GMUM.jpg
+img: 
 
 
 
