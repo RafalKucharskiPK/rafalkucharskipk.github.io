@@ -4,7 +4,7 @@ date: 2025-06-11
 inline: true
 title: "Right before presenting at hEART2025"
 description: "Rafal Kucharski Lab participated in hEART2025 Conference in Munich"
-img: https://rafalkucharskipk.github.io/assets/img/hEART2025.jpg
+img: 
 
       
 ---
