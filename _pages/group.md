@@ -11,7 +11,7 @@ horizontal: false
 ---
 
 
-<center><img src="{{ site.baseurl }}/assets/img/team main.jpg" width="600" height="400"></center>
+<center><img src="{{ site.baseurl }}/assets/img/p_coexistence/zdjęcia_wizerunkowe20.jpg" width="600" height="400"></center>
 
 
 
