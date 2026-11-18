@@ -4,7 +4,7 @@ date: 2026-10-01
 inline: true
 title: "Paris, hEART 2026 and 6 works from our Lab"
 description: "Rafal Kucharski Lab is at hEART2026 in Paris, presenting six works and connecting with the global transportation research community."
-img: https://www.rafalkucharskilab.pl/assets/img/heart2026.jpg
+img: 
 
 
 
