@@ -5,7 +5,9 @@ description: PhD in real-time crodwing information for public transport
 img: 
 importance: 2
 category: former
-bio: I defended my PhD in mathematics at University of Warsaw (Poland) in 2015. My research experience includes internships at University of Heidelberg (Germany) and postdoc positions at University of Warwick (UK), University of Basel (Switzerland) and Institute of Mathematics, Polish Academy of Sciences in Warsaw. From 2023 to 2026, I was employed as a researcher in the COeXISTENCE project at Jagiellonian University, where I applied my skills and expertise in artificial intelligence to the field of transportation. My work focused on human and machine learning, as well as human–machine interaction.
+bio: I defended my PhD in mathematics at University of Warsaw (Poland) in 2015. My research experience includes internships at University of Heidelberg (Germany) and postdoc positions at University of Warwick (UK), University of Basel (Switzerland) and Institute of Mathematics, Polish Academy of Sciences in Warsaw. For 3 years I worked for COeXISTENCE, where, in addition to assisting and supervising PhD students with their projects, I contributed novel ideas related to collective routing, including the development of a new notion of competitive mediator games and monopoly results in competitive routing markets, introduction of randomised routing and demonstration that this new phenomenon may reshape city traffic and detection of collectively routing fleets of CAVs via inverse theory and bayesian methods.
+
+Check out my current projects at https://grzegorzjamroz.github.io/
 author: Jamróz
 arXiv:
 github: 
@@ -21,4 +23,6 @@ x:
 I  defended my PhD in mathematics at University of Warsaw (Poland) in 2015. My research experience includes internships at University of Heidelberg (Germany) and postdoc positions at University of Warwick (UK), University of Basel (Switzerland) and Institute of Mathematics, Polish Academy of Sciences in Warsaw. I am passionate about natural sciences, traveling, learning natural languages, cycling and hiking in the mountains (especially in the Alps). 
 
 My scientific interests revolve around mathematical modeling and analysis of real-world systems. I have developed and studied models of the biological process of cell differentiation and studied partial differential models originating in fluid mechanics. In 2023 I joined COeXISTENCE at Jagiellonian University where I was leveraging my skills and expertise in the field of artificial intelligence in transportation. My interests were focused on human and machine learning as well as human-machine interaction. 
+For 3 years I worked for COeXISTENCE, where, in addition to assisting and supervising PhD students with their projects, I contributed novel ideas related to collective routing, including the development of a new notion of competitive mediator games and monopoly results in [competitive routing markets](https://arxiv.org/abs/2608.09894), introduction of randomised routing and demonstration that this new phenomenon may reshape city traffic: https://arxiv.org/abs/2512.03524, https://arxiv.org/abs/2607.14859 and detection of collectively routing fleets of [CAVs](https://arxiv.org/abs/2506.22966) via inverse theory and bayesian methods.
 
+[Check out my current projects](https://grzegorzjamroz.github.io/) 
