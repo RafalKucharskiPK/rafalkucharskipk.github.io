@@ -6,8 +6,6 @@ img:
 importance: 2
 category: former
 bio: I defended my PhD in mathematics at University of Warsaw (Poland) in 2015. My research experience includes internships at University of Heidelberg (Germany) and postdoc positions at University of Warwick (UK), University of Basel (Switzerland) and Institute of Mathematics, Polish Academy of Sciences in Warsaw. For 3 years I worked for COeXISTENCE, where, in addition to assisting and supervising PhD students with their projects, I contributed novel ideas related to collective routing, including the development of a new notion of competitive mediator games and monopoly results in competitive routing markets, introduction of randomised routing and demonstration that this new phenomenon may reshape city traffic and detection of collectively routing fleets of CAVs via inverse theory and bayesian methods.
-
-Check out my current projects at https://grzegorzjamroz.github.io/
 author: Jamróz
 arXiv:
 github: 
